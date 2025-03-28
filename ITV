@@ -1,4 +1,3 @@
-
 {
     "lives": [
         {
@@ -16,7 +15,14 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "网络港澳台源",
+            "name": "AK港台源",
+            "type": 0,
+            "url": "http://aktv.space/live.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "港澳台源",
             "type": 0,
             "url": "https://qu.ax/vUBde.txt",
             "ua": "okhttp/3.15",
