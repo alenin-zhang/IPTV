@@ -8,21 +8,21 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "网络Guovin酒店源",
+            "name": "Guovin酒店源",
             "type": 0,
             "url": "https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "网络X源",
+            "name": "X源",
             "type": 0,
             "url": "http://live.nctv.top/x.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "网络Kx2024源",
+            "name": "Kx2024源",
             "type": 0,
             "url": "http://ttkx.cc:55/lib/kx2024.txt",
             "ua": "okhttp/3.15",
@@ -36,7 +36,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "AK港台源",
+            "name": "AKTV源",
             "type": 0,
             "url": "http://aktv.space/live.m3u",
             "ua": "okhttp/3.15",
@@ -51,7 +51,7 @@
         },
 
         {
-            "name": "小云优格TVBUS",
+            "name": "小云TVBUS",
             "type": 1,
             "url": "file://tvbus/xiaoyun.txt",
             "ua": "okhttp/3.15",
