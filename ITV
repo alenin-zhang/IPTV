@@ -89,7 +89,8 @@
             "name": "LITV直播(python)",
             "type": 3,
             "api": "https://ghproxy.net//https://raw.githubusercontent.com//doube-ba/Sub/main/live/live_litv.py",
-            "ext": {}
+            "ext": {},
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
         {
