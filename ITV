@@ -88,19 +88,19 @@
         {
             "name": "LITV直播[非大陆节点]",
             "type": 3,
-            "api": "https://ghproxy.net//https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
+            "api": "https://ghproxy.net/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
             "ext": {}
         },
         {
             "name": "快直播",
             "type": 3,
-            "api": "https://ghproxy.net//https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
+            "api": "https://ghproxy.net/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
             "ext": {}
         },
         {
             "name": "快直播体育",
             "type": 3,
-            "api": "https://ghproxy.net//https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
+            "api": "https://ghproxy.net/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
             "ext": {}
         },
 
