@@ -52,21 +52,21 @@
         {
             "name": "LALIFEIER-IPTV",
             "type": 0,
-            "url": "https://ghproxy.net//https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-酒店",
             "type": 0,
-            "url": "https://ghproxy.net//https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-组播",
             "type": 0,
-            "url": "https://ghproxy.net//https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
