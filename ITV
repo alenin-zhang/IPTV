@@ -84,6 +84,16 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+
+        {
+            "name": "LITV直播(python)",
+            "type": 3,
+            "api": "https://ghproxy.net//https://raw.githubusercontent.com//doube-ba/Sub/main/live/live_litv.py",
+            "ext": {}
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+
         {
             "name": "小云TVBUS",
             "type": 1,
@@ -175,7 +185,7 @@
             "type": 0,
             "url": "file://tvbus/ofiii.m3u",
             "ua": "okhttp/3.15",
-            "epg": ""
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date"
         }
     ],
     "hosts": [
