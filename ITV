@@ -86,9 +86,21 @@
         },
 
         {
-            "name": "LITV直播[台湾节点]",
+            "name": "LITV直播[非大陆节点]",
             "type": 3,
-            "api": "https://ghproxy.net//https://raw.githubusercontent.com//doube-ba/Sub/main/live/live_litv.py",
+            "api": "https://ghproxy.net//https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
+            "ext": {}
+        },
+        {
+            "name": "快直播",
+            "type": 3,
+            "api": "https://ghproxy.net//https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
+            "ext": {}
+        },
+        {
+            "name": "快直播体育",
+            "type": 3,
+            "api": "https://ghproxy.net//https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
             "ext": {}
         },
 
@@ -110,7 +122,7 @@
             }
         },
         {
-            "name": "金星TVBUS",
+            "name": "金星TVBUS[香港节点]",
             "type": 1,
             "url": "file://tvbus/jinxing.txt",
             "ua": "okhttp/3.15",
@@ -134,13 +146,6 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "52LITV[台湾节点]",
-            "type": 0,
-            "url": "http://xg.52sw.top/iptv/litv.php",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
             "name": "52MYTVSUPER",
             "type": 0,
             "url": "http://xg.52sw.top/play/mytvsuper/index-mytvsuper.php",
@@ -158,16 +163,9 @@
             }
         },
         {
-            "name": "52焦点(Focus TV)",
+            "name": "52焦点169源",
             "type": 0,
             "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "52欧华(ouhua TV)",
-            "type": 0,
-            "url": "http://xg.52sw.top/iptv/欧华.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
