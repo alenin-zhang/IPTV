@@ -86,21 +86,21 @@
         },
 
         {
-            "name": "LITV直播[非大陆节点]",
+            "name": "LITV直播[日港节点]",
             "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
+            "api": "./py/live_litv.py",
             "ext": {}
         },
         {
             "name": "快直播",
             "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
+            "api": "./py/kzb.py",
             "ext": {}
         },
         {
             "name": "快直播体育",
             "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
+            "api": "./py/kzbty.py",
             "ext": {}
         },
 
@@ -122,7 +122,7 @@
             }
         },
         {
-            "name": "金星TVBUS[香港节点]",
+            "name": "金星TVBUS[日港节点]",
             "type": 1,
             "url": "file://tvbus/jinxing.txt",
             "ua": "okhttp/3.15",
