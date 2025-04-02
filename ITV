@@ -86,25 +86,6 @@
         },
 
         {
-            "name": "LITV直播[日港节点]",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
-            "ext": {}
-        },
-        {
-            "name": "快直播",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
-            "ext": {}
-        },
-        {
-            "name": "快直播体育",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
-            "ext": {}
-        },
-
-        {
             "name": "小云TVBUS",
             "type": 1,
             "url": "file://tvbus/xiaoyun.txt",
@@ -138,10 +119,29 @@
             }
         },
 
+
         {
-            "name": "52快直播[低码率]",
+            "name": "LITV直播[日港节点]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
+            "ext": {}
+        },
+        {
+            "name": "快直播电视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
+            "ext": {}
+        },
+        {
+            "name": "快直播体育",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
+            "ext": {}
+        },
+        {
+            "name": "52快直播体育",
             "type": 0,
-            "url": "http://xg.52sw.top/play/kzb",
+            "url": "http://xg.52sw.top/play/kzb/ty.php",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
