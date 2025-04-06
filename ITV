@@ -29,6 +29,13 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
+            "name": "蛋蛋",
+            "type": 0,
+            "url": "https://11344.kstore.space/dd.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
             "name": "KX2024",
             "type": 0,
             "url": "http://ttkx.cc:55/lib/kx2024.txt",
