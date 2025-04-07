@@ -134,6 +134,18 @@
             "ext": {}
         },
         {
+            "name": "SMT直播[1]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt.py",
+            "ext": {}
+        },
+        {
+            "name": "SMT直播[2]",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt_proxy_001.py",
+            "ext": {}
+        },
+        {
             "name": "快直播电视",
             "type": 3,
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
