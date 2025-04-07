@@ -15,13 +15,6 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "SMARTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/smt.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
             "name": "GUOVIN酒店",
             "type": 0,
             "url": "https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
@@ -32,13 +25,6 @@
             "name": "X",
             "type": 0,
             "url": "http://live.nctv.top/x.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "蛋蛋",
-            "type": 0,
-            "url": "https://11344.kstore.space/dd.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
