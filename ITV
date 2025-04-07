@@ -15,6 +15,13 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
+            "name": "4GTV",
+            "type": 0,
+            "url": "http://4gtv.mumi.rip:9877/index.m3u8",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
             "name": "GUOVIN酒店",
             "type": 0,
             "url": "https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
