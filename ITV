@@ -17,7 +17,7 @@
         {
             "name": "SMARTV",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/SMT",
+            "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/smt.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
