@@ -15,7 +15,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "4GTV",
+            "name": "4GTV[🪜]",
             "type": 0,
             "url": "http://4gtv.mumi.rip:9877/index.m3u8",
             "ua": "okhttp/3.15",
@@ -110,7 +110,7 @@
             }
         },
         {
-            "name": "金星TVBUS[日港节点]",
+            "name": "金星TVBUS[🪜]",
             "type": 1,
             "url": "file://tvbus/jinxing.txt",
             "ua": "okhttp/3.15",
@@ -128,7 +128,7 @@
 
 
         {
-            "name": "LITV直播[日港节点]",
+            "name": "LITV直播[🪜]",
             "type": 3,
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
             "ext": {}
