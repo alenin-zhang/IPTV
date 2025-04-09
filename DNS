@@ -1,7 +1,7 @@
 {
     "lives": [
         {
-            "name": "itv",
+            "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/sln654360/itv/refs/heads/main/itv.txt",
             "ua": "okhttp/3.15",
@@ -25,11 +25,11 @@
         "raw.githubusercontent.com"
     ],
     "hosts": [
-        "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
-        "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+        "cache.ott.ystenlive.itv.cmvideo.cn=39.135.97.81",
+        "cache.ott.bestlive.itv.cmvideo.cn=39.135.97.81",
+        "cache.ott.wasulive.itv.cmvideo.cn=39.135.97.81",
+        "cache.ott.fifalive.itv.cmvideo.cn=39.135.97.81",
+        "cache.ott.hnbblive.itv.cmvideo.cn=39.135.97.81"
     ],
     "ads": [
         "static-mozai.4gtv.tv"
