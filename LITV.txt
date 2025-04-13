@@ -1,3 +1,4 @@
+新闻,#genre#
 半岛国际新闻,http://205.185.123.236:50089/litv-ftv10/index.m3u8
 ARIRANG,http://205.185.123.236:50089/4gtv-4gtv079/index.m3u8
 BloombergTV,http://205.185.123.236:50089/4gtv-live059/index.m3u8
@@ -25,6 +26,7 @@ TVBS新闻,http://205.185.123.236:50089/4gtv-4gtv072/index.m3u8
 中天新闻,http://205.185.123.236:50089/4gtv-4gtv009/index.m3u8
 新唐人亚太,http://205.185.123.236:50089/4gtv-live050/index.m3u8
 
+台湾,#genre#
 amc电影,http://205.185.123.236:50089/4gtv-4gtv017/index.m3u8
 CinemaWorld,http://205.185.123.236:50089/4gtv-live069/index.m3u8
 CI罪案侦查频道,http://205.185.123.236:50089/4gtv-live027/index.m3u8
@@ -142,6 +144,7 @@ TVBS综艺,http://205.185.123.236:50089/4gtv-live087/index.m3u8
 东森购物三,http://205.185.123.236:50089/4gtv-live048/index.m3u8
 东森购物四,http://205.185.123.236:50089/4gtv-live049/index.m3u8
 
+香港,#genre#
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
