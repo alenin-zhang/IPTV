@@ -70,6 +70,8 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+
+
         {
             "name": "小云TVBUS",
             "type": 1,
@@ -91,6 +93,22 @@
             "name": "金星TVBUS[梯子]",
             "type": 1,
             "url": "file://tvbus/jinxing.txt",
+            "ua": "okhttp/3.15",
+            "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png",
+            "core": {
+               "auth": "https://sgla.googlejt.com/v1/auth",
+               "name": "08a77819f9b7",
+               "pass": "1742653607661",
+               "sign": "163428eb20fa4b27",
+               "pkg": "com.yby.v11.singapore.tv",
+               "so": "file://tvbus/joy.so"
+            }
+        },
+        {
+            "name": "红星TVBUS[梯子]",
+            "type": 1,
+            "url": "file://tvbus/hongxing.txt",
             "ua": "okhttp/3.15",
             "epg":"http://iptv.52sw.top:668/?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png",
@@ -135,6 +153,8 @@
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
             "ext": {}
         },
+
+
         {
             "name": "52快直播体育",
             "type": 0,
