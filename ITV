@@ -203,7 +203,7 @@
         }
     ],
     "hosts": [
-        "cache.ott.*.itv.cmvideo.cn=39.135.132.221"
+        "cache.ott.*.itv.cmvideo.cn=39.135.97.80"
     ],
     "rules": [
         {
