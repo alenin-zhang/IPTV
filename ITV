@@ -36,6 +36,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "X",
+            "type": 0,
+            "url": "http://live.nctv.top/x.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "HACKSERVER",
             "type": 0,
             "url": "https://epg.hackserver.net/live.txt",
