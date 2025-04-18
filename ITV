@@ -1,7 +1,14 @@
 {
     "lives": [
         {
-            "name": "移动ITV",
+            "name": "ITV",
+            "type": 0,
+            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
+            "ua": "2724c07262457522",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "我的ITV",
             "type": 0,
             "url": "file://tvbus/dns-itv.txt",
             "ua": "okhttp/3.15",
