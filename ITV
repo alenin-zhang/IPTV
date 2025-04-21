@@ -15,7 +15,7 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "GUOVIN酒店",
+            "name": "GUOVIN-酒店",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
             "ua": "okhttp/3.15",
