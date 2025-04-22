@@ -8,6 +8,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "AKTV",
+            "type": 0,
+            "url": "http://aktv.space/live.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "港澳台",
             "type": 0,
             "url": "https://qu.ax/vUBde.txt",
