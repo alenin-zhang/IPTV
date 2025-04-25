@@ -24,7 +24,7 @@
         {
             "name": "TEST",
             "type": 0,
-            "url": "https://pastebin.com/raw/rmGTuRZL",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/TEST.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
