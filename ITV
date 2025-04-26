@@ -8,6 +8,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "ITV_beta",
+            "type": 0,
+            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
+            "ua": "c6f0eff3e697d438",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "AKTV",
             "type": 0,
             "url": "http://aktv.space/live.m3u",
