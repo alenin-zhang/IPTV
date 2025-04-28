@@ -125,20 +125,6 @@
             "ext": {}
         },
 
-        {
-            "name": "我的ITV",
-            "type": 0,
-            "url": "file://tvbus/dns-itv.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "ITV_beta",
-            "type": 0,
-            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
-            "ua": "c6f0eff3e697d438",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
 
         {
             "name": "每日全球赛事",
@@ -161,6 +147,20 @@
         },
 
 
+        {
+            "name": "我的ITV",
+            "type": 0,
+            "url": "file://tvbus/dns-itv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "ITV_beta",
+            "type": 0,
+            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
+            "ua": "c6f0eff3e697d438",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
         {
             "name": "52火星直播",
             "type": 0,
