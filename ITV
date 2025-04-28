@@ -1,19 +1,12 @@
 {
     "lives": [
         {
-            "name": "我的ITV",
-            "type": 0,
-            "url": "file://tvbus/dns-itv.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "name": "快直播电视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
+            "ext": {}
         },
-        {
-            "name": "ITV_beta",
-            "type": 0,
-            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
-            "ua": "c6f0eff3e697d438",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
+
         {
             "name": "AKTV",
             "type": 0,
@@ -22,11 +15,10 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "国内酒店",
+            "name": "香港直播",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+            "ua": "judy/5.2.1"
         },
         {
             "name": "港台直播",
@@ -39,6 +31,14 @@
             "name": "TEST",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/TEST.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+        {
+            "name": "国内酒店",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
@@ -91,12 +91,13 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+
+
         {
-            "name": "OFIII[梯子]",
+            "name": "4GTV",
             "type": 0,
-            "url": "http://160.22.143.66:8880/Sub.m3u?token=test&proxy=true",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "url": "http://docker.livednow.dpdns.org/?type=m3u",
+            "ua": "judy/5.2.1"
         },
         {
             "name": "4GTV[梯子]",
@@ -105,8 +106,6 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-
-
         {
             "name": "LITV[梯子]",
             "type": 3,
@@ -125,11 +124,27 @@
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt_proxy_001.py",
             "ext": {}
         },
+
         {
-            "name": "快直播电视",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
-            "ext": {}
+            "name": "我的ITV",
+            "type": 0,
+            "url": "file://tvbus/dns-itv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "ITV_beta",
+            "type": 0,
+            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
+            "ua": "c6f0eff3e697d438",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+        {
+            "name": "每日全球赛事",
+            "type": 0,
+            "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+            "ua": "judy/5.2.1"
         },
         {
             "name": "快直播体育",
@@ -137,8 +152,6 @@
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
             "ext": {}
         },
-
-
         {
             "name": "52快直播体育",
             "type": 0,
@@ -146,6 +159,8 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+
+
         {
             "name": "52火星直播",
             "type": 0,
