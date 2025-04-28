@@ -6,7 +6,18 @@
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
             "ext": {}
         },
-
+        {
+            "name": "SMARTV 1",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt.py",
+            "ext": {}
+        },
+        {
+            "name": "SMARTV 2",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt_proxy_001.py",
+            "ext": {}
+        },
         {
             "name": "AKTV",
             "type": 0,
@@ -15,28 +26,27 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "香港直播",
+            "name": "HK直播",
             "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
             "ua": "judy/5.2.1"
         },
         {
-            "name": "港台直播",
+            "name": "网友TEST",
+            "type": 0,
+            "url": "https://pastebin.com/raw/rmGTuRZL",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "TVJK-港台",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/gt.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "TEST",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/TEST.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-
-        {
-            "name": "国内酒店",
+            "name": "TVJK-酒店",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt",
             "ua": "okhttp/3.15",
@@ -57,16 +67,16 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "HACKSERVER",
+            "name": "IPTV365",
             "type": 0,
-            "url": "https://epg.hackserver.net/live.txt",
+            "url": "https://live.iptv365.org/live.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "IPTV365",
+            "name": "HACKSERVER",
             "type": 0,
-            "url": "https://live.iptv365.org/live.txt",
+            "url": "https://epg.hackserver.net/live.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
@@ -94,13 +104,14 @@
 
 
         {
-            "name": "4GTV",
+            "name": "4GTV 1[梯子]",
             "type": 0,
             "url": "http://docker.livednow.dpdns.org/?type=m3u",
-            "ua": "judy/5.2.1"
+            "ua": "judy/5.2.1",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "4GTV[梯子]",
+            "name": "4GTV 2[梯子]",
             "type": 0,
             "url": "http://4gtv.mumi.rip:9877/index.m3u8",
             "ua": "okhttp/3.15",
@@ -110,18 +121,6 @@
             "name": "LITV[梯子]",
             "type": 3,
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
-            "ext": {}
-        },
-        {
-            "name": "SMARTV[1]",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt.py",
-            "ext": {}
-        },
-        {
-            "name": "SMARTV[2]",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt_proxy_001.py",
             "ext": {}
         },
 
