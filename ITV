@@ -33,7 +33,7 @@
             "ext": {}
         },
         {
-            "name": "HK直播",
+            "name": "MytvSuper",
             "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
             "ua": "judy/5.2.1"
