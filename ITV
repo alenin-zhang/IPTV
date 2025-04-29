@@ -1,6 +1,13 @@
 {
     "lives": [
         {
+            "name": "我的IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/IPTV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "快直播电视",
             "type": 3,
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
@@ -147,7 +154,7 @@
 
 
         {
-            "name": "我的ITV",
+            "name": "移动ITV",
             "type": 0,
             "url": "file://tvbus/dns-itv.txt",
             "ua": "okhttp/3.15",
