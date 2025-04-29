@@ -3,7 +3,7 @@
         {
             "name": "我的IPTV",
             "type": 0,
-            "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/IPTV.txt",
+            "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/lenin.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
