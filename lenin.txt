@@ -545,6 +545,7 @@ CHANNEL V,http://171.213.133.97:8188/udp/239.93.0.157:2194
 CHANNEL V,http://171.213.133.97:8188/udp/239.93.1.7:2194
 
 
+
 台湾频道,#genre#
 TVBS,http://61.163.58.168:2005/play/forward/5?tvid=tvbshd&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
 TVBS NEWS,http://61.163.58.168:2005/play/forward/5?tvid=tvbs-news&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
@@ -1097,14 +1098,19 @@ CETV早期教育,http://14.19.168.154:4022/udp/239.77.0.180:5146
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+文物宝库,http://nctv.top/IDOEPpiryt/hntv.php?id=wwbk
+文物宝库,http://150.138.77.132:10037/hntv.php?id=wwbk
+文物宝库,http://cdn.jdshipin.com:8880/hntv.php?id=wwbk
 CETV1,http://itv.iptv1688.top:2016/itv.php?id=CETV1
 CETV2,http://itv.iptv1688.top:2016/itv.php?id=CETV2
 CETV4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
 
 
 
-
 影视频道,#genre#
+大象视界,http://nctv.top/IDOEPpiryt/hntv.php?id=xsj
+大象视界,http://150.138.77.132:10037/hntv.php?id=xsj
+大象视界,http://cdn.jdshipin.com:8880/hntv.php?id=xsj
 1905电影,http://xxwx.yoesun.com/1905dy.php?id=1905a
 1905电影,http://xxwx.yoesun.com/1905dy.php?id=1905b
 国语译制电影,http://3501776.xyz:35455/douyu/2436390
@@ -1405,53 +1411,6 @@ World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
 72指南,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch72-2.m3u8
 
 
-电影解说,#genre#
-电影解说01,http://3501776.xyz:35455/douyu/8413092
-电影解说02,http://3501776.xyz:35455/douyu/562225
-电影解说03,http://3501776.xyz:35455/douyu/8867878
-电影解说04,http://3501776.xyz:35455/douyu/8799435
-电影解说05,http://3501776.xyz:35455/douyu/4258555
-电影解说06,http://3501776.xyz:35455/douyu/8014467
-电影解说07,http://3501776.xyz:35455/douyu/8788687
-PP动漫,http://3501776.xyz:35455/douyu/9837291
-阿斗说电影,http://3501776.xyz:35455/huya/13303478
-阿钙扒瞎,http://3501776.xyz:35455/huya/15978172
-阿良说剧,http://3501776.xyz:35455/huya/20488841
-阿翔说电影,http://3501776.xyz:35455/huya/16868935
-爆笑解说,http://3501776.xyz:35455/douyu/2660125
-扁豆看电影,http://3501776.xyz:35455/huya/16028551
-斌哥漫说,http://3501776.xyz:35455/huya/18632116
-嫦娥撩电影,http://3501776.xyz:35455/huya/18201106
-大象放映室,http://3501776.xyz:35455/huya/21277391
-电影狂人,http://3501776.xyz:35455/huya/18715610
-疯狂解说家,http://3501776.xyz:35455/huya/18366196
-顾久撩电影,http://3501776.xyz:35455/huya/16422212
-虎妞说电影,http://3501776.xyz:35455/huya/20343144
-鸡哥说电影,http://3501776.xyz:35455/douyu/5067952
-柯南,http://3501776.xyz:35455/douyu/9065082
-科幻FANS,http://3501776.xyz:35455/douyu/3508304
-科幻梦工场,http://3501776.xyz:35455/huya/15152155
-亮哥讲电影,http://3501776.xyz:35455/huya/16144175
-刘老师说电影,http://3501776.xyz:35455/douyu/8317926
-鹿哥电影,http://3501776.xyz:35455/huya/24396360
-淼漫迷,http://3501776.xyz:35455/douyu/9455567
-牛叔看大片,http://3501776.xyz:35455/douyu/2758565
-培根悖论唠唠嗑,http://3501776.xyz:35455/douyu/5354713
-骑毛驴的八戒,http://3501776.xyz:35455/douyu/1979257
-哇塞王美丽,http://3501776.xyz:35455/douyu/6725858
-乌贼说电影,http://3501776.xyz:35455/huya/16604522
-小川侃电影,http://3501776.xyz:35455/huya/15870999
-小冉看电影,http://3501776.xyz:35455/huya/17341907
-小涛讲电影,http://3501776.xyz:35455/douyu/8415464
-续哥说电影,http://3501776.xyz:35455/huya/24396472
-吟笑派,http://3501776.xyz:35455/douyu/2987100
-鱼丸电影,http://3501776.xyz:35455/huya/16615910
-宇哥讲电影,http://3501776.xyz:35455/douyu/8651489
-宇宙无敌韩三金,http://3501776.xyz:35455/douyu/3194372
-越哥说电影,http://3501776.xyz:35455/huya/15894162
-美剧解说轮播,http://3501776.xyz:35455/douyu/9643264
-经典美剧解说,http://3501776.xyz:35455/douyu/9123570
-
 
 体育频道,#genre#
 车迷频道,http://111.72.202.78:7088/udp/239.252.220.215:5140
@@ -1539,3 +1498,50 @@ TENNIS CHANNEL (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
+
+电影解说,#genre#
+电影解说01,http://3501776.xyz:35455/douyu/8413092
+电影解说02,http://3501776.xyz:35455/douyu/562225
+电影解说03,http://3501776.xyz:35455/douyu/8867878
+电影解说04,http://3501776.xyz:35455/douyu/8799435
+电影解说05,http://3501776.xyz:35455/douyu/4258555
+电影解说06,http://3501776.xyz:35455/douyu/8014467
+电影解说07,http://3501776.xyz:35455/douyu/8788687
+PP动漫,http://3501776.xyz:35455/douyu/9837291
+阿斗说电影,http://3501776.xyz:35455/huya/13303478
+阿钙扒瞎,http://3501776.xyz:35455/huya/15978172
+阿良说剧,http://3501776.xyz:35455/huya/20488841
+阿翔说电影,http://3501776.xyz:35455/huya/16868935
+爆笑解说,http://3501776.xyz:35455/douyu/2660125
+扁豆看电影,http://3501776.xyz:35455/huya/16028551
+斌哥漫说,http://3501776.xyz:35455/huya/18632116
+嫦娥撩电影,http://3501776.xyz:35455/huya/18201106
+大象放映室,http://3501776.xyz:35455/huya/21277391
+电影狂人,http://3501776.xyz:35455/huya/18715610
+疯狂解说家,http://3501776.xyz:35455/huya/18366196
+顾久撩电影,http://3501776.xyz:35455/huya/16422212
+虎妞说电影,http://3501776.xyz:35455/huya/20343144
+鸡哥说电影,http://3501776.xyz:35455/douyu/5067952
+柯南,http://3501776.xyz:35455/douyu/9065082
+科幻FANS,http://3501776.xyz:35455/douyu/3508304
+科幻梦工场,http://3501776.xyz:35455/huya/15152155
+亮哥讲电影,http://3501776.xyz:35455/huya/16144175
+刘老师说电影,http://3501776.xyz:35455/douyu/8317926
+鹿哥电影,http://3501776.xyz:35455/huya/24396360
+淼漫迷,http://3501776.xyz:35455/douyu/9455567
+牛叔看大片,http://3501776.xyz:35455/douyu/2758565
+培根悖论唠唠嗑,http://3501776.xyz:35455/douyu/5354713
+骑毛驴的八戒,http://3501776.xyz:35455/douyu/1979257
+哇塞王美丽,http://3501776.xyz:35455/douyu/6725858
+乌贼说电影,http://3501776.xyz:35455/huya/16604522
+小川侃电影,http://3501776.xyz:35455/huya/15870999
+小冉看电影,http://3501776.xyz:35455/huya/17341907
+小涛讲电影,http://3501776.xyz:35455/douyu/8415464
+续哥说电影,http://3501776.xyz:35455/huya/24396472
+吟笑派,http://3501776.xyz:35455/douyu/2987100
+鱼丸电影,http://3501776.xyz:35455/huya/16615910
+宇哥讲电影,http://3501776.xyz:35455/douyu/8651489
+宇宙无敌韩三金,http://3501776.xyz:35455/douyu/3194372
+越哥说电影,http://3501776.xyz:35455/huya/15894162
+美剧解说轮播,http://3501776.xyz:35455/douyu/9643264
+经典美剧解说,http://3501776.xyz:35455/douyu/9123570
