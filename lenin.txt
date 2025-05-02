@@ -1,7 +1,3 @@
-
-Logo=https://epg.v1.mk/logo/%s.png
-
-
 4K,#genre#
 爱上4K,http://111.72.202.130:7088/udp/239.252.220.212:5140
 爱上4K,http://www.lizhinas.top:1009/udp/239.252.220.212:5140
