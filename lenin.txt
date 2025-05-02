@@ -222,6 +222,23 @@ CCTV14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
 CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
+CCTV1,http://sh.lnott.top:880/dx01.m3u8
+CCTV2,http://sh.lnott.top:880/dx02.m3u8
+CCTV3,http://sh.lnott.top:880/dx03.m3u8
+CCTV4,http://sh.lnott.top:880/dx04.m3u8
+CCTV5,http://sh.lnott.top:880/dx05.m3u8
+CCTV6,http://sh.lnott.top:880/dx06.m3u8
+CCTV7,http://sh.lnott.top:880/dx07.m3u8
+CCTV8,http://sh.lnott.top:880/dx08.m3u8
+CCTV9,http://sh.lnott.top:880/dx09.m3u8
+CCTV10,http://sh.lnott.top:880/dx10.m3u8
+CCTV11,http://sh.lnott.top:880/dx11.m3u8
+CCTV12,http://sh.lnott.top:880/dx12.m3u8
+CCTV13,http://sh.lnott.top:880/dx13.m3u8
+CCTV14,http://sh.lnott.top:880/dx14.m3u8
+CCTV15,http://sh.lnott.top:880/dx15.m3u8
+CCTV16,http://sh.lnott.top:880/dx16.m3u8
+CCTV17,http://sh.lnott.top:880/dx17.m3u8
 
 
 大陆卫视,#genre#
