@@ -8,6 +8,20 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "ITV_beta",
+            "type": 0,
+            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
+            "ua": "d6f0e3f3e627d430",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "网页IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/web.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "快直播电视",
             "type": 3,
             "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
@@ -160,13 +174,8 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-        {
-            "name": "ITV_beta",
-            "type": 0,
-            "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
-            "ua": "d6f0e3f3e627d430",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
+
+
         {
             "name": "52火星直播",
             "type": 0,
