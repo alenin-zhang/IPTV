@@ -11,7 +11,7 @@
             "name": "ITV_beta",
             "type": 0,
             "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
-            "ua": "d6f0e3f3e627d430",
+            "ua": "d6f0e3f3e627d503",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
@@ -63,6 +63,13 @@
             "name": "网友TEST",
             "type": 0,
             "url": "https://pastebin.com/raw/rmGTuRZL",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "IILL.TOP",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
