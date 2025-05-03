@@ -5,21 +5,21 @@
             "type": 0,
             "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/lenin.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "ITV_beta",
             "type": 0,
             "url": "https://itv-list.myukj.cn/list/itv_beta.m3u",
             "ua": "d6f0e3f3e627d503",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "网页IPTV",
             "type": 0,
             "url": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/web.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "快直播电视",
@@ -32,14 +32,14 @@
             "type": 0,
             "url": "http://aktv.space/live.m3u",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "4GTV[直梯]",
             "type": 0,
             "url": "http://4gtv.mumi.rip:9877/index.m3u8",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "SMARTV 1",
@@ -64,77 +64,77 @@
             "type": 0,
             "url": "https://pastebin.com/raw/rmGTuRZL",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "IILL.TOP",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "TVJK-港台",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/gt.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "TVJK-酒店",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "GUOVIN-酒店",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "X",
             "type": 0,
             "url": "http://live.nctv.top/x.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "IPTV365",
             "type": 0,
             "url": "https://live.iptv365.org/live.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "HACKSERVER",
             "type": 0,
             "url": "https://epg.hackserver.net/live.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-IPTV",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-酒店",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-组播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
 
@@ -143,7 +143,7 @@
             "type": 0,
             "url": "http://docker.livednow.dpdns.org/?type=m3u",
             "ua": "judy/5.2.1",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LITV[云梯]",
@@ -170,7 +170,7 @@
             "type": 0,
             "url": "http://xg.52sw.top/play/kzb/ty.php",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
 
@@ -179,7 +179,7 @@
             "type": 0,
             "url": "file://tvbus/dns-itv.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
 
 
@@ -188,7 +188,7 @@
             "type": 0,
             "url": "http://xg.52sw.top/play/hxds/",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
             "header": {
                 "Referer": "https://www.kds.tw/"
             }
@@ -198,7 +198,7 @@
             "type": 0,
             "url": "file://tvbus/ofiii.m3u",
             "ua": "okhttp/3.15",
-             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         }
     ],
     "hosts": [
