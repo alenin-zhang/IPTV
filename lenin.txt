@@ -572,6 +572,7 @@ CHANNEL V,http://171.213.133.97:8188/udp/239.93.1.7:2194
 
 
 台湾频道,#genre#
+东森财经,http://108.181.20.197/livehttpplay?channel_id=20078
 东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082
 非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034
 华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086
@@ -608,7 +609,6 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 博斯运动2,http://108.181.20.197/livehttpplay?channel_id=20311
 采昌影视,http://108.181.20.197/livehttpplay?channel_id=20141
 大爱,http://108.181.20.197/livehttpplay?channel_id=20032
-东森财经,http://108.181.20.197/livehttpplay?channel_id=20078
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森电影,http://108.181.20.197/livehttpplay?channel_id=20077
 东森戏剧,http://108.181.20.197/livehttpplay?channel_id=20072
