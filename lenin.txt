@@ -904,8 +904,9 @@ CETV4,http://nxlj.cn:1688/udp/239.45.1.50:5140
 影视频道,#genre#
 大象视界,http://nctv.top/IDOEPpiryt/hntv.php?id=xsj
 大象视界,http://cdn.jdshipin.com:8880/hntv.php?id=xsj
-1905电影,http://xxwx.yoesun.com/1905dy.php?id=1905a
-1905电影,http://xxwx.yoesun.com/1905dy.php?id=1905b
+1905电影1,http://xxwx.yoesun.com/1905dy.php?id=1905a
+1905电影1,http://150.138.77.132:10037/1905电影网.php?id=1905
+1905电影2,http://120.76.248.139/live/lunbo/ssdy.m3u8
 国语译制电影,http://3501776.xyz:35455/douyu/2436390
 邵氏影院,http://3501776.xyz:35455/douyu/4246519
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
