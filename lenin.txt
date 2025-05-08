@@ -13,6 +13,7 @@ Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc
 欢笑剧场4K,http://nxlj.cn:1688/udp/239.45.1.4:5140
 CCTV16 4K,http://nxlj.cn:1688/udp/239.45.0.12:5140
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+北京卫视4K,http://124.222.114.206/bj4kdl.php
 北京纪实8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
@@ -572,15 +573,34 @@ CHANNEL V,http://171.213.146.24:8188/udp/239.93.1.7:2194
 
 
 台湾频道,#genre#
+TVBS,http://47.108.195.225:96/yhplay/gat.php?type=3&id=tvbs&key=b2ab0a649c6c80cbf5b2f702e889db4d
+TVBS新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=tvbs-news&key=03658eed7d3ff3680b5f806bf42bb1e6
+中天新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=cti-news&key=9816d5c48756e559fc223a605bc0cda7
+中天新闻2,http://ocsystech.com:96/yhplay/gat.php?type=1&id=cti&key=3e38dbf3ed40bde6481456d3d3a15b3a
 东森财经,http://108.181.20.197/livehttpplay?channel_id=20078
+东森财经,http://47.108.195.225:96/yhplay/gat.php?type=3&id=ebc-finance&key=79974efe9d4b7e05011a0ff04d0609f3
 东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082
+东森新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=ebc-news&key=8e4071cef5d95acd6260e0c2cee1bd4e
 非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034
+非凡新闻,http://47.108.195.225:96/yhplay/gat.php?type=3&id=unique-news&key=e8ceb5671d8772fa0ba224399aea454c
 华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086
+华视新闻,http://47.108.195.225:96/yhplay/gat.php?type=3&id=cts-news&key=5c73165fc3b491eab388d2f2a3ee3975
+寰宇财经,http://ocsystech.com:96/yhplay/gat.php?type=1&id=global-finance&key=f30889838017734fa6a2c4e72035a251
+寰宇新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=global-news&key=bc6b61d4aca0c7526577321fd6459433
+寰宇新闻台湾,http://ocsystech.com:96/yhplay/gat.php?type=1&id=global-news-tw&key=b379e09141fd637ce885b10f844e1225
+镜新闻,http://47.108.195.225:96/yhplay/gat.php?type=3&id=mnews&key=d09dc5043bc969f6385fe0e742e9477b
 民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097
+民视新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=ftv-news&key=a83059c396cc1f68222d59aa879bc0ba
 倪珍播新闻,http://108.181.20.197/livehttpplay?channel_id=20043
 年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033
+年代新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=era-news&key=335898fdec5dbc5ede6d30499ae2a0c6
+三立iNEWS,http://ocsystech.com:96/yhplay/gat.php?type=1&id=settv-inews&key=206dbbe26c7177376731eef7b2eec68e
 三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
+三立新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=settv-news&key=66e03e32a29186143cab47b0f40dc9e9
+台视财经,http://47.108.195.225:96/yhplay/gat.php?type=3&id=ttv-finance&key=cc395f4bd151a303a3fe2cca0736337f
+台视新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=ttv-news&key=72d7a1781fb694a5920835db326a5384
 壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
+中视新闻,http://ocsystech.com:96/yhplay/gat.php?type=1&id=ctv-news&key=8baa97a08e5955691b1a11a2711ec7fb
 BBC EARTH,http://108.181.20.197/livehttpplay?channel_id=20044
 CATCHPLAY,http://108.181.20.197/livehttpplay?channel_id=10127
 CINEMAWORLD,http://108.181.20.197/livehttpplay?channel_id=20047
