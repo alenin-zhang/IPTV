@@ -14,6 +14,7 @@ Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc
 百事通4K纪实,http://nxlj.cn:1688/udp/239.45.1.10:5140
 欢笑剧场4K,http://nxlj.cn:1688/udp/239.45.1.4:5140
 CCTV16 4K,http://nxlj.cn:1688/udp/239.45.0.12:5140
+CCTV16 4K,http://ycsj.aguihome.com:4022/udp/233.50.201.63:5140
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 北京卫视4K,http://124.222.114.206/bj4kdl.php
 北京纪实8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
@@ -251,6 +252,56 @@ CCTV14,http://223.72.11.43:8022/udp/228.1.1.31:8132
 CCTV15,http://223.72.11.43:8022/udp/228.1.1.183:8136
 CCTV16,http://223.72.11.43:8022/udp/228.1.1.215:8002
 CCTV17,http://223.72.11.43:8022/udp/228.1.1.181:8144
+CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.200.99:5140
+CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.200.130:5140
+CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.200.143:5140
+CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.201.118:5140
+CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.201.222:5140
+CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.201.1:5140
+CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.200.25:5140
+CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.200.100:5140
+CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.201.119:5140
+CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.201.2:5140
+CCTV3,http://ycsj.aguihome.com:4022/udp/233.50.200.107:5140
+CCTV3,http://ycsj.aguihome.com:4022/udp/233.50.201.196:5140
+CCTV4,http://ycsj.aguihome.com:4022/udp/233.50.200.101:5140
+CCTV4,http://ycsj.aguihome.com:4022/udp/233.50.201.4:5140
+CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.200.108:5140
+CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.201.197:5140
+CCTV5+,http://ycsj.aguihome.com:4022/udp/233.50.201.220:5140
+CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.201.17:5140
+CCTV6,http://ycsj.aguihome.com:4022/udp/233.50.200.109:5140
+CCTV6,http://ycsj.aguihome.com:4022/udp/233.50.201.198:5140
+CCTV6,http://ycsj.aguihome.com:4022/udp/233.50.201.18:5140
+CCTV7,http://ycsj.aguihome.com:4022/udp/233.50.200.24:5140
+CCTV7,http://ycsj.aguihome.com:4022/udp/233.50.200.102:5140
+CCTV7,http://ycsj.aguihome.com:4022/udp/233.50.201.120:5140
+CCTV7,http://ycsj.aguihome.com:4022/udp/233.50.201.7:5140
+CCTV8,http://ycsj.aguihome.com:4022/udp/233.50.200.110:5140
+CCTV8,http://ycsj.aguihome.com:4022/udp/233.50.201.199:5140
+CCTV8,http://ycsj.aguihome.com:4022/udp/233.50.201.19:5140
+CCTV9,http://ycsj.aguihome.com:4022/udp/233.50.200.23:5140
+CCTV9,http://ycsj.aguihome.com:4022/udp/233.50.201.121:5140
+CCTV10,http://ycsj.aguihome.com:4022/udp/233.50.200.22:5140
+CCTV10,http://ycsj.aguihome.com:4022/udp/233.50.201.122:5140
+CCTV10,http://ycsj.aguihome.com:4022/udp/233.50.201.10:5140
+CCTV11,http://ycsj.aguihome.com:4022/udp/233.50.201.11:5140
+CCTV12,http://ycsj.aguihome.com:4022/udp/233.50.200.21:5140
+CCTV12,http://ycsj.aguihome.com:4022/udp/233.50.201.123:5140
+CCTV12,http://ycsj.aguihome.com:4022/udp/233.50.201.12:5140
+CCTV13,http://ycsj.aguihome.com:4022/udp/233.50.200.111:5140
+CCTV13,http://ycsj.aguihome.com:4022/udp/233.50.201.246:5140
+CCTV13,http://ycsj.aguihome.com:4022/udp/233.50.201.13:5140
+CCTV14,http://ycsj.aguihome.com:4022/udp/233.50.200.103:5140
+CCTV14,http://ycsj.aguihome.com:4022/udp/233.50.200.20:5140
+CCTV14,http://ycsj.aguihome.com:4022/udp/233.50.201.124:5140
+CCTV14,http://ycsj.aguihome.com:4022/udp/233.50.201.14:5140
+CCTV15,http://ycsj.aguihome.com:4022/udp/233.50.201.15:5140
+CCTV16,http://ycsj.aguihome.com:4022/udp/233.50.200.112:5140
+CCTV16,http://ycsj.aguihome.com:4022/udp/233.50.201.192:5140
+CCTV17,http://ycsj.aguihome.com:4022/udp/233.50.200.113:5140
+CCTV17,http://ycsj.aguihome.com:4022/udp/233.50.201.35:5140
+CCTV发现之旅,http://ycsj.aguihome.com:4022/udp/233.50.201.98:5140
 
 
 大陆卫视,#genre#
@@ -560,6 +611,76 @@ CCTV17,http://223.72.11.43:8022/udp/228.1.1.181:8144
 浙江卫视,http://223.72.11.43:8022/udp/228.1.1.13:8036
 重庆卫视,http://223.72.11.43:8022/udp/228.1.1.210:8160
 大湾区卫视,http://223.72.11.43:8022/udp/228.1.1.142:8002
+安徽卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.106:5140
+安徽卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.113:5140
+安徽卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.62:5140
+北京卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.179:5140
+北京卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.107:5140
+北京卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.40:5140
+兵团卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.72:5140
+东方卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.146:5140
+东方卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.125:5140
+东方卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.68:5140
+东南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.146:5140
+东南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.58:5140
+甘肃卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.149:5140
+广东卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.149:5140
+广东卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.187:5140
+广东卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.102:5140
+广东卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.56:5140
+广西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.49:5140
+贵州卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.142:5140
+贵州卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.69:5140
+海南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.55:5140
+河北卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.105:5140
+河北卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.140:5140
+河北卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.50:5140
+河南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.144:5140
+河南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.44:5140
+黑龙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.189:5140
+黑龙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.115:5140
+黑龙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.42:5140
+湖北卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.147:5140
+湖北卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.114:5140
+湖北卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.43:5140
+湖南卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.190:5140
+湖南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.103:5140
+湖南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.52:5140
+吉林卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.48:5140
+江苏卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.144:5140
+江苏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.106:5140
+江苏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.41:5140
+江西卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.119:5140
+江西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.145:5140
+江西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.53:5140
+辽宁卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.141:5140
+辽宁卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.60:5140
+内蒙古卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.148:5140
+宁夏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.57:5140
+青海卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.65:5140
+山东卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.105:5140
+山东卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.64:5140
+山西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.51:5140
+陕西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.59:5140
+深圳卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.188:5140
+深圳卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.101:5140
+深圳卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.45:5140
+四川卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.118:5140
+四川卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.139:5140
+四川卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.61:5140
+天津卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.104:5140
+天津卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.104:5140
+天津卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.47:5140
+西藏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.70:5140
+云南卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.115:5140
+云南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.46:5140
+浙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.145:5140
+浙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.231:5140
+浙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.100:5140
+浙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.27:5140
+重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
+重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.143:5140
+重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.66:5140
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=a5a3a04e1720508811
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
@@ -567,6 +688,7 @@ CCTV17,http://223.72.11.43:8022/udp/228.1.1.181:8144
 
 
 香港频道,#genre#
+凤凰风直播,https://play-flive.ifeng.com/flive/FLIVE_TX_R_0GF9H3XLSLC.m3u8
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
@@ -605,9 +727,11 @@ C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 凤凰中文,http://171.213.128.73:8188/udp/239.93.0.162:2192
 星空卫视,http://171.213.128.73:8188/udp/239.93.0.156:2193
 星空卫视,http://171.213.128.73:8188/udp/239.93.1.10:2193
-CHANNEL V,http://171.213.128.73:8188/udp/239.93.0.157:2194
-CHANNEL V,http://171.213.128.73:8188/udp/239.93.1.7:2194
-
+凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140
+凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.200.42:5140
+凤凰中文,http://ycsj.aguihome.com:4022/udp/233.50.202.35:5140
+凤凰资讯,http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140
+凤凰资讯,http://ycsj.aguihome.com:4022/udp/233.50.202.36:5140
 
 
 台湾频道,#genre#
@@ -707,9 +831,11 @@ CBS NEWS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d5
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNN,https://stream1.freetv.fun/cnn-1.m3u8
-FOX NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 GLOBAL NEWS,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 NEWSMAX,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NEWSMAX2,https://newsmax-samsungus.amagi.tv/playlist.m3u8
+TYT,https://tyt-samsungus.amagi.tv/playlist.m3u8
 TRT WORLD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 TRT WORLD,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 NHK WORLD JAPAN,http://61.221.215.25:8800/hls/51/index.m3u8
@@ -760,9 +886,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 证券服务,http://14.117.233.4:9001/udp/239.77.1.135:5146
 财富天下,http://223.72.11.43:8022/udp/228.1.1.90:9136
 北京财经,http://223.72.11.43:8022/udp/228.1.1.197:8000
-第一财经,http://www.jeremyoto.com:82/udp/233.50.200.125:5140
-第一财经,http://xrhui.f3322.org:8888/udp/233.50.200.125:5140
 第一财经,http://ycsj.aguihome.com:4022/udp/233.50.200.125:5140
+第一财经,http://xrhui.f3322.org:8888/udp/233.50.200.125:5140
+第一财经,http://www.jeremyoto.com:82/udp/233.50.200.125:5140
 
 
 
@@ -961,11 +1087,28 @@ CETV4,http://223.72.11.43:8022/udp/228.1.1.99:4120
 中国交通,http://223.72.11.43:8022/udp/228.1.1.222:8002
 北京生活,http://223.72.11.43:8022/udp/228.1.1.198:8000
 北京纪实,http://223.72.11.43:8022/udp/228.1.1.196:8000
+CETV1,http://ycsj.aguihome.com:4022/udp/233.50.201.75:5140
+CETV4,http://ycsj.aguihome.com:4022/udp/233.50.200.162:5140
+CETV4,http://ycsj.aguihome.com:4022/udp/233.50.201.172:5140
+北京纪实,http://ycsj.aguihome.com:4022/udp/233.50.202.34:5140
+茶频道,http://ycsj.aguihome.com:4022/udp/233.50.200.124:5140
+茶频道,http://ycsj.aguihome.com:4022/udp/233.50.201.188:5140
+法治天地,http://ycsj.aguihome.com:4022/udp/233.50.200.120:5140
+法治天地,http://ycsj.aguihome.com:4022/udp/233.50.201.191:5140
+环球旅游,http://ycsj.aguihome.com:4022/udp/233.50.202.31:5140
+金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
+金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.201.186:5140
+乐游,http://ycsj.aguihome.com:4022/udp/233.50.200.148:5140
+乐游,http://ycsj.aguihome.com:4022/udp/233.50.201.185:5140
+生活时尚,http://ycsj.aguihome.com:4022/udp/233.50.200.15:5140
+生活时尚,http://ycsj.aguihome.com:4022/udp/233.50.201.187:5140
+优优宝贝,http://ycsj.aguihome.com:4022/udp/233.50.202.24:5140
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 文物宝库,http://nctv.top/IDOEPpiryt/hntv.php?id=wwbk
 文物宝库,http://cdn.jdshipin.com:8880/hntv.php?id=wwbk
+Xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
 影视频道,#genre#
@@ -1169,28 +1312,43 @@ CHC影迷电影,http://171.213.128.73:8188/udp/239.93.42.5:5140
 星影,http://223.72.11.43:8022/udp/228.1.1.175:4120
 重温经典,http://223.72.11.43:8022/udp/228.1.1.237:8002
 北京影视,http://223.72.11.43:8022/udp/228.1.1.190:8000
+中国蓝直播,http://ycsj.aguihome.com:4022/udp/233.50.201.108:5140
+轮播频道,http://ycsj.aguihome.com:4022/udp/233.50.201.116:5140
+轮播频道,http://ycsj.aguihome.com:4022/udp/233.50.201.117:5140
+动漫秀场,http://ycsj.aguihome.com:4022/udp/233.50.200.12:5140
+动漫秀场,http://ycsj.aguihome.com:4022/udp/233.50.201.184:5140
+都市剧场,http://ycsj.aguihome.com:4022/udp/233.50.200.11:5140
+都市剧场,http://ycsj.aguihome.com:4022/udp/233.50.201.190:5140
+哈哈炫动,http://ycsj.aguihome.com:4022/udp/233.50.201.74:5140
+欢笑剧场,http://ycsj.aguihome.com:4022/udp/233.50.200.229:5140
+欢笑剧场,http://ycsj.aguihome.com:4022/udp/233.50.201.189:5140
+金鹰卡通,http://ycsj.aguihome.com:4022/udp/233.50.201.73:5140
+卡酷少儿,http://ycsj.aguihome.com:4022/udp/233.50.202.33:5140
 河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 河南晴彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 
 
 
 音乐频道,#genre#
+CHANNEL V,http://171.213.128.73:8188/udp/239.93.0.157:2194
+CHANNEL V,http://171.213.128.73:8188/udp/239.93.1.7:2194
 Первый Музыкальный,http://hz1.teleport.cc/HLS/HD.m3u8
 Первый Музыкальный,http://rtmp.one.by:1200/
 Первый Музыкальный,http://rtmp.one.by:1300/
 Первый Музыкальный,http://rtmp.one.by:2200
 Первый Музыкальный,http://rtmp.one.by:2300/
-Pluto TV Qello Concerts,https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
-Pluto TV Qwest TV Jazz & Beyond,https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 AlbKanale Music TV,https://albportal.net/albkanalemusic.m3u8
 Cadena Elite,https://cloudvideo.servers10.com:8081/8004/index.m3u8
 Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 Clubbing TV,https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 Company TV,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 Euro Indie Music Chart TV,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+FOX SOUL,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 Global TV,https://stmv.video.gmpro.top/global/global/playlist.m3u8
-KRONE HIT,https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 KRONE HIT,https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+KRONE HIT,https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+Pluto TV Qello Concerts,https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
+Pluto TV Qwest TV Jazz & Beyond,https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 Radio Contact,https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 Radio Javan TV,http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 Radiom20,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -1393,6 +1551,19 @@ MAX极速汽车,http://nxlj.cn:1688/udp/239.45.3.49:5140
 武术,http://223.72.11.43:8022/udp/228.1.1.168:4120
 游戏风云,http://223.72.11.43:8022/udp/228.1.1.229:8002
 足球,http://223.72.11.43:8022/udp/228.1.1.170:4120
+游戏风云,http://ycsj.aguihome.com:4022/udp/233.50.200.14:5140
+游戏风云,http://ycsj.aguihome.com:4022/udp/233.50.201.183:5140
+快乐垂钓,http://ycsj.aguihome.com:4022/udp/233.50.200.123:5140
+快乐垂钓,http://ycsj.aguihome.com:4022/udp/233.50.201.109:5140
+新视觉,http://ycsj.aguihome.com:4022/udp/233.50.201.244:5140
+晴彩羽毛球,http://ycsj.aguihome.com:4022/udp/233.50.202.28:5140
+晴彩羽毛球,http://ycsj.aguihome.com:4022/udp/233.50.201.195:5140
+晴彩篮球,http://ycsj.aguihome.com:4022/udp/233.50.202.27:5140
+晴彩篮球,http://ycsj.aguihome.com:4022/udp/233.50.201.194:5140
+晴彩竞技,http://ycsj.aguihome.com:4022/udp/233.50.202.26:5140
+晴彩竞技,http://ycsj.aguihome.com:4022/udp/233.50.201.193:5140
+晴彩广场舞,http://ycsj.aguihome.com:4022/udp/233.50.202.29:5140
+晴彩广场舞,http://ycsj.aguihome.com:4022/udp/233.50.201.226:5140
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 北京体育,http://beijinglive.online.domybox.com:91/live/BTVTYhd-8M/live.m3u8
 广东体育,http://14.117.233.4:9001/udp/239.77.0.112:5146
@@ -1406,9 +1577,11 @@ MAX极速汽车,http://nxlj.cn:1688/udp/239.45.3.49:5140
 北京体育,http://223.72.11.43:8022/udp/228.1.1.117:8000
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 五星体育,http://108.181.20.197/livehttpplay?channel_id=20060
-REDBULL SPORT,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-REDBULL SPORT,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-TENNIS CHANNEL (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+RedBull Sport,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+RedBull Sport,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+PAC12 Insider,https://pac12-samsungus.amagi.tv/playlist.m3u8
+Sports Grid,https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
@@ -1459,3 +1632,57 @@ PP动漫,http://3501776.xyz:35455/douyu/9837291
 越哥说电影,http://3501776.xyz:35455/huya/15894162
 美剧解说轮播,http://3501776.xyz:35455/douyu/9643264
 经典美剧解说,http://3501776.xyz:35455/douyu/9123570
+
+
+
+广播频道,#genre#
+浙江新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.80:5140
+浙江之声,http://ycsj.aguihome.com:4022/udp/233.50.201.79:5140
+城市之声,http://ycsj.aguihome.com:4022/udp/233.50.201.85:5140
+交通之声,http://ycsj.aguihome.com:4022/udp/233.50.201.83:5140
+经济频道,http://ycsj.aguihome.com:4022/udp/233.50.201.81:5140
+旅游之声,http://ycsj.aguihome.com:4022/udp/233.50.201.84:5140
+民生资讯,http://ycsj.aguihome.com:4022/udp/233.50.201.86:5140
+音乐调频,http://ycsj.aguihome.com:4022/udp/233.50.201.82:5140
+天津滨海,http://125.37.163.9:4022/udp/225.1.1.178:5002
+天津交通,http://125.37.163.9:4022/udp/225.1.1.175:5002
+天津经济,http://125.37.163.9:4022/udp/225.1.1.172:5002
+天津农村,http://125.37.163.9:4022/udp/225.1.1.180:5002
+天津生活,http://125.37.163.9:4022/udp/225.1.1.174:5002
+天津文艺,http://125.37.163.9:4022/udp/225.1.1.171:5002
+天津相声,http://125.37.163.9:4022/udp/225.1.1.176:5002
+天津小说,http://125.37.163.9:4022/udp/225.1.1.177:5002
+天津新闻,http://125.37.163.9:4022/udp/225.1.1.173:5002
+天津音乐,http://125.37.163.9:4022/udp/225.1.1.179:5002
+
+
+浙江频道,#genre#
+浙江新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.34:5140
+浙江新闻,http://ycsj.aguihome.com:4022/udp/233.50.201.137:5140
+浙江教育,http://ycsj.aguihome.com:4022/udp/233.50.201.134:5140
+浙江经视,http://ycsj.aguihome.com:4022/udp/233.50.201.29:5140
+浙江民生,http://ycsj.aguihome.com:4022/udp/233.50.201.136:5140
+浙江民生,http://ycsj.aguihome.com:4022/udp/233.50.201.32:5140
+浙江钱江,http://ycsj.aguihome.com:4022/udp/233.50.201.28:5140
+浙江钱江,http://ycsj.aguihome.com:4022/udp/233.50.201.132:5140
+浙江少儿,http://ycsj.aguihome.com:4022/udp/233.50.201.138:5140
+浙江少儿,http://ycsj.aguihome.com:4022/udp/233.50.201.33:5140
+浙江生活,http://ycsj.aguihome.com:4022/udp/233.50.201.133:5140
+浙江影视,http://ycsj.aguihome.com:4022/udp/233.50.201.30:5140
+浙江纪录,http://ycsj.aguihome.com:4022/udp/233.50.202.25:5140
+杭州导视,http://ycsj.aguihome.com:4022/udp/233.50.201.182:5140
+杭州明珠,http://ycsj.aguihome.com:4022/udp/233.50.201.174:5140
+杭州青少,http://ycsj.aguihome.com:4022/udp/233.50.201.177:5140
+杭州生活,http://ycsj.aguihome.com:4022/udp/233.50.201.175:5140
+杭州影视,http://ycsj.aguihome.com:4022/udp/233.50.201.176:5140
+杭州综合,http://ycsj.aguihome.com:4022/udp/233.50.201.173:5140
+宁波综合,http://ycsj.aguihome.com:4022/udp/233.50.201.168:5140
+宁波影视,http://ycsj.aguihome.com:4022/udp/233.50.201.180:5140
+宁波文体,http://ycsj.aguihome.com:4022/udp/233.50.201.179:5140
+宁波生活,http://ycsj.aguihome.com:4022/udp/233.50.201.178:5140
+宁波少儿,http://ycsj.aguihome.com:4022/udp/233.50.201.181:5140
+绍兴综合,http://ycsj.aguihome.com:4022/udp/233.50.201.156:5140
+嘉兴综合,http://ycsj.aguihome.com:4022/udp/233.50.201.163:5140
+衢州公共,http://ycsj.aguihome.com:4022/udp/233.50.202.12:5140
+衢州综合,http://ycsj.aguihome.com:4022/udp/233.50.202.11:5140
+温州综合,http://ycsj.aguihome.com:4022/udp/233.50.201.87:5140
