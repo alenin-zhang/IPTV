@@ -24,7 +24,7 @@
         {
             "name": "快直播电视",
             "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/kzb.py",
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzb.py",
             "ext": {}
         },
         {
@@ -44,13 +44,13 @@
         {
             "name": "SMARTV 1",
             "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/live_smt.py",
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt.py",
             "ext": {}
         },
         {
             "name": "SMARTV 2",
             "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/live_smt_proxy_001.py",
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_smt_proxy_001.py",
             "ext": {}
         },
         {
@@ -148,7 +148,7 @@
         {
             "name": "LITV[云梯]",
             "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/live_litv.py",
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/live_litv.py",
             "ext": {}
         },
 
@@ -162,13 +162,13 @@
         {
             "name": "悠直播体育",
             "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/yoozb.py",
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/yoozb.py",
             "ext": {}
         },
         {
             "name": "快直播体育",
             "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/kzbty.py",
+            "api": "https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/kzbty.py",
             "ext": {}
         },
         {
