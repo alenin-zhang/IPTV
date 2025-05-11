@@ -8,7 +8,6 @@ CCTV6,video://https://m.1905.com/m/cctv6/gzh/
 
 
 港台,#genre#
-凤凰风直播,https://play-flive.ifeng.com/flive/FLIVE_TX_R_0GF9H3XLSLC.m3u8
 凤凰风直播,video://https://flive.ifeng.com/live/1015247.html
 香港卫视,video://http://www.hkstv.tv/index/live.html
 莲花卫视,video://http://wap.macaulotustv.com/lotustvlive.html
