@@ -1,6 +1,5 @@
 
 =首选=,#genre#
-纯享4K,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1
 至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1
 咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&mode=1
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1
