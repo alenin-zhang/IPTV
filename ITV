@@ -23,19 +23,12 @@
         },
         {
             "name": "SMARTV 1",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/main/smt.php",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "SMARTV 2",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt.py",
             "ext": {}
         },
         {
-            "name": "SMARTV 3",
+            "name": "SMARTV 2",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
             "ext": {}
