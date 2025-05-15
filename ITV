@@ -22,27 +22,20 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "AKTV",
-            "type": 0,
-            "url": "http://aktv.space/live.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "4GTV[直梯]",
-            "type": 0,
-            "url": "http://4gtv.mumi.rip:9877/index.m3u8",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
             "name": "SMARTV 1",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/main/smt.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "SMARTV 2",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt.py",
             "ext": {}
         },
         {
-            "name": "SMARTV 2",
+            "name": "SMARTV 3",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
             "ext": {}
@@ -144,6 +137,20 @@
             "ext": {}
         },
 
+        {
+            "name": "AKTV",
+            "type": 0,
+            "url": "http://aktv.space/live.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "4GTV[直梯]",
+            "type": 0,
+            "url": "http://4gtv.mumi.rip:9877/index.m3u8",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
         {
             "name": "港台TV汇[云梯]",
             "type": 0,
