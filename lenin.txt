@@ -840,6 +840,10 @@ TVB功夫[粤],http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklis
 TVB华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB星河,http://108.181.20.197/livehttpplay?channel_id=20070
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB功夫[国],http://j.s.bkpcp.top/js/tvbgftg
+TVB功夫[粤],http://j.s.bkpcp.top/js/tvbgfty
+美亚电影[国],http://j.s.bkpcp.top/js/enmydy
+美亚电影[粤],http://j.s.bkpcp.top/js/cnmydy
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
