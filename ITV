@@ -54,6 +54,27 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
+            "name": "X",
+            "type": 0,
+            "url": "http://live.nctv.top/x.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "IPTV365",
+            "type": 0,
+            "url": "https://live.iptv365.org/live.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "HACKSERVER",
+            "type": 0,
+            "url": "https://epg.hackserver.net/live.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
             "name": "TVJK-港台",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/gt.txt",
@@ -82,27 +103,6 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "X",
-            "type": 0,
-            "url": "http://live.nctv.top/x.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "IPTV365",
-            "type": 0,
-            "url": "https://live.iptv365.org/live.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "HACKSERVER",
-            "type": 0,
-            "url": "https://epg.hackserver.net/live.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
             "name": "LALIFEIER-IPTV",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
@@ -123,27 +123,9 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
-        {
-            "name": "快直播电视",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzb.py",
-            "ext": {}
-        },
 
-        {
-            "name": "AKTV",
-            "type": 0,
-            "url": "http://aktv.space/live.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "4GTV[直梯]",
-            "type": 0,
-            "url": "http://4gtv.mumi.rip:9877/index.m3u8",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+
+
         {
             "name": "港台TV汇[云梯]",
             "type": 0,
@@ -152,11 +134,26 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
+            "name": "AKTV",
+            "type": 0,
+            "url": "http://aktv.space/live.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
             "name": "LITV[云梯]",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
             "ext": {}
         },
+        {
+            "name": "4GTV[直梯]",
+            "type": 0,
+            "url": "http://4gtv.mumi.rip:9877/index.m3u8",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+
 
 
         {
@@ -178,6 +175,13 @@
             "ext": {}
         },
         {
+            "name": "88KQ体育直播",
+            "type": 0,
+            "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
             "name": "快直播体育",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzbty.py",
@@ -190,13 +194,8 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
-        {
-            "name": "88KQ体育直播",
-            "type": 0,
-            "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+
+
 
         {
             "name": "移动ITV",
@@ -205,7 +204,12 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
-
+        {
+            "name": "快直播电视",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzb.py",
+            "ext": {}
+        },
 
         {
             "name": "52火星直播",
