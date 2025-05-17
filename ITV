@@ -15,11 +15,24 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "网页IPTV",
+            "name": "WEB TV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "网友DIYP",
+            "type": 0,
+            "url": "http://go8.myartsonline.com/zx/2/DIYP.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "MytvSuper",
+            "type": 0,
+            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+            "ua": "judy/5.2.1"
         },
         {
             "name": "SMARTV 1",
@@ -32,12 +45,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
             "ext": {}
-        },
-        {
-            "name": "MytvSuper",
-            "type": 0,
-            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-            "ua": "judy/5.2.1"
         },
         {
             "name": "IILL.TOP",
@@ -117,7 +124,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "网友TEST",
+            "name": "网友IPTV",
             "type": 0,
             "url": "https://pastebin.com/raw/rmGTuRZL",
             "ua": "okhttp/3.15",
