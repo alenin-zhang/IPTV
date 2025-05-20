@@ -29,10 +29,20 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "MytvSuper",
+            "name": "MytvSuper 1",
             "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-            "ua": "judy/5.2.1"
+            "ua": "judy/5.2.1",
+            "timeout": 20,
+            "playerType": 1
+        },
+        {
+            "name": "MytvSuper 2",
+            "type": 0,
+            "url": "http://tv.iill.top/m3u/MyTV",
+            "ua": "okhttp/3.15",
+            "timeout": 20,
+            "playerType": 1
         },
         {
             "name": "SMARTV 1",
