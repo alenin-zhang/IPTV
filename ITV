@@ -33,7 +33,7 @@
       "api": "csp_MQiTV",
       "ua": "okhttp/3.15",
       "ext": "https://59.125.210.231:4433",
-      "jar":"./fm.jar",
+      "jar":"http://files.catbox.moe/chvyo2.txt",
       "timeout": 30,
       "playerType": 1
         },
