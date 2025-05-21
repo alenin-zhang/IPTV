@@ -2892,64 +2892,98 @@ ESLCS,https://live.iill.top/twitch/eslcs
 
 
 YOUTUBE直播,#genre#
-11点热炒店,https://live.iill.top/youtube/@chopchopshow
-70、80、90年代经典老歌,https://live.iill.top/youtube/@7080年代经典老歌-o1e
-8world,https://live.iill.top/youtube/@8worldSG
-BirderKing,https://live.iill.top/youtube/@BirderKing
-CCTV电视剧,https://live.iill.top/youtube/@CCTVDrama
-ChannelsTV,https://live.iill.top/youtube/@ChannelsTelevision
-Chinese Mix,https://live.iill.top/youtube/@FM190-ld7qz
+AL JAZEERA,https://live.iill.top/youtube/gCNeDWCI0vo
+CCTV4,https://live.iill.top/youtube/SdzewdkJa-o
 CNA Insider,https://live.iill.top/youtube/fSUMKrxPEd8
-Hot Douyin Studios,https://live.iill.top/youtube/@hottrendsdouyin
-HZTV,https://live.iill.top/youtube/@hztv2212
-iNews,https://live.iill.top/youtube/@setinews
-KKBOX 行周榜& 年度热门流行歌,https://live.iill.top/youtube/@KKBOX6868
-LiveNOW,https://live.iill.top/youtube/YDfiTGGPYCk
-Mleague,https://live.iill.top/youtube/@PRISONER1224
-newsebc,https://live.iill.top/youtube/newsebc
-newsebc,https://live.iill.top/youtube/V1p33hqPrUk
-NHK World,https://live.iill.top/youtube/f0lYkdA-Gtw
-set新闻,https://live.iill.top/youtube/@setnews
-SHIFT,https://live.iill.top/youtube/shiftswim
-SkyNews,https://live.iill.top/youtube/@SkyNews
-SwimwearUnderwear,https://live.iill.top/youtube/@SwimwearUnderwear
-SwimwearUnderwear,https://live.iill.top/youtube/SwimwearUnderwear
-Thekpop,https://live.iill.top/youtube/-h_xg8ake8c
-thekpop,https://live.iill.top/youtube/JVocS7Yftw8
-TTV_NEWS,https://live.iill.top/youtube/xL0ch83RAK8
-TVBS 新闻,https://live.iill.top/youtube/m_dhMSvUCIc
+FOX Live NOW,https://live.iill.top/youtube/YDfiTGGPYCk
+FRANCE 24,https://live.iill.top/youtube/l8PMl7tUDIE
+TVBS,https://live.iill.top/youtube/o_-hSMgpAzs
+TVBS NEWS,https://live.iill.top/youtube/m_dhMSvUCIc
 TVBS 选新闻,https://live.iill.top/youtube/@TVBSNEWS02
-TVBSNEWS01,https://live.iill.top/youtube/TVBSNEWS01
-ウェザーニュース,https://live.iill.top/youtube/@weathernews
-不良林,https://live.iill.top/youtube/@bulianglin
+TVBS 选新闻,https://live.iill.top/youtube/d1jUeoc3pio
+TVBS 选新闻,https://live.iill.top/youtube/TVBSNEWS01
+东森LIVE,https://live.iill.top/youtube/newsebc
+东森LIVE,https://live.iill.top/youtube/quwqlazU-c8
+东森LIVE,https://live.iill.top/youtube/V1p33hqPrUk
 东森财经,https://live.iill.top/youtube/@57ETFN
-非凡电视,https://live.iill.top/youtube/@ustv
+东森财经,https://live.iill.top/youtube/1I2iq41Akmo
+东森新闻,https://live.iill.top/youtube/E0zhe2gkXBs
+非凡新闻,https://live.iill.top/youtube/@ustv
 凤凰资讯,https://live.iill.top/youtube/@phoenixtvhk
-公视,https://live.iill.top/youtube/@PNNPTS
-华藏净宗弘化,https://live.iill.top/youtube/@HDPLTV
+凤凰资讯,https://live.iill.top/youtube/HFib76ySpbU
+公视新闻,https://live.iill.top/youtube/@PNNPTS
+公视新闻,https://live.iill.top/youtube/quwqlazU-c8
+华视新闻,https://live.iill.top/youtube/wM0g8EoUZ_E
+华视新闻,https://live.iill.top/youtube/yRFZNnTkZBM
+寰宇财经,https://live.iill.top/youtube/WTRQiVWK1jY
 寰宇新闻,https://live.iill.top/youtube/@globalnewstw
-汇聚金曲,https://live.iill.top/youtube/@Cantopopgreatesthits8090s
-净空法师,https://live.iill.top/youtube/@amtbhz
+寰宇新闻,https://live.iill.top/youtube/6IquAgfvYmc
 镜新闻,https://live.iill.top/youtube/@mnews-tw
-麻将直播Live,https://live.iill.top/youtube/@mahjongprolive
-麻将最高位战,https://live.iill.top/youtube/@saikouisen1976
-民视,https://live.iill.top/youtube/@FTV_News
-日テレNEWS,https://live.iill.top/youtube/@ntv_news
-日本职业麻将联盟,https://live.iill.top/youtube/@日本プロ麻雀连盟
-时装艺术表演¹,https://live.iill.top/youtube/@NYFT
-时装艺术表演²,https://live.iill.top/youtube/@shiftswim
-时装艺术表演³,https://live.iill.top/youtube/@SPLASHme
-时装艺术表演⁴,https://live.iill.top/youtube/@EveloneTilesHop
-台视,https://live.iill.top/youtube/@TTV_NEWS
-台湾地震监视(地震速报、强震即时警报),https://live.iill.top/youtube/@台湾地震监视
-中广流行,https://live.iill.top/youtube/@ILikeRadioFM103
-中时新闻网,https://live.iill.top/youtube/@ChinaTimes
-中视,https://live.iill.top/youtube/@twctvnews
-中视经典,https://live.iill.top/youtube/@ctvent_classic
-中天电视CtiTv,https://live.iill.top/youtube/@中天电视CtiTv
+镜新闻,https://live.iill.top/youtube/5n0y6b0Q25o
+民视新闻,https://live.iill.top/youtube/@FTV_News
+民视新闻,https://live.iill.top/youtube/ylYJSBUgaMA
+三立INEWS,https://live.iill.top/youtube/@setinews
+三立iNEWS,https://live.iill.top/youtube/BlKaF8og0jo
+三立INEWS,https://live.iill.top/youtube/pF507BLtbqU
+三立新闻,https://live.iill.top/youtube/@setnews
+三立新闻,https://live.iill.top/youtube/MV9mI0GChwo
+台视新闻,https://live.iill.top/youtube/@TTV_NEWS
+台视新闻,https://live.iill.top/youtube/xL0ch83RAK8
+新唐人亚太,https://live.iill.top/youtube/WIhgU_mc05A
+中时新闻,https://live.iill.top/youtube/@ChinaTimes
+中视经典,https://live.iill.top/youtube/ADDSmXoPDY8
+中视新闻,https://live.iill.top/youtube/@twctvnews
+中视新闻,https://live.iill.top/youtube/TCnaIE_SAtM
 中天新闻,https://live.iill.top/youtube/vr3XyVCR4T0
-中天新闻CtiNews,https://live.iill.top/youtube/@中天新闻CtiNews
-아리랑 라디오,https://live.iill.top/youtube/Music180Arirang
+新加坡8频道,https://live.iill.top/youtube/@8worldSG
+日本NHK WORLD,https://live.iill.top/youtube/f0lYkdA-Gtw
+日本ANN NEWS,https://live.iill.top/youtube/coYw-eVU0Ks
+日本TBS NEWS,https://live.iill.top/youtube/ohI356mwBp8
+日本ウェザーニュース,https://live.iill.top/youtube/@weathernews
+日本テレNEWS,https://live.iill.top/youtube/@ntv_news
+70 80 90年代经典老歌,https://live.iill.top/youtube/@7080年代经典老歌-o1e
+Chinese Songs Mix,https://live.iill.top/youtube/@FM190-ld7qz
+KKBOX 行周榜& 年度热门流行歌,https://live.iill.top/youtube/@KKBOX6868
+抖音最火歌曲Hot Douyin Studios,https://live.iill.top/youtube/@hottrendsdouyin
+汇聚金曲,https://live.iill.top/youtube/@Cantopopgreatesthits8090s
+中广流行,https://live.iill.top/youtube/@ILikeRadioFM103
+韩国THE K-POP1,https://live.iill.top/youtube/JVocS7Yftw8
+韩国THE K-POP2,https://live.iill.top/youtube/GC6-Z2_UC3o
+韩国The K Pop 1,https://live.iill.top/youtube/-h_xg8ake8c
+韩国The K Pop 2,https://live.iill.top/youtube/JVocS7Yftw8
+韩国아리랑 라디오,https://live.iill.top/youtube/Music180Arirang
+时装SHIFT,https://live.iill.top/youtube/shiftswim
+时装Swimwear Underwear,https://live.iill.top/youtube/@SwimwearUnderwear
+时装Swimwear Underwear,https://live.iill.top/youtube/SwimwearUnderwear
+时装表演¹,https://live.iill.top/youtube/@NYFT
+时装表演²,https://live.iill.top/youtube/@EveloneTilesHop
+时装表演³,https://live.iill.top/youtube/@SPLASHme
+CCTV电视剧,https://live.iill.top/youtube/@CCTVDrama
+憨豆先生,https://live.iill.top/youtube/NOCisq9ASyM
+哈利波特,https://live.iill.top/youtube/mQlUejpK6eE
+11点热炒店,https://live.iill.top/youtube/@chopchopshow
+中视经典,https://live.iill.top/youtube/@ctvent_classic
+自然风景,https://live.iill.top/youtube/Tq117lqpr-A
+加勒比风景,https://live.iill.top/youtube/FgFvj--19gw
+城市风景,https://live.iill.top/youtube/TZikBxNaaQk
+圣诞氛围1,https://live.iill.top/youtube/Lo1sqgwJhfs
+圣诞氛围2,https://live.iill.top/youtube/CISaL8WJLjM
+小屋氛围,https://live.iill.top/youtube/0SDeg34pu-s
+治愈音乐,https://live.iill.top/youtube/hYz1oOcAuk8
+乡村音乐,https://live.iill.top/youtube/9_i5JFFdlhI
+冬季氛围,https://live.iill.top/youtube/ymCQvxvkdoE
+NASA LIVE,https://live.iill.top/youtube/wG4YaEcNlb0
+NASA LIVE2,https://live.iill.top/youtube/OCem0E-0Q6Y
+NASA SPACE FLIGHT,https://live.iill.top/youtube/mhJRzQsLZGg
+鸟世界BirderKing,https://live.iill.top/youtube/@BirderKing
+大爱,https://live.iill.top/youtube/DTNkEm6jaqQ
+大爱,https://live.iill.top/youtube/MIqUplvSRWA
+净空法师,https://live.iill.top/youtube/@amtbhz
+华藏净宗弘化,https://live.iill.top/youtube/@HDPLTV
+华藏宗教TV,https://live.iill.top/youtube/@hztv2212
+日本职业麻将联盟,https://live.iill.top/youtube/@日本プロ麻雀连盟
+麻将直播LIVE,https://live.iill.top/youtube/@mahjongprolive
+麻将最高位战,https://live.iill.top/youtube/@saikouisen1976
 
 
 YY直播,#genre#
