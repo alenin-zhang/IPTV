@@ -862,6 +862,27 @@ C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 凤凰中文,http://www.jeremyoto.com:82/udp/233.50.202.35:5140
 凤凰资讯,http://www.jeremyoto.com:82/udp/233.50.200.192:5140
 凤凰资讯,http://www.jeremyoto.com:82/udp/233.50.202.36:5140
+凤凰资讯,https://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixinfo_hd
+凤凰中文,https://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixtv_hd
+凤凰香港,https://smt.1789.dpdns.org/smt3.2.1.php?id=hkphoenix_twn
+RTHK31,https://smt.1789.dpdns.org/smt3.2.1.php?id=rhk31_twn
+RTHK32,https://smt.1789.dpdns.org/smt3.2.1.php?id=rhk32_twn
+TVB Plus,https://smt.1789.dpdns.org/smt3.2.1.php?id=j2_hkdavid
+TVB Plus,https://smt.1789.dpdns.org/smt3.2.1.php?id=j2_twn
+TVB翡翠,https://smt.1789.dpdns.org/smt3.2.1.php?id=jade_twn
+TVB翡翠,https://smt.1789.dpdns.org/smt3.2.1.php?id=jade_mike
+TVB翡翠,https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbjade
+TVB明珠,https://smt.1789.dpdns.org/smt3.2.1.php?id=pearl_twn
+TVB明珠,https://smt.1789.dpdns.org/smt3.2.1.php?id=pearl_hkdavid
+TVB千禧经典,https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbclassic
+TVB无线财经,https://smt.1789.dpdns.org/smt3.2.1.php?id=tvbcaijing_twn
+TVB无线新闻,https://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
+TVB星河,https://smt.1789.dpdns.org/smt3.2.1.php?id=tvbxinhe_twn
+TVB星河,https://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
+TVB娱乐新闻,https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbentertainment
+VIUTV,https://smt.1789.dpdns.org/smt3.2.1.php?id=viu1_twn
+VIUTV6,https://smt.1789.dpdns.org/smt3.2.1.php?id=viusix_twn
+VIUTV69,https://smt.1789.dpdns.org/smt3.2.1.php?id=viutv69_hkdavid
 
 
 台湾频道,#genre#
