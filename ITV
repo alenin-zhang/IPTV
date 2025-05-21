@@ -31,7 +31,7 @@
         {
       "name": "MQitv",
       "api": "csp_MQiTV",
-      "ua": "okhttp/3.15",
+      "ua": "okhttp",
       "ext": "https://59.125.210.231:4433",
       "jar":"http://files.catbox.moe/chvyo2.txt",
       "timeout": 30,
