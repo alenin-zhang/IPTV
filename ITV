@@ -10,7 +10,7 @@
         {
             "name": "ITV_beta",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/itv_beta.m3u",
+            "url": "https://itv-list.myukj.cn/list/itv.m3u",
             "ua": "d6f0e3f3e627d503",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
