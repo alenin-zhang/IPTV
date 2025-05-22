@@ -1,0 +1,1016 @@
+#EXTM3U name="ITV-双栈融合" x-tvg-url="http://epg.myxcwh.com:5678/epg" Data"20250104"
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV1.png" group-title="央视",CCTV-1 综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=222
+#EXTINF:-1  tvg-name="CCTV2"tvg-logo="https://itv-tb.myukj.cn/tv/CCTV2.png" group-title="央视",CCTV-2 财经 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=119
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV3.png" group-title="央视",CCTV-3 综艺 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=196
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=38
+#EXTINF:-1  tvg-name="CCTV4欧洲" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际 欧洲 HD
+https://cn_all_iptv.myukj.cn/086/150000/00000/00B/?id=144
+#EXTINF:-1  tvg-name="CCTV4美洲" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际 美洲 HD
+https://cn_all_iptv.myukj.cn/086/150000/00000/00B/?id=142
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV5.png" group-title="央视",CCTV-5 体育 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=197
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=220
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=120
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=199
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV9.png" group-title="央视",CCTV-9 记录 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=121
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV10.png" group-title="央视",CCTV-10 科技 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=122
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=39
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=123
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV13.png" group-title="央视",CCTV-13 新闻 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=246
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV15.png" group-title="央视",CCTV-15 音乐 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=40
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=192
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=113
+#EXTINF:-1  tvg-name="高尔夫网球" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV高尔夫网球.png" group-title="央视数字",CCTV 高尔夫·网球 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/32630/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="CCTV第一剧场" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV第一剧场.png" group-title="央视数字",CCTV 第一剧场 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=94
+#EXTINF:-1  tvg-name="CCTV风云剧场" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV风云剧场.png" group-title="央视数字",CCTV 风云剧场 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=89
+#EXTINF:-1  tvg-name="兵器科技" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV兵器科技.png" group-title="央视数字",CCTV 兵器科技 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=88
+#EXTINF:-1  tvg-name="CCTV怀旧剧场" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV怀旧剧场.png" group-title="央视数字",CCTV 怀旧剧场 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=91
+#EXTINF:-1  tvg-name="风云音乐" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV风云音乐.png" group-title="央视数字",CCTV 风云音乐 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=92
+#EXTINF:-1  tvg-name="央视台球" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV央视台球.png" group-title="央视数字",CCTV 央视台球 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=32
+#EXTINF:-1  tvg-name="风云足球" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV风云足球.png" group-title="央视数字",CCTV 风云足球 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=85
+#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV世界地理.png" group-title="央视数字",CCTV 世界地理 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=87
+#EXTINF:-1  tvg-name="央视精品" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV央视文化精品.png" group-title="央视数字",CCTV 央视文化精品 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=90
+#EXTINF:-1  tvg-name="女性时尚" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV女性时尚.png" group-title="央视数字",CCTV 女性时尚 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=93
+#EXTINF:-1  tvg-name="卫生健康" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV卫生健康.png" group-title="央视数字",CCTV 卫生健康 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00B/?id=92
+#EXTINF:-1  tvg-name="电视指南" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV电视指南.png" group-title="央视数字",CCTV 电视指南 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=84
+#EXTINF:-1  tvg-name="CETV1" tvg-logo="https://itv-tb.myukj.cn/tv/CETV1.png" group-title="中国教育",CETV-1 综合教育 HD 
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=169
+#EXTINF:-1  tvg-name="CETV4" tvg-logo="https://itv-tb.myukj.cn/tv/CETV4.png" group-title="中国教育",CETV-4 职业教育 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=162
+#EXTINF:-1  tvg-name="早期教育" tvg-logo="https://itv-tb.myukj.cn/tv/CETV早期教育.png" group-title="中国教育",CETV-CECE 早期教育 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8692/index.m3u8
+#EXTINF:-1  tvg-name="CGTN" tvg-logo="https://itv-tb.myukj.cn/tv/CGTN.png" group-title="中国国际",CGTN 新闻 HD 
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=199
+#EXTINF:-1  tvg-name="CGTN记录" tvg-logo="https://itv-tb.myukj.cn/tv/CGTN记录.png" group-title="中国国际",CGTN-Documentary 记录 HD 
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7388/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="CGTN阿拉伯语" tvg-logo="https://itv-tb.myukj.cn/tv/CGTN阿拉伯语.png" group-title="中国国际",CGTN-العربية 阿拉伯语 HD 
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7361/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="CGTN俄语" tvg-logo="https://itv-tb.myukj.cn/tv/CGTN俄语.png" group-title="中国国际",CCGTN-Pусский 俄语 HD 
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7363/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="CGTN法语" tvg-logo="https://itv-tb.myukj.cn/tv/CGTN法语.png" group-title="中国国际",CGTN-Français 法语 HD 
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7386/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="CGTN西班牙语" tvg-logo="https://itv-tb.myukj.cn/tv/CGTN西班牙语.png" group-title="中国国际",CGTN-Español 西班牙语 HD 
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7359/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://itv-tb.myukj.cn/tv/北京卫视.png" group-title="北京",BRTV-北京卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=107
+#EXTINF:-1  tvg-name="北京纪实" tvg-logo="https://itv-tb.myukj.cn/tv/北京纪实科教.png" group-title="北京",BRTV-北京纪实科教 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=34
+#EXTINF:-1  tvg-name="内蒙古卫视" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古卫视.png" group-title="内蒙古",内蒙古卫视 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=179
+#EXTINF:-1  tvg-name="内蒙古综合" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古新闻综合.png" group-title="内蒙古",内蒙古综合 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=nmxwzh
+#EXTINF:-1  tvg-name="内蒙古经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=nmjjsh
+#EXTINF:-1  tvg-name="内蒙古文体娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=nmwtyl
+#EXTINF:-1  tvg-name="内蒙古农牧" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=nmnm
+#EXTINF:-1  tvg-name="内蒙古蒙语卫视" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古蒙语卫视.png" group-title="内蒙古",内蒙古蒙语卫视 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=nmmyws
+#EXTINF:-1  tvg-name="内蒙古蒙语文化" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古蒙语文化.png" group-title="内蒙古",内蒙古蒙语文化 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=nmwh
+#EXTINF:-1  tvg-name="呼和浩特新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=35
+#EXTINF:-1  tvg-name="呼和浩特影视娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/呼和浩特影视娱乐.png" group-title="内蒙古",呼和浩特影视娱乐 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=37
+#EXTINF:-1  tvg-name="包头新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/包头新闻综合.png" group-title="内蒙古",包头新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=111
+#EXTINF:-1  tvg-name="包头经济" tvg-logo="https://itv-tb.myukj.cn/tv/包头经济.png" group-title="内蒙古",包头经济 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=204
+#EXTINF:-1  tvg-name="包头生活服务" tvg-logo="https://itv-tb.myukj.cn/tv/包头生活服务.png" group-title="内蒙古",包头生活服务 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=112
+#EXTINF:-1  tvg-name="乌海新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/乌海新闻综合.png" group-title="内蒙古",乌海新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=11
+#EXTINF:-1  tvg-name="乌海都市生活" tvg-logo="https://itv-tb.myukj.cn/tv/乌海都市生活.png" group-title="内蒙古",乌海都市生活 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=12
+#EXTINF:-1  tvg-name="赤峰新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/赤峰新闻综合.png" group-title="内蒙古",赤峰新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=13
+#EXTINF:-1  tvg-name="赤峰经济服务" tvg-logo="https://itv-tb.myukj.cn/tv/赤峰经济服务.png" group-title="内蒙古",赤峰经济服务 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=14
+#EXTINF:-1  tvg-name="赤峰影视娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/赤峰影视娱乐.png" group-title="内蒙古",赤峰影视娱乐 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=15
+#EXTINF:-1  tvg-name="通辽蒙语" tvg-logo="https://itv-tb.myukj.cn/tv/通辽蒙语.png" group-title="内蒙古",通辽蒙语 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=40
+#EXTINF:-1  tvg-name="通辽新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/通辽新闻综合.png" group-title="内蒙古",通辽新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=41
+#EXTINF:-1  tvg-name="通辽城市服务" tvg-logo="https://itv-tb.myukj.cn/tv/通辽城市服务.png" group-title="内蒙古",通辽城市服务 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=42
+#EXTINF:-1  tvg-name="呼伦贝尔新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/呼伦贝尔新闻综合.png" group-title="内蒙古",呼伦贝尔新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=19
+#EXTINF:-1  tvg-name="呼伦贝尔文化旅游" tvg-logo="https://itv-tb.myukj.cn/tv/呼伦贝尔文化旅游.png" group-title="内蒙古",呼伦贝尔文化旅游 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=20
+#EXTINF:-1  tvg-name="呼伦贝尔生活资讯" tvg-logo="https://itv-tb.myukj.cn/tv/呼伦贝尔生活资讯.png" group-title="内蒙古",呼伦贝尔生活资讯 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=21
+#EXTINF:-1  tvg-name="巴彦淖尔新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/巴彦淖尔新闻综合.png" group-title="内蒙古",巴彦淖尔新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=25
+#EXTINF:-1  tvg-name="巴彦淖尔经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/巴彦淖尔经济生活.png" group-title="内蒙古",巴彦淖尔经济生活 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=26
+#EXTINF:-1  tvg-name="巴彦淖尔影视娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/巴彦淖尔影视娱乐.png" group-title="内蒙古",巴彦淖尔影视娱乐 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=27
+#EXTINF:-1  tvg-name="鄂尔多斯新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/鄂尔多斯新闻综合.png" group-title="内蒙古",鄂尔多斯新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=30
+#EXTINF:-1  tvg-name="鄂尔多斯经济服务" tvg-logo="https://itv-tb.myukj.cn/tv/鄂尔多斯经济服务.png" group-title="内蒙古",鄂尔多斯经济服务 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=31
+#EXTINF:-1  tvg-name="鄂尔多斯生活" tvg-logo="https://itv-tb.myukj.cn/tv/鄂尔多斯生活.png" group-title="内蒙古",鄂尔多斯生活 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=32
+#EXTINF:-1  tvg-name="鄂尔多斯蒙语" tvg-logo="https://itv-tb.myukj.cn/tv/鄂尔多斯蒙语.png" group-title="内蒙古",鄂尔多斯蒙语 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=33
+#EXTINF:-1  tvg-name="锡林郭勒新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/锡林郭勒新闻综合.png" group-title="内蒙古",锡林郭勒新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=38
+#EXTINF:-1  tvg-name="锡林郭勒影视娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/锡林郭勒影视娱乐.png" group-title="内蒙古",锡林郭勒影视娱乐 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=39
+#EXTINF:-1  tvg-name="阿拉善新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/阿拉善新闻综合.png" group-title="内蒙古",阿拉善新闻综合 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=als1
+#EXTINF:-1  tvg-name="兴安新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/兴安新闻综合.png" group-title="内蒙古",兴安新闻综合 HD 
+https://cn_all_iptv.myukj.cn/php/nmg.php?id=xa1
+#EXTINF:-1  tvg-name="辽宁卫视" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁卫视.png" group-title="辽宁",辽宁卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=141
+#EXTINF:-1  tvg-name="辽宁都市" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁都市.png" group-title="辽宁",辽宁都市 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/610.m3u8
+#EXTINF:-1  tvg-name="辽宁北方" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁北方.png" group-title="辽宁",辽宁北方 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/070.m3u8
+#EXTINF:-1  tvg-name="辽宁公共" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁公共.png" group-title="辽宁",辽宁公共 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/481.m3u8
+#EXTINF:-1  tvg-name="辽宁经济" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁经济.png" group-title="辽宁",辽宁经济 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/076.m3u8
+#EXTINF:-1  tvg-name="辽宁教育青少" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁教育青少.png" group-title="辽宁",辽宁教育青少 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/075.m3u8
+#EXTINF:-1  tvg-name="辽宁生活" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁生活.png" group-title="辽宁",辽宁生活 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/073.m3u8
+#EXTINF:-1  tvg-name="辽宁体育" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁体育.png" group-title="辽宁",辽宁体育 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/611.m3u8
+#EXTINF:-1  tvg-name="辽宁影视剧" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁影视剧.png" group-title="辽宁",辽宁影视剧 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/070.m3u8
+#EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=115
+#EXTINF:-1  tvg-name="黑龙江文体" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江文体.png" group-title="黑龙江",黑龙江文体 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/26239/index.m3u8
+#EXTINF:-1  tvg-name="黑龙江新闻法治" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/26330/index.m3u8
+#EXTINF:-1  tvg-name="黑龙江农业科教" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/26242/index.m3u8
+#EXTINF:-1  tvg-name="黑龙江影视" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江影视.png" group-title="黑龙江",黑龙江影视 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/26298/index.m3u8
+#EXTINF:-1  tvg-name="黑龙江都市" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江都市.png" group-title="黑龙江",黑龙江都市 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/26301/index.m3u8
+#EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://itv-tb.myukj.cn/tv/东方卫视.png" group-title="上海",SMG-东方卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=125
+#EXTINF:-1  tvg-name="东方影视" tvg-logo="https://itv-tb.myukj.cn/tv/东方影视.png" group-title="上海",SMG-东方影视 HD
+https://cn_all_iptv.myukj.cn/086/310000/00086/000/1016/index.m3u8?IAS
+#EXTINF:-1  tvg-name="第一财经" tvg-logo="https://itv-tb.myukj.cn/tv/上海第一财经.png" group-title="上海",SMG-第一财经 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=125
+#EXTINF:-1  tvg-name="上海新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/上海新闻综合.png" group-title="上海",SMG-上海新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/310000/00086/000/1014/index.m3u8?IAS
+#EXTINF:-1  tvg-name="上海都市" tvg-logo="https://itv-tb.myukj.cn/tv/上海都市.png" group-title="上海",SMG-上海都市 HD 
+https://cn_all_iptv.myukj.cn/086/310000/00086/000/1015/index.m3u8?IAS
+#EXTINF:-1  tvg-name="上海教育" tvg-logo="https://itv-tb.myukj.cn/tv/上海教育.png" group-title="上海",SMG-上海教育 HD 
+https://cn_all_iptv.myukj.cn/086/310000/00086/000/1268/index.m3u8?IAS
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://itv-tb.myukj.cn/tv/上海五星体育.png" group-title="上海",SMG-上海五星体育 HD 
+https://cn_all_iptv.myukj.cn/086/310000/00086/000/1018/index.m3u8?IAS
+#EXTINF:-1  tvg-name="游戏风云" tvg-logo="https://itv-tb.myukj.cn/tv/游戏风云.png" group-title="上海",SiTV-游戏风云 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=183
+#EXTINF:-1  tvg-name="法治天地" tvg-logo="https://itv-tb.myukj.cn/tv/法治天地.png" group-title="上海",SiTV-法治天地 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=191
+#EXTINF:-1  tvg-name="魅力足球" tvg-logo="https://itv-tb.myukj.cn/tv/魅力足球.png" group-title="上海",SiTV-魅力足球 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=176
+#EXTINF:-1  tvg-name="金色学堂" tvg-logo="https://itv-tb.myukj.cn/tv/金色学堂.png" group-title="上海",SiTV-金色学堂 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=186
+#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://itv-tb.myukj.cn/tv/欢笑剧场.png" group-title="上海",SiTV-欢笑剧场 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=189
+#EXTINF:-1  tvg-name="生活时尚" tvg-logo="https://itv-tb.myukj.cn/tv/生活时尚.png" group-title="上海",SiTV-生活时尚 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=187
+#EXTINF:-1  tvg-name="新视觉" tvg-logo="https://itv-tb.myukj.cn/tv/新视觉.png" group-title="上海",SiTV-新视觉 HD
+https://cn_all_iptv.myukj.cn/086/210000/00099/000/249.m3u8
+#EXTINF:-1  tvg-name="乐游" tvg-logo="https://itv-tb.myukj.cn/tv/乐游.png" group-title="上海",SiTV-乐游 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=185
+#EXTINF:-1  tvg-name="都市剧场" tvg-logo="https://itv-tb.myukj.cn/tv/都市剧场.png" group-title="上海",SiTV-都市剧场 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=190
+#EXTINF:-1  tvg-name="东方财经" tvg-logo="https://itv-tb.myukj.cn/tv/东方财经.png" group-title="上海",SiTV-东方财经 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=177
+#EXTINF:-1  tvg-name="江苏卫视" tvg-logo="https://itv-tb.myukj.cn/tv/江苏卫视.png" group-title="江苏",江苏卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=106
+#EXTINF:-1  tvg-name="江苏城市" tvg-logo="https://itv-tb.myukj.cn/tv/江苏城市.png" group-title="江苏",江苏城市 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=107
+#EXTINF:-1  tvg-name="江苏新闻" tvg-logo="https://itv-tb.myukj.cn/tv/江苏公共新闻.png" group-title="江苏",江苏公共新闻 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=120
+#EXTINF:-1  tvg-name="江苏体育休闲" tvg-logo="https://itv-tb.myukj.cn/tv/江苏体育休闲.png" group-title="江苏",江苏体育休闲 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=117
+#EXTINF:-1  tvg-name="江苏综艺" tvg-logo="https://itv-tb.myukj.cn/tv/江苏综艺.png" group-title="江苏",江苏综艺 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=108
+#EXTINF:-1  tvg-name="江苏影视" tvg-logo="https://itv-tb.myukj.cn/tv/江苏影视.png" group-title="江苏",江苏影视 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=118
+#EXTINF:-1  tvg-name="江苏教育" tvg-logo="https://itv-tb.myukj.cn/tv/江苏教育电视台.png" group-title="江苏",江苏教育 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=122
+#EXTINF:-1  tvg-name="南京新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/南京新闻综合.png" group-title="江苏",南京新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7213/index.m3u8
+#EXTINF:-1  tvg-name="南京教科" tvg-logo="https://itv-tb.myukj.cn/tv/南京教科.png" group-title="江苏",南京教科 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7194/index.m3u8
+#EXTINF:-1  tvg-name="南京影视" tvg-logo="https://itv-tb.myukj.cn/tv/南京影视.png" group-title="江苏",南京影视 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7719/index.m3u8
+#EXTINF:-1  tvg-name="南京文旅纪录" tvg-logo="https://itv-tb.myukj.cn/tv/南京文旅纪录.png" group-title="江苏",南京文旅纪录 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7722/index.m3u8
+#EXTINF:-1  tvg-name="南京十八生活" tvg-logo="https://itv-tb.myukj.cn/tv/南京十八生活.png" group-title="江苏",南京十八生活 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7178/index.m3u8
+#EXTINF:-1  tvg-name="徐州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/徐州新闻综合.png" group-title="江苏",徐州新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/5945/index.m3u8
+#EXTINF:-1  tvg-name="徐州经济" tvg-logo="https://itv-tb.myukj.cn/tv/徐州经济.png" group-title="江苏",徐州经济 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/5947/index.m3u8
+#EXTINF:-1  tvg-name="徐州文艺" tvg-logo="https://itv-tb.myukj.cn/tv/徐州文艺.png" group-title="江苏",徐州文艺 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/5949/index.m3u8
+#EXTINF:-1  tvg-name="徐州公共" tvg-logo="https://itv-tb.myukj.cn/tv/徐州公共.png" group-title="江苏",徐州公共 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/5951/index.m3u8
+#EXTINF:-1  tvg-name="常州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/常州新闻综合.png" group-title="江苏",常州新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7752/index.m3u8
+#EXTINF:-1  tvg-name="常州都市" tvg-logo="https://itv-tb.myukj.cn/tv/常州都市.png" group-title="江苏",常州都市 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7755/index.m3u8
+#EXTINF:-1  tvg-name="常州生活" tvg-logo="https://itv-tb.myukj.cn/tv/常州生活.png" group-title="江苏",常州生活 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7816/index.m3u8
+#EXTINF:-1  tvg-name="常州公共" tvg-logo="https://itv-tb.myukj.cn/tv/常州公共.png" group-title="江苏",常州公共 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7772/index.m3u8
+#EXTINF:-1  tvg-name="连云港新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/连云港新闻综合.png" group-title="江苏",连云港新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7758/index.m3u8
+#EXTINF:-1  tvg-name="连云港公共" tvg-logo="https://itv-tb.myukj.cn/tv/连云港公共.png" group-title="江苏",连云港公共 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7819/index.m3u8
+#EXTINF:-1  tvg-name="盐城新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/盐城新闻综合.png" group-title="江苏",盐城新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8435/index.m3u8
+#EXTINF:-1  tvg-name="盐城教育" tvg-logo="https://itv-tb.myukj.cn/tv/盐城教育.png" group-title="江苏",盐城教育 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8433/index.m3u8
+#EXTINF:-1  tvg-name="盐城公共" tvg-logo="https://itv-tb.myukj.cn/tv/盐城公共.png" group-title="江苏",盐城公共 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8436/index.m3u8
+#EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/南通新闻综合.png" group-title="江苏",南通新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8462/index.m3u8
+#EXTINF:-1  tvg-name="南通社教" tvg-logo="https://itv-tb.myukj.cn/tv/南通社教.png" group-title="江苏",南通社教 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8448/index.m3u8
+#EXTINF:-1  tvg-name="南通公共崇川" tvg-logo="https://itv-tb.myukj.cn/tv/南通公共崇川.png" group-title="江苏",南通公共崇川 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8451/index.m3u8
+#EXTINF:-1  tvg-name="镇江新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/镇江新闻综合.png" group-title="江苏",镇江新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8246/index.m3u8
+#EXTINF:-1  tvg-name="镇江民生" tvg-logo="https://itv-tb.myukj.cn/tv/镇江民生.png" group-title="江苏",镇江民生 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7325/index.m3u8
+#EXTINF:-1  tvg-name="镇江资讯" tvg-logo="https://itv-tb.myukj.cn/tv/镇江资讯.png" group-title="江苏",镇江资讯 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8208/index.m3u8
+#EXTINF:-1  tvg-name="无锡新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/无锡新闻综合.png" group-title="江苏",无锡新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8103/index.m3u8
+#EXTINF:-1  tvg-name="淮安新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/淮安新闻综合.png" group-title="江苏",淮安新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8215/index.m3u8
+#EXTINF:-1  tvg-name="淮安公共" tvg-logo="https://itv-tb.myukj.cn/tv/淮安公共.png" group-title="江苏",淮安公共 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8840/index.m3u8
+#EXTINF:-1  tvg-name="淮安影视娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/淮安影视娱乐.png" group-title="江苏",淮安影视娱乐 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8837/index.m3u8
+#EXTINF:-1  tvg-name="宿迁新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/宿迁新闻综合.png" group-title="江苏",宿迁新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/6944/index.m3u8
+#EXTINF:-1  tvg-name="宿迁公共" tvg-logo="https://itv-tb.myukj.cn/tv/宿迁公共.png" group-title="江苏",宿迁公共 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/6939/index.m3u8
+#EXTINF:-1  tvg-name="泰州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/泰州新闻综合.png" group-title="江苏",泰州新闻综合 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8209/index.m3u8
+#EXTINF:-1  tvg-name="泰州教育" tvg-logo="https://itv-tb.myukj.cn/tv/泰州教育.png" group-title="江苏",泰州教育 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8212/index.m3u8
+#EXTINF:-1  tvg-name="泰州公共" tvg-logo="https://itv-tb.myukj.cn/tv/泰州公共.png" group-title="江苏",泰州公共 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8100/index.m3u8
+#EXTINF:-1  tvg-name="金湖新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/金湖新闻综合.png" group-title="江苏",金湖新闻综合 HD
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+#EXTINF:-1  tvg-name="邳州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/邳州新闻综合.png" group-title="江苏",邳州新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7576/index.m3u8
+#EXTINF:-1  tvg-name="沛县新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/沛县新闻综合.png" group-title="江苏",沛县新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7678/index.m3u8
+#EXTINF:-1  tvg-name="沛县经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/沛县经济生活.png" group-title="江苏",沛县经济生活 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7611/index.m3u8
+#EXTINF:-1  tvg-name="沛县文艺影视" tvg-logo="https://itv-tb.myukj.cn/tv/沛县文艺影视.png" group-title="江苏",沛县文艺影视 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7681/index.m3u8
+#EXTINF:-1  tvg-name="睢宁新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/睢宁新闻综合.png" group-title="江苏",睢宁新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7706/index.m3u8
+#EXTINF:-1  tvg-name="睢宁生活教育" tvg-logo="https://itv-tb.myukj.cn/tv/睢宁生活教育.png" group-title="江苏",睢宁生活教育 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7701/index.m3u8
+#EXTINF:-1  tvg-name="睢宁三农" tvg-logo="https://itv-tb.myukj.cn/tv/睢宁三农.png" group-title="江苏",睢宁三农 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7709/index.m3u8
+#EXTINF:-1  tvg-name="睢宁资讯" tvg-logo="https://itv-tb.myukj.cn/tv/睢宁资讯.png" group-title="江苏",睢宁资讯 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7712/index.m3u8
+#EXTINF:-1  tvg-name="赣榆新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/赣榆新闻综合.png" group-title="江苏",赣榆新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8317/index.m3u8
+#EXTINF:-1  tvg-name="铜山-1" tvg-logo="https://itv-tb.myukj.cn/tv/铜山1.png" group-title="江苏",铜山-1 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8152/index.m3u8
+#EXTINF:-1  tvg-name="铜山-2" tvg-logo="https://itv-tb.myukj.cn/tv/铜山2.png" group-title="江苏",铜山-2 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8081/index.m3u8
+#EXTINF:-1  tvg-name="铜山-3" tvg-logo="https://itv-tb.myukj.cn/tv/铜山3.png" group-title="江苏",铜山-3 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8055/index.m3u8
+#EXTINF:-1  tvg-name="铜山-4" tvg-logo="https://itv-tb.myukj.cn/tv/铜山4.png" group-title="江苏",铜山-4 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8249/index.m3u8
+#EXTINF:-1  tvg-name="宝应新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/宝应新闻综合.png" group-title="江苏",宝应新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8007/index.m3u8
+#EXTINF:-1  tvg-name="宝应生活资讯" tvg-logo="https://itv-tb.myukj.cn/tv/宝应生活资讯.png" group-title="江苏",宝应生活资讯 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8039/index.m3u8
+#EXTINF:-1  tvg-name="东海新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/东海新闻综合.png" group-title="江苏",东海新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7792/index.m3u8
+#EXTINF:-1  tvg-name="东海文娱" tvg-logo="https://itv-tb.myukj.cn/tv/东海文娱.png" group-title="江苏",东海文娱 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7739/index.m3u8
+#EXTINF:-1  tvg-name="东海国学与家道" tvg-logo="https://itv-tb.myukj.cn/tv/东海国学与家道.png" group-title="江苏",东海国学与家道 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7736/index.m3u8
+#EXTINF:-1  tvg-name="江都新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/江都新闻综合.png" group-title="江苏",江都新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8323/index.m3u8
+#EXTINF:-1  tvg-name="新沂新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/新沂新闻综合.png" group-title="江苏",新沂新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7292/index.m3u8
+#EXTINF:-1  tvg-name="灌南新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/灌南新闻综合.png" group-title="江苏",灌南新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8725/index.m3u8
+#EXTINF:-1  tvg-name="沭阳综合" tvg-logo="https://itv-tb.myukj.cn/tv/沭阳综合.png" group-title="江苏",沭阳综合 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8812/index.m3u8
+#EXTINF:-1  tvg-name="浙江卫视" tvg-logo="https://itv-tb.myukj.cn/tv/浙江卫视.png" group-title="浙江",浙江卫视 HD 
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=100
+#EXTINF:-1  tvg-name="浙江钱江都市" tvg-logo="https://itv-tb.myukj.cn/tv/浙江钱江都市.png" group-title="浙江",浙江钱江都市 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=132
+#EXTINF:-1  tvg-name="之江纪录" tvg-logo="https://itv-tb.myukj.cn/tv/浙江之江纪录.png" group-title="浙江",浙江之江纪录 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=25
+#EXTINF:-1  tvg-name="浙江经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/浙江经济生活.png" group-title="浙江",浙江经济生活 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=133
+#EXTINF:-1  tvg-name="浙江教科影视" tvg-logo="https://itv-tb.myukj.cn/tv/浙江科教影视.png" group-title="浙江",浙江科教影视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=134
+#EXTINF:-1  tvg-name="浙江民生" tvg-logo="https://itv-tb.myukj.cn/tv/浙江民生休闲.png" group-title="浙江",浙江民生休闲 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=136
+#EXTINF:-1  tvg-name="浙江公共新闻" tvg-logo="https://itv-tb.myukj.cn/tv/浙江公共新闻.png" group-title="浙江",浙江公共新闻 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=137
+#EXTINF:-1  tvg-name="杭州综合" tvg-logo="https://itv-tb.myukj.cn/tv/HTV-1综合.png" group-title="浙江",杭州综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=173
+#EXTINF:-1  tvg-name="杭州西湖明珠" tvg-logo="https://itv-tb.myukj.cn/tv/HTV-2西湖明珠.png" group-title="浙江",杭州西湖明珠 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=174
+#EXTINF:-1  tvg-name="杭州生活" tvg-logo="https://itv-tb.myukj.cn/tv/HTV-3生活.png" group-title="浙江",杭州生活 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=175
+#EXTINF:-1  tvg-name="杭州影视" tvg-logo="https://itv-tb.myukj.cn/tv/HTV-4影视.png" group-title="浙江",杭州影视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=176
+#EXTINF:-1  tvg-name="杭州青少体育"tvg-logo="https://itv-tb.myukj.cn/tv/HTV-5青少·体育.png" group-title="浙江",杭州青少体育 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=177
+#EXTINF:-1  tvg-name="宁波新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/NBTV-1.png" group-title="浙江",宁波新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=168
+#EXTINF:-1  tvg-name="宁波经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/NBTV-2.png" group-title="浙江",宁波经济生活 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=178
+#EXTINF:-1  tvg-name="宁波都市文体" tvg-logo="https://itv-tb.myukj.cn/tv/NBTV-3.png" group-title="浙江",宁波都市文体 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=179
+#EXTINF:-1  tvg-name="宁波影视剧" tvg-logo="https://itv-tb.myukj.cn/tv/NBTV-4.png" group-title="浙江",宁波影视剧 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=180
+#EXTINF:-1  tvg-name="衢州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/QZTV-1.png" group-title="浙江",衢州新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=11
+#EXTINF:-1  tvg-name="衢州公共" tvg-logo="https://itv-tb.myukj.cn/tv/QZTV-2.png" group-title="浙江",衢州公共 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=12
+#EXTINF:-1  tvg-name="绍兴新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/SXTV-1.png" group-title="浙江",绍兴新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=156
+#EXTINF:-1  tvg-name="温州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/温州新闻综合.png" group-title="浙江",温州新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=87
+#EXTINF:-1  tvg-name="湖州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/湖州新闻综合.png" group-title="浙江",湖州新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35527/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="湖州文化娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/湖州文化娱乐.png" group-title="浙江",湖州文化娱乐 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35529/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="湖州公共频道" tvg-logo="https://itv-tb.myukj.cn/tv/湖州公共频道.png" group-title="浙江",湖州公共频道 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35526/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="金华新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/金华新闻综合.png" group-title="浙江",金华新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/34612/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="金华教育科技" tvg-logo="https://itv-tb.myukj.cn/tv/金华教育科技.png" group-title="浙江",金华教育科技 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/34568/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="金华公共频道" tvg-logo="https://itv-tb.myukj.cn/tv/金华公共频道.png" group-title="浙江",金华公共频道 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/34615/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="嘉兴新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/嘉兴新闻综合.png" group-title="浙江",嘉兴新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35458/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="嘉兴文化影视" tvg-logo="https://itv-tb.myukj.cn/tv/嘉兴文化影视.png" group-title="浙江",嘉兴文化影视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35447/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="嘉兴公共频道" tvg-logo="https://itv-tb.myukj.cn/tv/嘉兴公共频道.png" group-title="浙江",嘉兴公共频道 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35460/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="舟山新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/舟山新闻综合.png" group-title="浙江",舟山新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35449/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="舟山公共频道" tvg-logo="https://itv-tb.myukj.cn/tv/舟山公共.png" group-title="浙江",舟山公共频道 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35445/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="普陀电视台" tvg-logo="https://itv-tb.myukj.cn/tv/普陀电视台.png" group-title="浙江",普陀电视台 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36558/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="丽水新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/丽水新闻综合.png" group-title="浙江",丽水新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35528/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="丽水公共" tvg-logo="https://itv-tb.myukj.cn/tv/丽水公共.png" group-title="浙江",丽水公共 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35525/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="嵊泗新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/嵊泗新闻综合.png" group-title="浙江",嵊泗新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36582/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="安徽卫视" tvg-logo="https://itv-tb.myukj.cn/tv/安徽卫视.png" group-title="安徽",安徽卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=113
+#EXTINF:-1  tvg-name="安徽公共" tvg-logo="https://itv-tb.myukj.cn/tv/安徽公共.png" group-title="安徽",安徽公共 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00B/43:4456
+#EXTINF:-1  tvg-name="安徽国际" tvg-logo="https://itv-tb.myukj.cn/tv/安徽国际.png" group-title="安徽",安徽国际 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/61:6360
+#EXTINF:-1  tvg-name="安徽经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/安徽经济生活.png" group-title="安徽",安徽经济生活 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00B/44:4464
+#EXTINF:-1  tvg-name="安徽农业科教" tvg-logo="https://itv-tb.myukj.cn/tv/安徽农业科教.png" group-title="安徽",安徽农业科教 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00B/40:4432
+#EXTINF:-1  tvg-name="安徽影视" tvg-logo="https://itv-tb.myukj.cn/tv/安徽影视.png" group-title="安徽",安徽影视 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00B/42:4448
+#EXTINF:-1  tvg-name="安徽综艺体育" tvg-logo="https://itv-tb.myukj.cn/tv/安徽综艺体育.png" group-title="安徽",安徽综艺体育 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00B/41:4440
+#EXTINF:-1  tvg-name="合肥新闻" tvg-logo="https://itv-tb.myukj.cn/tv/合肥新闻.png" group-title="安徽",合肥新闻 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/111:6760
+#EXTINF:-1  tvg-name="滁州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/滁州新闻综合.png" group-title="安徽",滁州新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/132:6928
+#EXTINF:-1  tvg-name="滁州公共" tvg-logo="https://itv-tb.myukj.cn/tv/滁州公共.png" group-title="安徽",滁州公共 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/133:6936
+#EXTINF:-1  tvg-name="滁州科教" tvg-logo="https://itv-tb.myukj.cn/tv/滁州科教.png" group-title="安徽",滁州科教 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/134:6944
+#EXTINF:-1  tvg-name="黄山新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/黄山新闻综合.png" group-title="安徽",黄山新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/130:6912
+#EXTINF:-1  tvg-name="黄山文旅" tvg-logo="https://itv-tb.myukj.cn/tv/黄山文旅.png" group-title="安徽",黄山文旅 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/131:6920
+#EXTINF:-1  tvg-name="六安综合" tvg-logo="https://itv-tb.myukj.cn/tv/六安综合.png" group-title="安徽",六安综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/144:7024
+#EXTINF:-1  tvg-name="六安社会生活" tvg-logo="https://itv-tb.myukj.cn/tv/六安社会生活.png" group-title="安徽",六安社会生活 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/145:7032
+#EXTINF:-1  tvg-name="淮南新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/淮南新闻综合.png" group-title="安徽",淮南新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/113:6776
+#EXTINF:-1  tvg-name="淮南民生" tvg-logo="https://itv-tb.myukj.cn/tv/淮南民生.png" group-title="安徽",淮南民生 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/114:6784
+#EXTINF:-1  tvg-name="淮北新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/淮北新闻综合.png" group-title="安徽",淮北新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/135:6952
+#EXTINF:-1  tvg-name="淮北经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/淮北经济生活.png" group-title="安徽",淮北经济生活 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/136:6960
+#EXTINF:-1  tvg-name="亳州综合" tvg-logo="https://itv-tb.myukj.cn/tv/亳州综合.png" group-title="安徽",亳州综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/128:6896
+#EXTINF:-1  tvg-name="亳州农村" tvg-logo="https://itv-tb.myukj.cn/tv/亳州农村.png" group-title="安徽",亳州农村 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/129:6904
+#EXTINF:-1  tvg-name="阜阳新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/阜阳新闻综合.png" group-title="安徽",阜阳新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/124:6864
+#EXTINF:-1  tvg-name="阜阳生活" tvg-logo="https://itv-tb.myukj.cn/tv/阜阳生活.png" group-title="安徽",阜阳生活 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/125:6872
+#EXTINF:-1  tvg-name="池州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/池州新闻综合.png" group-title="安徽",池州新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/147:7048
+#EXTINF:-1  tvg-name="池州文教生活" tvg-logo="https://itv-tb.myukj.cn/tv/池州文教生活.png" group-title="安徽",池州文教生活 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/148:7056
+#EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/东南卫视.png" group-title="福建",东南卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=146
+#EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://itv-tb.myukj.cn/tv/海峡卫视.png" group-title="福建",海峡卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36416/index.m3u8
+#EXTINF:-1  tvg-name="河南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/河南卫视.png" group-title="河南",河南卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=144
+#EXTINF:-1  tvg-name="河南都市" tvg-logo="https://itv-tb.myukj.cn/tv/河南都市.png" group-title="河南",河南都市 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6911/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南民生" tvg-logo="https://itv-tb.myukj.cn/tv/河南民生.png" group-title="河南",河南民生 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6913/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南法治" tvg-logo="https://itv-tb.myukj.cn/tv/河南法治.png" group-title="河南",河南法治 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6940/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南新闻" tvg-logo="https://itv-tb.myukj.cn/tv/河南新闻.png" group-title="河南",河南新闻 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6915/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南公共" tvg-logo="https://itv-tb.myukj.cn/tv/河南公共.png" group-title="河南",河南公共 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6946/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南乡村" tvg-logo="https://itv-tb.myukj.cn/tv/河南乡村.png" group-title="河南",河南乡村 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6948/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南电视剧" tvg-logo="https://itv-tb.myukj.cn/tv/河南电视剧.png" group-title="河南",河南电视剧 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6942/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南戏曲" tvg-logo="https://itv-tb.myukj.cn/tv/河南戏曲.png" group-title="河南",河南戏曲 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6933/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="移动戏曲" tvg-logo="https://itv-tb.myukj.cn/tv/移动戏曲.png" group-title="河南",移动戏曲 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6929/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="河南梨园" tvg-logo="https://itv-tb.myukj.cn/tv/河南梨园.png" group-title="河南",河南梨园 HD
+https://cn_all_iptv.myukj.cn/php/hntv.php?id=hnly
+#EXTINF:-1  tvg-name="收藏天下" tvg-logo="https://itv-tb.myukj.cn/tv/收藏天下.png" group-title="河南",收藏天下 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6931/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="文物宝库" tvg-logo="https://itv-tb.myukj.cn/tv/文物宝库.png" group-title="河南",文物宝库 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00B/?id=209
+#EXTINF:-1  tvg-name="国学频道" tvg-logo="https://itv-tb.myukj.cn/tv/国学频道.png" group-title="河南",国学频道 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6629/index.m3u8
+#EXTINF:-1  tvg-name="武术世界" tvg-logo="https://itv-tb.myukj.cn/tv/武术世界.png" group-title="河南",武术世界 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00B/?id=205
+#EXTINF:-1  tvg-name="中华功夫" tvg-logo="https://itv-tb.myukj.cn/tv/中华功夫.png" group-title="河南",中华功夫 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6962/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="健康河南" tvg-logo="https://itv-tb.myukj.cn/tv/健康河南.png" group-title="河南",健康河南 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7091/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="睛彩中原" tvg-logo="https://itv-tb.myukj.cn/tv/睛彩中原.png" group-title="河南",睛彩中原 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6927/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="象视界" tvg-logo="https://itv-tb.myukj.cn/tv/象视界.png" group-title="河南",象视界 HD
+https://cn_all_iptv.myukj.cn/php/hntv.php?id=xsj
+#EXTINF:-1  tvg-name="调解剧场" tvg-logo="https://itv-tb.myukj.cn/tv/调解剧场.png" group-title="河南",调解剧场 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6966/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="郑州新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/郑州新闻综合.png" group-title="河南",郑州新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6949/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="郑州商都" tvg-logo="https://itv-tb.myukj.cn/tv/郑州商都.png" group-title="河南",郑州商都 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6955/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="郑州文体旅游" tvg-logo="https://itv-tb.myukj.cn/tv/郑州文体旅游.png" group-title="河南",郑州文体旅游 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6996/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="郑州影视戏曲" tvg-logo="https://itv-tb.myukj.cn/tv/郑州影视戏曲.png" group-title="河南",郑州影视戏曲 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7000/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="郑州妇女儿童" tvg-logo="https://itv-tb.myukj.cn/tv/郑州妇女儿童.png" group-title="河南",郑州妇女儿童 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7050/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="郑州都市生活" tvg-logo="https://itv-tb.myukj.cn/tv/郑州都市生活.png" group-title="河南",郑州都市生活 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7021/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="开封新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/开封新闻综合.png" group-title="河南",开封新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7046/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="开封文化旅游" tvg-logo="https://itv-tb.myukj.cn/tv/开封文化旅游.png" group-title="河南",开封文化旅游 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7019/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="洛阳新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/洛阳新闻综合.png" group-title="河南",洛阳新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7017/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="洛阳科教" tvg-logo="https://itv-tb.myukj.cn/tv/洛阳科教.png" group-title="河南",洛阳科教 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7015/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="洛阳文旅" tvg-logo="https://itv-tb.myukj.cn/tv/洛阳文旅.png" group-title="河南",洛阳文旅 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7013/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="安阳新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/安阳新闻综合.png" group-title="河南",安阳新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7003/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="安阳文旅" tvg-logo="https://itv-tb.myukj.cn/tv/安阳文旅.png" group-title="河南",安阳文旅 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7032/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="驻马店新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/驻马店新闻综合.png" group-title="河南",驻马店新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6870/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="驻马店公共" tvg-logo="https://itv-tb.myukj.cn/tv/驻马店公共.png" group-title="河南",驻马店公共 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6868/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="驻马店科教" tvg-logo="https://itv-tb.myukj.cn/tv/驻马店科教.png" group-title="河南",驻马店科教 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6833/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="新乡新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/新乡新闻综合.png" group-title="河南",新乡新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6997/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="新乡公共" tvg-logo="https://itv-tb.myukj.cn/tv/新乡公共.png" group-title="河南",新乡公共 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6995/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="焦作新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/焦作新闻综合.png" group-title="河南",焦作新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6382/index.m3u8
+#EXTINF:-1  tvg-name="焦作公共" tvg-logo="https://itv-tb.myukj.cn/tv/焦作公共.png" group-title="河南",焦作公共 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7052/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="濮阳新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/濮阳新闻综合.png" group-title="河南",濮阳新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7042/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="许昌综合" tvg-logo="https://itv-tb.myukj.cn/tv/许昌综合.png" group-title="河南",许昌综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7038/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="许昌农业科教" tvg-logo="https://itv-tb.myukj.cn/tv/许昌农业科教.png" group-title="河南",许昌农业科教 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7040/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="漯河新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/漯河新闻综合.png" group-title="河南",漯河新闻综合 HD
+https://cn_all_iptv.myukj.cn/php/hntv.php?id=lh1
+#EXTINF:-1  tvg-name="三门峡新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/三门峡新闻综合.png" group-title="河南",三门峡新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7034/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="南阳新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/南阳新闻综合.png" group-title="河南",南阳新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6831/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="南阳公共" tvg-logo="https://itv-tb.myukj.cn/tv/南阳公共.png" group-title="河南",南阳公共 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6864/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="南阳科教" tvg-logo="https://itv-tb.myukj.cn/tv/南阳科教.png" group-title="河南",南阳科教 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6829/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="信阳新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/信阳新闻综合.png" group-title="河南",信阳新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6827/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="信阳文旅" tvg-logo="https://itv-tb.myukj.cn/tv/信阳文旅.png" group-title="河南",信阳文旅 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6825/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="济源新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/济源新闻综合.png" group-title="河南",济源新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6862/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="周口新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/周口新闻综合.png" group-title="河南",周口新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7026/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="周口公共" tvg-logo="https://itv-tb.myukj.cn/tv/周口公共.png" group-title="河南",周口公共 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/7024/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="周口教育" tvg-logo="https://itv-tb.myukj.cn/tv/周口教育.png" group-title="河南",周口教育 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6817/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="湖南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/湖南卫视.png" group-title="湖南",湖南卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=103
+#EXTINF:-1  tvg-name="快乐垂钓" tvg-logo="https://itv-tb.myukj.cn/tv/快乐垂钓.png" group-title="湖南",快乐垂钓 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=109
+#EXTINF:-1  tvg-name="茶" tvg-logo="https://itv-tb.myukj.cn/tv/茶频道.png" group-title="湖南",茶频道 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=188
+#EXTINF:-1  tvg-name="金鹰纪实" tvg-logo="https://itv-tb.myukj.cn/tv/金鹰纪实.png" group-title="湖南",金鹰纪实 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=79
+#EXTINF:-1  tvg-name="广东卫视" tvg-logo="https://itv-tb.myukj.cn/tv/广东卫视.png" group-title="广东",广东卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=126
+#EXTINF:-1  tvg-name="广东珠江" tvg-logo="https://itv-tb.myukj.cn/tv/广东珠江.png" group-title="广东",广东珠江 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=1
+#EXTINF:-1  tvg-name="广东新闻" tvg-logo="https://itv-tb.myukj.cn/tv/广东新闻.png" group-title="广东",广东新闻 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=173
+#EXTINF:-1  tvg-name="广东民生" tvg-logo="https://itv-tb.myukj.cn/tv/广东民生.png" group-title="广东",广东民生 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=225
+#EXTINF:-1  tvg-name="广东体育" tvg-logo="https://itv-tb.myukj.cn/tv/广东体育.png" group-title="广东",广东体育 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=112
+#EXTINF:-1  tvg-name="广东经济科教" tvg-logo="https://itv-tb.myukj.cn/tv/广东经济科教.png" group-title="广东",广东经济科教 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=85
+#EXTINF:-1  tvg-name="广东影视" tvg-logo="https://itv-tb.myukj.cn/tv/广东影视.png" group-title="广东",广东影视 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=217
+#EXTINF:-1  tvg-name="岭南戏曲" tvg-logo="https://itv-tb.myukj.cn/tv/岭南戏曲.png" group-title="广东",岭南戏曲 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=122
+#EXTINF:-1  tvg-name="现代教育" tvg-logo="https://itv-tb.myukj.cn/tv/现代教育.png" group-title="广东",现代教育 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=213
+#EXTINF:-1  tvg-name="大湾区卫视" tvg-logo="https://itv-tb.myukj.cn/tv/大湾区卫视.png" group-title="广东",大湾区卫视 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=215
+#EXTINF:-1  tvg-name="广州综合" tvg-logo="https://itv-tb.myukj.cn/tv/广州综合.png" group-title="广东",广州综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=71
+#EXTINF:-1  tvg-name="广州新闻" tvg-logo="https://itv-tb.myukj.cn/tv/广州新闻.png" group-title="广东",广州新闻 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=72
+#EXTINF:-1  tvg-name="广州影视" tvg-logo="https://itv-tb.myukj.cn/tv/广州影视.png" group-title="广东",广州影视 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=73
+#EXTINF:-1  tvg-name="广州法治" tvg-logo="https://itv-tb.myukj.cn/tv/广州法治.png" group-title="广东",广州法治 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=74
+#EXTINF:-1  tvg-name="深圳卫视" tvg-logo="https://itv-tb.myukj.cn/tv/深圳卫视.png" group-title="广东",深圳卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=188
+#EXTINF:-1  tvg-name="深圳都市" tvg-logo="https://itv-tb.myukj.cn/tv/深圳都市.png" group-title="广东",深圳都市 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=176
+#EXTINF:-1  tvg-name="深圳电视剧" tvg-logo="https://itv-tb.myukj.cn/tv/深圳电视剧.png" group-title="广东",深圳电视剧 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=177
+#EXTINF:-1  tvg-name="深圳财经生活" tvg-logo="https://itv-tb.myukj.cn/tv/深圳财经生活.png" group-title="广东",深圳财经生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=242
+#EXTINF:-1  tvg-name="深圳体育健康" tvg-logo="https://itv-tb.myukj.cn/tv/深圳体育健康.png" group-title="广东",深圳体育健康 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=128
+#EXTINF:-1  tvg-name="深圳宝安" tvg-logo="https://itv-tb.myukj.cn/tv/深圳宝安.png" group-title="广东",深圳宝安 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=67
+#EXTINF:-1  tvg-name="深圳龙岗" tvg-logo="https://itv-tb.myukj.cn/tv/深圳龙岗.png" group-title="广东",深圳龙岗 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=223
+#EXTINF:-1  tvg-name="深圳众创TV" tvg-logo="https://itv-tb.myukj.cn/tv/深圳众创TV.png" group-title="广东",深圳众创TV HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=247
+#EXTINF:-1  tvg-name="韶关新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/韶关新闻综合.png" group-title="广东",韶关新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=117
+#EXTINF:-1  tvg-name="湛江新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/湛江新闻综合.png" group-title="广东",湛江新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=141
+#EXTINF:-1  tvg-name="揭阳综合" tvg-logo="https://itv-tb.myukj.cn/tv/揭阳综合.png" group-title="广东",揭阳综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=229
+#EXTINF:-1  tvg-name="揭阳生活" tvg-logo="https://itv-tb.myukj.cn/tv/揭阳生活.png" group-title="广东",揭阳生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=251
+#EXTINF:-1  tvg-name="汕尾新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/汕尾新闻综合.png" group-title="广东",汕尾新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=25
+#EXTINF:-1  tvg-name="汕尾文化生活" tvg-logo="https://itv-tb.myukj.cn/tv/汕尾文化生活.png" group-title="广东",汕尾文化生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=187
+#EXTINF:-1  tvg-name="江门综合" tvg-logo="https://itv-tb.myukj.cn/tv/江门综合.png" group-title="广东",江门综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=201
+#EXTINF:-1  tvg-name="江门侨乡生活" tvg-logo="https://itv-tb.myukj.cn/tv/江门侨乡生活.png" group-title="广东",江门侨乡生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=202
+#EXTINF:-1  tvg-name="惠州综合" tvg-logo="https://itv-tb.myukj.cn/tv/惠州综合.png" group-title="广东",惠州综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=232
+#EXTINF:-1  tvg-name="惠州公共" tvg-logo="https://itv-tb.myukj.cn/tv/惠州公共.png" group-title="广东",惠州公共 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=233
+#EXTINF:-1  tvg-name="珠海综合" tvg-logo="https://itv-tb.myukj.cn/tv/珠海综合.png" group-title="广东",珠海综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=155
+#EXTINF:-1  tvg-name="肇庆综合" tvg-logo="https://itv-tb.myukj.cn/tv/肇庆综合.png" group-title="广东",肇庆综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=1
+#EXTINF:-1  tvg-name="肇庆生活服务" tvg-logo="https://itv-tb.myukj.cn/tv/肇庆生活服务.png" group-title="广东",肇庆生活服务 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=2
+#EXTINF:-1  tvg-name="河源综合" tvg-logo="https://itv-tb.myukj.cn/tv/河源综合.png" group-title="广东",河源综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=213
+#EXTINF:-1  tvg-name="河源公共" tvg-logo="https://itv-tb.myukj.cn/tv/河源公共.png" group-title="广东",河源公共 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=214
+#EXTINF:-1  tvg-name="清远新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/清远新闻综合.png" group-title="广东",清远新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=33
+#EXTINF:-1  tvg-name="清远文旅生活" tvg-logo="https://itv-tb.myukj.cn/tv/清远文旅生活.png" group-title="广东",清远文旅生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=34
+#EXTINF:-1  tvg-name="云浮综合" tvg-logo="https://itv-tb.myukj.cn/tv/云浮综合.png" group-title="广东",云浮综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=253
+#EXTINF:-1  tvg-name="云浮文旅" tvg-logo="https://itv-tb.myukj.cn/tv/云浮文旅.png" group-title="广东",云浮文旅 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=254
+#EXTINF:-1  tvg-name="茂名综合" tvg-logo="https://itv-tb.myukj.cn/tv/茂名综合.png" group-title="广东",茂名综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=206
+#EXTINF:-1  tvg-name="茂名文化生活" tvg-logo="https://itv-tb.myukj.cn/tv/茂名文化生活.png" group-title="广东",茂名文化生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=207
+#EXTINF:-1  tvg-name="汕头综合" tvg-logo="https://itv-tb.myukj.cn/tv/汕头综合.png" group-title="广东",汕头综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=130
+#EXTINF:-1  tvg-name="汕头经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/汕头经济生活.png" group-title="广东",汕头经济生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=131
+#EXTINF:-1  tvg-name="汕头文旅体育" tvg-logo="https://itv-tb.myukj.cn/tv/汕头文旅体育.png" group-title="广东",汕头文旅体育 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=47
+#EXTINF:-1  tvg-name="佛山综合" tvg-logo="https://itv-tb.myukj.cn/tv/佛山综合.png" group-title="广东",佛山综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=57
+#EXTINF:-1  tvg-name="佛山公共" tvg-logo="https://itv-tb.myukj.cn/tv/佛山公共.png" group-title="广东",佛山公共 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=53
+#EXTINF:-1  tvg-name="佛山南海" tvg-logo="https://itv-tb.myukj.cn/tv/佛山南海.png" group-title="广东",佛山南海 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=54
+#EXTINF:-1  tvg-name="佛山顺德" tvg-logo="https://itv-tb.myukj.cn/tv/佛山顺德.png" group-title="广东",佛山顺德 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=55
+#EXTINF:-1  tvg-name="佛山影视" tvg-logo="https://itv-tb.myukj.cn/tv/佛山影视.png" group-title="广东",佛山影视 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=56
+#EXTINF:-1  tvg-name="东莞新闻综合" tvg-logo="https://itv-tb.myukj.cn/tv/东莞新闻综合.png" group-title="广东",东莞新闻综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=104
+#EXTINF:-1  tvg-name="东莞生活资讯" tvg-logo="https://itv-tb.myukj.cn/tv/东莞生活资讯.png" group-title="广东",东莞生活资讯 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=105
+#EXTINF:-1  tvg-name="中山综合" tvg-logo="https://itv-tb.myukj.cn/tv/中山综合.png" group-title="广东",中山综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=62
+#EXTINF:-1  tvg-name="中山香山文化" tvg-logo="https://itv-tb.myukj.cn/tv/中山香山文化.png" group-title="广东",中山香山文化 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=63
+#EXTINF:-1  tvg-name="潮州综合" tvg-logo="https://itv-tb.myukj.cn/tv/潮州综合.png" group-title="广东",潮州综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=70
+#EXTINF:-1  tvg-name="潮州民生" tvg-logo="https://itv-tb.myukj.cn/tv/潮州民生.png" group-title="广东",潮州民生 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=75
+#EXTINF:-1  tvg-name="梅州综合" tvg-logo="https://itv-tb.myukj.cn/tv/梅州综合.png" group-title="广东",梅州综合 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=123
+#EXTINF:-1  tvg-name="梅州客家生活" tvg-logo="https://itv-tb.myukj.cn/tv/梅州客家生活.png" group-title="广东",梅州客家生活 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=124
+#EXTINF:-1  tvg-name="海南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/海南卫视.png" group-title="海南",海南卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/32687/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="三沙卫视" tvg-logo="https://itv-tb.myukj.cn/tv/三沙卫视.png" group-title="海南",三沙卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=175
+#EXTINF:-1  tvg-name="凤凰中文" tvg-logo="https://itv-tb.myukj.cn/tv/凤凰卫视中文台.png" group-title="香港",凤凰卫视中文台 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=35
+#EXTINF:-1  tvg-name="凤凰资讯" tvg-logo="https://itv-tb.myukj.cn/tv/凤凰卫视资讯台.png" group-title="香港",凤凰卫视资讯台 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=36
+#EXTINF:-1  tvg-name="凤凰香港" tvg-logo="https://itv-tb.myukj.cn/tv/凤凰卫视香港台.png" group-title="香港",凤凰卫视香港台 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8530/index.m3u8
+#EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://itv-tb.myukj.cn/tv/天津卫视.png" group-title="省级卫视",天津卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=104
+#EXTINF:-1  tvg-name="吉林卫视" tvg-logo="https://itv-tb.myukj.cn/tv/吉林卫视.png" group-title="省级卫视",吉林卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=42
+#EXTINF:-1  tvg-name="陕西卫视" tvg-logo="https://itv-tb.myukj.cn/tv/陕西卫视.png" group-title="省级卫视",陕西卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36370/index.m3u8
+#EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://itv-tb.myukj.cn/tv/河北卫视.png" group-title="省级卫视",河北卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=140
+#EXTINF:-1  tvg-name="江西卫视" tvg-logo="https://itv-tb.myukj.cn/tv/江西卫视.png" group-title="省级卫视",江西卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=145
+#EXTINF:-1  tvg-name="山东卫视" tvg-logo="https://itv-tb.myukj.cn/tv/山东卫视.png" group-title="省级卫视",山东卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=105
+#EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://itv-tb.myukj.cn/tv/湖北卫视.png" group-title="省级卫视",湖北卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=114
+#EXTINF:-1  tvg-name="广西卫视" tvg-logo="https://itv-tb.myukj.cn/tv/广西卫视.png" group-title="省级卫视",广西卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=136
+#EXTINF:-1  tvg-name="重庆卫视" tvg-logo="https://itv-tb.myukj.cn/tv/重庆卫视.png" group-title="省级卫视",重庆卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=143
+#EXTINF:-1  tvg-name="四川卫视" tvg-logo="https://itv-tb.myukj.cn/tv/四川卫视.png" group-title="省级卫视",四川卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=139
+#EXTINF:-1  tvg-name="贵州卫视" tvg-logo="https://itv-tb.myukj.cn/tv/贵州卫视.png" group-title="省级卫视",贵州卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=142
+#EXTINF:-1  tvg-name="云南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/云南卫视.png" group-title="省级卫视",云南卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=115
+#EXTINF:-1  tvg-name="山西卫视" tvg-logo="https://itv-tb.myukj.cn/tv/山西卫视.png" group-title="省级卫视",山西卫视 HD
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6552/index.m3u8
+#EXTINF:-1  tvg-name="甘肃卫视" tvg-logo="https://itv-tb.myukj.cn/tv/甘肃卫视.png" group-title="省级卫视",甘肃卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36201/index.m3u8
+#EXTINF:-1  tvg-name="青海卫视" tvg-logo="https://itv-tb.myukj.cn/tv/青海卫视.png" group-title="省级卫视",青海卫视 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36252/index.m3u8
+#EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://itv-tb.myukj.cn/tv/新疆卫视.png" group-title="省级卫视",新疆卫视 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8290/index.m3u8
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV14.png" group-title="卡通动漫"“内蒙古”,CCTV-14 少儿 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=20
+#EXTINF:-1  tvg-name="卡酷少儿" tvg-logo="https://itv-tb.myukj.cn/tv/卡酷少儿.png" group-title="卡通动漫",BRTV-北京卡酷少儿 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=33
+#EXTINF:-1  tvg-name="优漫卡通" tvg-logo="https://itv-tb.myukj.cn/tv/优漫卡通.png" group-title="卡通动漫",优漫卡通 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=119
+#EXTINF:-1  tvg-name="哈哈炫动" tvg-logo="https://itv-tb.myukj.cn/tv/哈哈炫动.png" group-title="卡通动漫",SMG-哈哈炫动 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=167
+#EXTINF:-1  tvg-name="金鹰卡通" tvg-logo="https://itv-tb.myukj.cn/tv/金鹰卡通.png" group-title="卡通动漫",金鹰卡通 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00A/?id=33
+#EXTINF:-1  tvg-name="嘉佳卡通" tvg-logo="https://itv-tb.myukj.cn/tv/嘉佳卡通.png" group-title="卡通动漫",嘉佳卡通 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=179
+#EXTINF:-1  tvg-name="内蒙古少儿" tvg-logo="https://itv-tb.myukj.cn/tv/内蒙古少儿.png" group-title="卡通动漫",内蒙古少儿 HD 
+https://cn_all_iptv.myukj.cn/086/150000/00000/00A/?id=207
+#EXTINF:-1  tvg-name="黑龙江少儿" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江少儿.png" group-title="卡通动漫",黑龙江少儿 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/26304/index.m3u8
+#EXTINF:-1  tvg-name="动漫秀场" tvg-logo="https://itv-tb.myukj.cn/tv/动漫秀场.png" group-title="卡通动漫",SiTV-动漫秀场 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=184
+#EXTINF:-1  tvg-name="南京少儿" tvg-logo="https://itv-tb.myukj.cn/tv/南京少儿.png" group-title="卡通动漫",南京少儿 HD 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7733/index.m3u8
+#EXTINF:-1  tvg-name="浙江少儿" tvg-logo="https://itv-tb.myukj.cn/tv/浙江少儿.png" group-title="卡通动漫",浙江少儿 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=138
+#EXTINF:-1  tvg-name="广东少儿" tvg-logo="https://itv-tb.myukj.cn/tv/广东少儿.png" group-title="卡通动漫",广东少儿 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=250
+#EXTINF:-1  tvg-name="深圳少儿" tvg-logo="https://itv-tb.myukj.cn/tv/深圳少儿.png" group-title="卡通动漫",深圳少儿 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00B/?id=244
+#EXTINF:-1  tvg-name="NewTV黑莓动画" tvg-logo="https://itv-tb.myukj.cn/tv/黑莓动画.png" group-title="卡通动漫",NewTV黑莓动画  HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36261/index.m3u8
+#EXTINF:-1  tvg-name="汪汪队立大功" tvg-logo="https://itv-tb.myukj.cn/tv/汪汪队立大功.png" group-title="卡通动漫",汪汪队立大功
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8463/index.m3u8
+#EXTINF:-1  tvg-name="小猪佩奇" tvg-logo="https://itv-tb.myukj.cn/tv/小猪佩奇.png" group-title="卡通动漫",小猪佩奇
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8460/index.m3u8
+#EXTINF:-1  tvg-name="超级飞侠" tvg-logo="https://itv-tb.myukj.cn/tv/超级飞侠.png" group-title="卡通动漫",超级飞侠
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8539/index.m3u8
+#EXTINF:-1  tvg-name="熊出没" tvg-logo="https://itv-tb.myukj.cn/tv/熊出没.png" group-title="卡通动漫",熊出没
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8536/index.m3u8
+#EXTINF:-1  tvg-name="德凯奥特曼" tvg-logo="https://itv-tb.myukj.cn/tv/德凯奥特曼.png" group-title="卡通动漫",德凯奥特曼
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8456/index.m3u8
+#EXTINF:-1  tvg-name="动漫星空" tvg-logo="https://itv-tb.myukj.cn/tv/动漫星空.png" group-title="卡通动漫",动漫星空
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8579/index.m3u8
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV1.png" group-title="超高清",CCTV-1 综合 4K
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8581/index.m3u8
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV3.png" group-title="超高清",CCTV-3 综艺 4K
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8499/index.m3u8
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV5.png" group-title="超高清",CCTV-5 体育 4K
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8502/index.m3u8
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV164K.png" group-title="超高清",CCTV-16 体育赛事 4K
+https://cn_all_iptv.myukj.cn//086/330000/00000/00B/?id=63
+#EXTINF:-1  tvg-name="CCTV4K" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4K.png" group-title="超高清",CCTV-4K 超高清
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/29373/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="CCTV8K" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV8K.png" group-title="超高清",CCTV-8K 超高清
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8165/index.m3u8
+#EXTINF:-1  tvg-name="CCTV8K" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV8K.png" group-title="超高清",CCTV 8K 超高清 （AVS3）
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36272/index.m3u8
+#EXTINF:-1  tvg-name="北京卫视" tvg-logo="https://itv-tb.myukj.cn/tv/北京卫视4K.png" group-title="超高清",北京卫视 4K 超高清
+https://cn_all_iptv.myukj.cn/086/310000/00086/000/1500/index.m3u8?IAS
+#EXTINF:-1  tvg-name="河南4K实验" tvg-logo="https://itv-tb.myukj.cn/tv/河南4K实验.png" group-title="超高清",河南4K实验 4K
+https://cn_all_iptv.myukj.cn/086/410000/00086/000/6936/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="广东4K超高清" tvg-logo="https://itv-tb.myukj.cn/tv/广东4K超高清.png" group-title="超高清",广东4K 超高清 
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=245
+#EXTINF:-1  tvg-name="南国都市" tvg-logo="https://itv-tb.myukj.cn/tv/南国都市.png" group-title="超高清",南国都市 4K  
+https://cn_all_iptv.myukj.cn/086/440000/00000/00C/?id=99
+#EXTINF:-1  tvg-name="华数4K" tvg-logo="https://itv-tb.myukj.cn/tv/华数4K.png" group-title="超高清",华数4K 
+https://cn_all_iptv.myukj.cn/086/340000/00000/00A/23:6112
+#EXTINF:-1  tvg-name="纯享4K" tvg-logo="https://itv-tb.myukj.cn/tv/纯享4K.png" group-title="超高清",纯享4K 
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8242/index.m3u8
+#EXTINF:-1  tvg-name="百视通" tvg-logo="https://itv-tb.myukj.cn/tv/bestv-4k.png" group-title="超高清",百视通纪实 4K
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=182
+#EXTINF:-1  tvg-name="百视通" tvg-logo="https://itv-tb.myukj.cn/tv/bestv-4k.png" group-title="超高清",百视通少儿 4K
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=183
+#EXTINF:-1  tvg-name="百视通" tvg-logo="https://itv-tb.myukj.cn/tv/bestv-4k.png" group-title="超高清",百视通视界 4K
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=185
+#EXTINF:-1  tvg-name="求索记录4K" tvg-logo="https://itv-tb.myukj.cn/tv/求索记录4K.png" group-title="超高清",求索记录 4K
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/32776/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="欢笑剧场" tvg-logo="https://itv-tb.myukj.cn/tv/欢笑剧场4K.png" group-title="超高清",SiTV-欢笑剧场 4K
+https://cn_all_iptv.myukj.cn/086/330000/00000/00A/?id=52
+#EXTINF:-1  tvg-name="IHOT爱赛车" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱赛车.png" group-title="IHOT",IHOT爱赛车 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30032/index.m3u8
+#EXTINF:-1  tvg-name="IHOT爱旅行" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱旅行.png" group-title="IHOT",IHOT爱旅行 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30052/index.m3u8
+#EXTINF:-1  tvg-name="IHOT爱悬疑" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱悬疑.png" group-title="IHOT",IHOT爱悬疑 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30098/index.m3u8
+#EXTINF:-1  tvg-name="IHOT爱体育" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱体育.png" group-title="IHOT",IHOT爱体育 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30103/index.m3u8
+#EXTINF:-1  tvg-name="IHOT爱历史" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱历史.png" group-title="IHOT",IHOT爱历史 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30100/index.m3u8
+#EXTINF:-1  tvg-name="IHOT爱谍战" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱谍战.png" group-title="IHOT",IHOT爱谍战 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30092/index.m3u8
+#EXTINF:-1  tvg-name="IHOT爱喜剧" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱喜剧.png" group-title="IHOT",IHOT爱喜剧 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30022/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱浪漫" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱浪漫.png" group-title="IHOT",IHOT爱浪漫 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30005/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱院线" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱院线.png" group-title="IHOT",IHOT爱院线 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30019/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱科幻" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱科幻.png" group-title="IHOT",IHOT爱科幻 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/30025/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱动漫" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱动漫.png" group-title="IHOT",IHOT爱动漫 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35628/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱奇谈" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱奇谈.png" group-title="IHOT",IHOT爱奇谈 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35605/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱科学" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱科学.png" group-title="IHOT",IHOT爱科学 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35603/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱幼教" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱幼教.png" group-title="IHOT",IHOT爱幼教 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35622/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="IHOT爱玩具" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱玩具.png" group-title="IHOT",IHOT爱玩具 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/35626/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="NewTV精品大剧" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV精品大剧.png" group-title="NewTV",NewTV精品大剧 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36239/index.m3u8
+#EXTINF:-1  tvg-name="NewTV精品体育" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV精品体育.png" group-title="NewTV",NewTV精品体育 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36300/index.m3u8
+#EXTINF:-1  tvg-name="NewTV精品记录" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV精品记录.png" group-title="NewTV",NewTV精品记录 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36276/index.m3u8
+#EXTINF:-1  tvg-name="NewTV精品萌宠" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV精品萌宠.png" group-title="NewTV",NewTV精品萌宠 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8430/index.m3u8
+#EXTINF:-1  tvg-name="NewTV潮妈辣婆" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV潮妈辣婆.png" group-title="NewTV",NewTV潮妈辣婆 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36167/index.m3u8
+#EXTINF:-1  tvg-name="NewTV惊悚悬疑" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV惊悚悬疑.png" group-title="NewTV",NewTV惊悚悬疑 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36223/index.m3u8
+#EXTINF:-1  tvg-name="NewTV中国功夫" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV中国功夫.png" group-title="NewTV",NewTV中国功夫 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36267/index.m3u8
+#EXTINF:-1  tvg-name="NewTV爱情喜剧" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV爱情喜剧.png" group-title="NewTV",NewTV爱情喜剧 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36179/index.m3u8
+#EXTINF:-1  tvg-name="NewTV欢乐剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV欢乐剧场.png" group-title="NewTV",NewTV欢乐剧场 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36173/index.m3u8
+#EXTINF:-1  tvg-name="NewTV动作电影" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV动作电影.png" group-title="NewTV",NewTV动作电影 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36183/index.m3u8
+#EXTINF:-1  tvg-name="NewTV金牌综艺" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV金牌综艺.png" group-title="NewTV",NewTV金牌综艺 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36282/index.m3u8
+#EXTINF:-1  tvg-name="NewTV古装剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV古装剧场.png" group-title="NewTV",NewTV古装剧场 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36240/index.m3u8
+#EXTINF:-1  tvg-name="NewTV军事评论" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV军事评论.png" group-title="NewTV",NewTV军事评论 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36155/index.m3u8
+#EXTINF:-1  tvg-name="NewTV农业致富" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV农业致富.png" group-title="NewTV",NewTV农业致富 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36233/index.m3u8
+#EXTINF:-1  tvg-name="NewTV军旅剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV军旅剧场.png" group-title="NewTV",NewTV军旅剧场 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36278/index.m3u8
+#EXTINF:-1  tvg-name="NewTV家庭剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV家庭剧场.png" group-title="NewTV",NewTV家庭剧场 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36206/index.m3u8
+#EXTINF:-1  tvg-name="NewTV炫舞未来" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV炫舞未来.png" group-title="NewTV",NewTV炫舞未来 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36230/index.m3u8
+#EXTINF:-1  tvg-name="NewTV东北热剧" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV东北热剧.png" group-title="NewTV",NewTV东北热剧 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/25741/index.m3u8
+#EXTINF:-1  tvg-name="NewTV超级电影" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV超级电影.png" group-title="NewTV",NewTV超级电影 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/25717/index.m3u8
+#EXTINF:-1  tvg-name="NewTV超级体育" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV超级体育.png" group-title="NewTV",NewTV超级体育 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/25715/index.m3u8
+#EXTINF:-1  tvg-name="NewTV超级综艺" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV超级综艺.png" group-title="NewTV",NewTV超级综艺 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/25714/index.m3u8
+#EXTINF:-1  tvg-name="NewTV怡伴健康" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV怡伴健康.png" group-title="NewTV",NewTV怡伴健康 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36220/index.m3u8
+#EXTINF:-1  tvg-name="NewTV海外剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV海外剧场.png" group-title="NewTV",NewTV海外剧场 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/25671/index.m3u8
+#EXTINF:-1  tvg-name="NewTV明星大片" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV明星大片.png" group-title="NewTV",NewTV明星大片 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/25664/index.m3u8
+#EXTINF:-1  tvg-name="NewTV超级电视剧" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV超级电视剧.png" group-title="NewTV",NewTV超级电视剧 HD
+https://cn_all_iptv.myukj.cn/086/230000/00086/000/25716/index.m3u8
+#EXTINF:-1  tvg-name="NewTV哒啵赛事" tvg-logo="https://itv-tb.myukj.cn/tv/哒啵赛事.png" group-title="NewTV",NewTV哒啵赛事 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36207/index.m3u8
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV6.png" group-title="影视剧",CCTV-6 电影 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=198
+#EXTINF:-1  tvg-name="CHC影迷电影" tvg-logo="https://itv-tb.myukj.cn/tv/CHC影迷电影.png" group-title="影视剧",CHC影迷电影 HD
+https://cn_all_iptv.myukj.cn/086/440000/00000/00A/?id=27
+#EXTINF:-1  tvg-name="CHC动作电影" tvg-logo="https://itv-tb.myukj.cn/tv/CHC动作电影.png" group-title="影视剧",CHC动作电影 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00B/18:4256
+#EXTINF:-1  tvg-name="CHC家庭影院" tvg-logo="https://itv-tb.myukj.cn/tv/CHC家庭影院.png" group-title="影视剧",CHC家庭影院 HD
+https://cn_all_iptv.myukj.cn/086/340000/00000/00B/22:4288
+#EXTINF:-1  tvg-name="1905极限反转" tvg-logo="https://itv-tb.myukj.cn/tv/电影频道1905.png" group-title="影视剧",1905极限反转 HD 
+#https://cn_all_iptv.myukj.cn/php/1905.php?id=1905a
+#EXTINF:-1  tvg-name="1905环球经典" tvg-logo="https://itv-tb.myukj.cn/tv/电影频道1905.png" group-title="影视剧",1905环球经典 HD 
+#https://cn_all_iptv.myukj.cn/php/1905.php?id=1905b
+#EXTINF:-1  tvg-name="NewTV黑莓电影" tvg-logo="https://itv-tb.myukj.cn/tv/黑莓电影.png" group-title="影视剧",NewTV黑莓电影  HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36248/index.m3u8
+#EXTINF:-1  tvg-name="咪咕视频" tvg-logo="https://itv-tb.myukj.cn/tv/咪咕.png" group-title="影视剧",咪咕电影轮播 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36204/index.m3u8
+#EXTINF:-1  tvg-name="咪咕视频" tvg-logo="https://itv-tb.myukj.cn/tv/咪咕.png" group-title="影视剧",咪咕电影轮播 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36153/index.m3u8
+#EXTINF:-1  tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="影视剧",重温经典 HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36436/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="Drama" tvg-logo="https://itv-tb.myukj.cn/tv/Drama.png" group-title="影视剧",Drama HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36208/index.m3u8
+#EXTINF:-1  tvg-name="Movie" tvg-logo="https://itv-tb.myukj.cn/tv/Movie.png" group-title="影视剧",Movie HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/36157/index.m3u8
+#EXTINF:-1  tvg-name="庆余年" tvg-logo="https://itv-tb.myukj.cn/tv/庆余年.png" group-title="影视剧",庆余年 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8465/index.m3u8
+#EXTINF:-1  tvg-name="繁花" tvg-logo="https://itv-tb.myukj.cn/tv/繁花.png" group-title="影视剧",繁花 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8710/index.m3u8
+#EXTINF:-1  tvg-name="花千骨" tvg-logo="https://itv-tb.myukj.cn/tv/花千骨.png" group-title="影视剧",花千骨 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8711/index.m3u8
+#EXTINF:-1  tvg-name="狂飙" tvg-logo="https://itv-tb.myukj.cn/tv/狂飙.png" group-title="影视剧",狂飙 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8716/index.m3u8
+#EXTINF:-1  tvg-name="人世间" tvg-logo="https://itv-tb.myukj.cn/tv/人世间.png" group-title="影视剧",人世间 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8719/index.m3u8
+#EXTINF:-1  tvg-name="烟火人家" tvg-logo="https://itv-tb.myukj.cn/tv/烟火人家.png" group-title="影视剧",烟火人家 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8610/index.m3u8
+#EXTINF:-1  tvg-name="漫长的季节" tvg-logo="https://itv-tb.myukj.cn/tv/漫长的季节.png" group-title="影视剧",漫长的季节 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8621/index.m3u8
+#EXTINF:-1  tvg-name="猎冰" tvg-logo="https://itv-tb.myukj.cn/tv/猎冰.png" group-title="影视剧",猎冰 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8624/index.m3u8
+#EXTINF:-1  tvg-name="永安梦" tvg-logo="https://itv-tb.myukj.cn/tv/永安梦.png" group-title="影视剧",永安梦 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8627/index.m3u8
+#EXTINF:-1  tvg-name="黑土无言" tvg-logo="https://itv-tb.myukj.cn/tv/黑土无言.png" group-title="影视剧",黑土无言 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8782/index.m3u8
+#EXTINF:-1  tvg-name="问心" tvg-logo="https://itv-tb.myukj.cn/tv/问心.png" group-title="影视剧",问心 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8779/index.m3u8
+#EXTINF:-1  tvg-name="父辈的荣耀" tvg-logo="https://itv-tb.myukj.cn/tv/父辈的荣耀.png" group-title="影视剧",父辈的荣耀 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8676/index.m3u8
+#EXTINF:-1  tvg-name="繁城之下" tvg-logo="https://itv-tb.myukj.cn/tv/繁城之下.png" group-title="影视剧",繁城之下 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8785/index.m3u8
+#EXTINF:-1  tvg-name="小日子" tvg-logo="https://itv-tb.myukj.cn/tv/小日子.png" group-title="影视剧",小日子 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8678/index.m3u8
+#EXTINF:-1  tvg-name="楚乔传" tvg-logo="https://itv-tb.myukj.cn/tv/楚乔传.png" group-title="影视剧",楚乔传 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8687/index.m3u8
+#EXTINF:-1  tvg-name="梦中的那片海" tvg-logo="https://itv-tb.myukj.cn/tv/梦中的那片海.png" group-title="影视剧",梦中的那片海 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8607/index.m3u8
+#EXTINF:-1  tvg-name="山海情" tvg-logo="https://itv-tb.myukj.cn/tv/山海情.png" group-title="影视剧",山海情 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8618/index.m3u8
+#EXTINF:-1  tvg-name="哈尔滨1944" tvg-logo="https://itv-tb.myukj.cn/tv/哈尔滨1944.png" group-title="影视剧",哈尔滨1944 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8791/index.m3u8
+#EXTINF:-1  tvg-name="迷局" tvg-logo="https://itv-tb.myukj.cn/tv/迷局.png" group-title="影视剧",迷局 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8604/index.m3u8
+#EXTINF:-1  tvg-name="乡村爱情" tvg-logo="https://itv-tb.myukj.cn/tv/乡村爱情.png" group-title="影视剧",乡村爱情 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8582/index.m3u8
+#EXTINF:-1  tvg-name="睛彩竞技" tvg-logo="https://itv-tb.myukj.cn/tv/睛彩竞技.png" group-title="睛彩体育",睛彩竞技 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=26
+#EXTINF:-1  tvg-name="睛彩篮球" tvg-logo="https://itv-tb.myukj.cn/tv/睛彩篮球.png" group-title="睛彩体育",睛彩篮球 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=27
+#EXTINF:-1  tvg-name="睛彩羽毛球" tvg-logo="https://itv-tb.myukj.cn/tv/睛彩青少.png" group-title="睛彩体育",睛彩青少 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=28
+#EXTINF:-1  tvg-name="睛彩广场舞" tvg-logo="https://itv-tb.myukj.cn/tv/睛彩广场舞.png" group-title="睛彩体育",睛彩广场舞 HD
+https://cn_all_iptv.myukj.cn/086/330000/00000/00C/?id=29
+#EXTINF:-1  tvg-name="Y+" tvg-logo="https://itv-tb.myukj.cn/tv/Y+.png" group-title="测试（该分类内容未必长期保留）",Y+ HD
+https://cn_all_iptv.myukj.cn/086/330000/00086/000/29999/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="中国天气" tvg-logo="https://itv-tb.myukj.cn/tv/中国天气.png" group-title="测试（该分类内容未必长期保留）",中国天气 HD
+https://cn_all_iptv.myukj.cn/086/320000/00000/00B/?id=94
+#EXTINF:-1  tvg-name="咪咕音乐" tvg-logo="https://itv-tb.myukj.cn/tv/咪咕4K.png" group-title="测试（该分类内容未必长期保留）",咪咕音乐 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8794/index.m3u8
+#EXTINF:-1  tvg-name="QQ音乐" tvg-logo="https://itv-tb.myukj.cn/tv/QQ音乐.png" group-title="测试（该分类内容未必长期保留）",QQ音乐 HD
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/8641//index.m3u8
+#EXTINF:-1  tvg-name="浙江之声" tvg-logo="https://itv-tb.myukj.cn/radio/浙江之声.png" group-title="浙江广播",浙江之声 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=79
+#EXTINF:-1  tvg-name="浙江新闻广播" tvg-logo="https://itv-tb.myukj.cn/radio/浙江新闻广播.png" group-title="浙江广播",浙江新闻广播 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=80
+#EXTINF:-1  tvg-name="浙江经济广播" tvg-logo="https://itv-tb.myukj.cn/radio/浙江经济广播.png" group-title="浙江广播",浙江经济广播 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=81
+#EXTINF:-1  tvg-name="浙江音乐调频" tvg-logo="https://itv-tb.myukj.cn/radio/动听968.png" group-title="浙江广播",浙江音乐调频 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=82
+#EXTINF:-1  tvg-name="浙江交通之声" tvg-logo="https://itv-tb.myukj.cn/radio/浙江交通之声.png" group-title="浙江广播",浙江交通之声 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=83
+#EXTINF:-1  tvg-name="浙江旅游之声" tvg-logo="https://itv-tb.myukj.cn/radio/浙江旅游之声.png" group-title="浙江广播",浙江旅游之声 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=84
+#EXTINF:-1  tvg-name="浙江城市之声" tvg-logo="https://itv-tb.myukj.cn/radio/浙江城市之声.png" group-title="浙江广播",浙江城市之声 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=85
+#EXTINF:-1  tvg-name="浙江民生广播" tvg-logo="https://itv-tb.myukj.cn/radio/浙江民生广播.png" group-title="浙江广播",浙江民生广播 FM
+https://cn_all_iptv.myukj.cn/086/330000/00000/00B/?id=86
+#EXTINF:-1  tvg-name="江苏新闻综合广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏新闻综合广播.png" group-title="江苏广播",江苏新闻综合广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7934/index.m3u8
+#EXTINF:-1  tvg-name="江苏交通广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏交通广播.png" group-title="江苏广播",江苏交通广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7937/index.m3u8
+#EXTINF:-1  tvg-name="江苏经典流行音乐广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏经典流行音乐广播.png" group-title="江苏广播",江苏经典流行音乐广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7943/index.m3u8
+#EXTINF:-1  tvg-name="江苏财经广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏财经广播.png" group-title="江苏广播",江苏财经广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7946/index.m3u8
+#EXTINF:-1  tvg-name="江苏音乐广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏音乐广播.png" group-title="江苏广播",江苏音乐广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7949/index.m3u8
+#EXTINF:-1  tvg-name="江苏健康广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏健康广播.png" group-title="江苏广播",江苏健康广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7952/index.m3u8
+#EXTINF:-1  tvg-name="江苏文艺广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏文艺广播.png" group-title="江苏广播",江苏文艺广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7987/index.m3u8
+#EXTINF:-1  tvg-name="江苏故事广播" tvg-logo="https://itv-tb.myukj.cn/radio/江苏故事广播.png" group-title="江苏广播",江苏故事广播 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7990/index.m3u8
+#EXTINF:-1  tvg-name="金陵之声" tvg-logo="https://itv-tb.myukj.cn/radio/金陵之声.png" group-title="江苏广播",金陵之声 FM
+https://cn_all_iptv.myukj.cn/086/320000/00086/000/7940/index.m3u8
+
