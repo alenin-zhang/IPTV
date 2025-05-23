@@ -8,7 +8,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "ITV_beta",
+            "name": "ITV_QQ",
             "type": 0,
             "url": "https://itv-list.myukj.cn/list/itv.m3u",
             "ua": "d6f0e3f3e627d503",
