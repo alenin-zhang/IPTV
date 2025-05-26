@@ -3,14 +3,6 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV4,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-CCTV6,video://https://m.1905.com/m/cctv6/gzh/
-1905电影网,video://https://m.1905.com/m/xl/live/
-1905电影网,http://120.76.248.139/live/lunbo/ssdy.m3u8
-
-
-港台,#genre#
-香港卫视,video://http://www.hkstv.tv/index/live.html
-莲花卫视,video://http://wap.macaulotustv.com/lotustvlive.html
 
 
 CGTN,#genre#
@@ -22,87 +14,17 @@ CGTN法语,video://https://francais.cgtn.com/channel
 CGTN俄语,video://https://russian.cgtn.com/channel
 
 
-CETV,#genre#
+教育,#genre#
 CETV1,video://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV2,video://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+CECTV1 汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CECTV2 国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CECTV3 国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CECTV4 国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
-上海,#genre#
-东方卫视,video://https://live.kankanews.com/huikan?id=1
-上海新闻综合,video://https://live.kankanews.com/huikan?id=2
-上海都市,video://https://live.kankanews.com/huikan?id=4
-第一财经,video://https://live.kankanews.com/huikan?id=5
-哈哈炫动,video://https://live.kankanews.com/huikan?id=9
-五星体育,video://https://live.kankanews.com/huikan?id=10
-魔都眼,video://https://live.kankanews.com/huikan?id=11
-新纪实,video://https://live.kankanews.com/huikan?id=12
-
-
-浙江,#genre#
-浙江卫视,video://https://www.cztv.com/liveTV/101
-浙江新闻,video://https://www.cztv.com/liveTV/107
-浙江少儿,video://https://www.cztv.com/liveTV/108
-浙江钱江,video://https://www.cztv.com/liveTV/102
-浙江民生休闲,video://https://www.cztv.com/liveTV/106
-浙江经济生活,video://https://www.cztv.com/liveTV/103
-浙江教科影视,video://https://www.cztv.com/liveTV/104
-浙江国际,video://https://www.cztv.com/liveTV/110
-之江纪录,video://https://www.cztv.com/liveTV/112
-好易购,video://https://www.cztv.com/liveTV/111
-杭州综合,video://https://tv.hoolo.tv/hzzh/
-西湖明珠,video://https://tv.hoolo.tv/xhmz/
-杭州生活,video://https://tv.hoolo.tv/hzsh/
-杭州影视,video://https://tv.hoolo.tv/utv/
-杭州青少体育,video://https://tv.hoolo.tv/hzse/
-杭州文化,video://https://tv.hoolo.tv/whpd/
-宁波-1,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV1/index.shtml
-宁波-2,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
-宁波-3,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
-宁波-4,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
-绍兴公共,video://https://www.shaoxing.com.cn/app/tv/78
-绍兴新闻综合,video://https://www.shaoxing.com.cn/app/tv/74
-绍兴文化影视,video://http://www.shaoxing.com.cn/app/tv/75
-
-
-江苏,#genre#
-江苏新闻,video://https://live.jstv.com/?channelId=536
-江苏城市,video://https://live.jstv.com/?channelId=535
-江苏国际,video://https://live.jstv.com/?channelId=544
-江苏教育,video://https://live.jstv.com/?channelId=545
-江苏体育,video://https://live.jstv.com/?channelId=537
-江苏影视,video://https://live.jstv.com/?channelId=542
-江苏综艺,video://https://live.jstv.com/?channelId=556
-优漫卡通,video://https://live.jstv.com/?channelId=543
-南京新闻综合,video://https://www.nbs.cn/live/?id=109152
-南京教育科技,video://https://www.nbs.cn/live/?id=109153
-南京少年儿童,video://https://www.nbs.cn/live/?id=110095
-南京十八生活,video://https://www.nbs.cn/live/?id=110094
-南京文旅纪录,video://https://www.nbs.cn/live/?id=110093
-江宁电视台,video://http://tv.haoqu99.com/3/jiangsu/jiangning.html
-靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-泰州-1,http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
-泰州-2,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
-泰州-3,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
-铜川公共,video://https://www.tcsrm.cn/tvradio/tcggpd.html
-铜川综合,video://https://www.tcsrm.cn/tvradio/tczhpd.html
-无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
-无锡移动,video://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
-盐城城市公共,https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
-盐城法制生活,https://live1yc.0515yc.cn/ycst03/sd/live.m3u8
-盐城新闻综合,https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
-盐城一套,video://https://www.0515yc.cn/folder147/folder148/folder156/
-张家港1,video://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
-张家港2,video://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=2&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
-镇江新闻综合,http://tv.hackrss.net/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
-镇江新闻综合,http://tv.q1.cm/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
-
-
-广东,#genre#
+荔枝网,#genre#
 4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
 GRTN健康,video://https://www.gdtv.cn/tvChannelDetail/99
 GRTN生活,video://https://www.gdtv.cn/tvChannelDetail/102
@@ -123,6 +45,9 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
 岭南戏曲,video://https://www.gdtv.cn/tvChannelDetail/15
 南方购物,video://https://www.gdtv.cn/tvChannelDetail/42
+
+
+广东,#genre#
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
@@ -186,6 +111,30 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 芜湖新闻综合,video://http://www.wuhubtv.com/folder1194/#
 
 
+江西,#genre#
+江西卫视,video://https://www.jxntv.cn/live/#/
+江西都市,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv2.m3u8
+江西经济生活,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv3.m3u8
+江西影视旅游,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv4.m3u8
+江西公共农业,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv5.m3u8
+江西少儿,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv6.m3u8
+江西新闻,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv7.m3u8
+江西陶瓷,video://https://www.jxntv.cn/live/#/tcpd
+风尚购物,video://https://www.jxntv.cn/live/#/fsgw
+南昌新闻综合,video://https://www.nctv.net.cn/live?channel=1
+南昌文旅,video://https://www.nctv.net.cn/live?channel=2
+南昌资讯,video://https://www.nctv.net.cn/live?channel=3
+南昌新闻综合,video://https://www.nctv.net.cn/live
+吉安综合,video://http://www.ijatv.com/live/jatv1/
+吉安公共,video://http://www.ijatv.com/live/jatv2/
+赣州综合,video://https://www.newskj.net/html/rft/live.html?channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1&siteId=ee5e92ed238644368bd76f8adfe34401&shareAppId=ee5e92ed238644368bd76f8adfe34401
+九江新闻综合,video://https://www.jjntv.cn/live?spm=0.0.0.0.JHNB6X&id=jjtv1
+九江公共,video://https://www.jjntv.cn/live?id=jjtv2
+九江教育,video://https://www.jjntv.cn/live?id=jjfz
+宜春综合,video://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
+宜春公共,video://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352
+
+
 湖北,#genre#
 湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
 湖北公共,video://https://news.hbtv.com.cn/app/tv/434
@@ -242,47 +191,6 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 衡水综合,video://http://app.hsrtv.cn/web/teletv/tv_content_1.html
 衡水公共,video://http://app.hsrtv.cn/web/teletv/tv_content_4.html
 邢台城市生活,video://https://www.xttv.com.cn/index/channel/index/id/64.html
-
-
-山东,#genre#
-山东卫视,video://https://v.iqilu.com/live/sdtv/
-山东齐鲁,video://https://v.iqilu.com/live/qlpd/
-山东体育,video://https://v.iqilu.com/live/typd/
-山东生活,video://https://v.iqilu.com/live/shpd/
-山东综艺,video://https://v.iqilu.com/live/zypd/
-山东新闻,video://https://v.iqilu.com/live/ggpd/
-山东农科,video://https://v.iqilu.com/live/nkpd/
-山东文旅,video://https://v.iqilu.com/live/yspd/
-山东少儿,video://https://v.iqilu.com/live/sepd/
-山东教育电视,video://https://www.sdetv.com.cn/edu/pc/live/index.html
-青岛-1,video://http://www.qtv.com.cn/live/tv/index.shtml
-青岛-2,video://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-青岛-3,video://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-青岛-4,video://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-青岛-5,video://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-青岛-6,video://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-东营1,video://https://www.dongyingnews.cn/v/tv/?id=0
-东营2,video://https://www.dongyingnews.cn/v/tv/?id=1
-东营3,video://https://www.dongyingnews.cn/v/tv/?id=2
-东营公共,video://https://www.hhek.cn/folder4/folder38/
-东营科教,video://https://www.hhek.cn/folder4/folder39/
-东营新闻综合,video://https://www.hhek.cn/folder4/folder3228/
-济宁1,video://https://www.jnnews.tv/app/tv/76
-济宁2,video://https://www.jnnews.tv/app/tv/152
-济宁3,video://https://www.jnnews.tv/app/tv/74
-聊城电视,video://http://www.lcxw.cn/kands/
-泰安1,video://http://www.taianxinwen.com/tatv/contents/113/1.html
-泰安2,video://http://live.1545ts.net/zhibotatv2.html
-威海1,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
-威海2,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
-威海3,video://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
-威海都市生活,video://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-威海海洋,video://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-威海新闻综合,video://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-潍坊1,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊2,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊3,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊4,video://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
 
 
 山西,#genre#
@@ -428,11 +336,54 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 
 
 四川,#genre#
+四川科教,video://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
+四川乡村,video://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
+成都都市生活,video://https://www.cditv.cn/show/4845-561.html
+成都公共,video://https://www.cditv.cn/show/4845-559.html
+成都经济资讯,video://https://www.cditv.cn/show/4845-562.html
+成都少儿,video://https://www.cditv.cn/show/4845-558.html
+成都新闻综合,video://https://www.cditv.cn/show/4845-563.html
+成都影视文艺,video://https://www.cditv.cn/show/4845-560.html
+蓉城先锋,video://https://www.cditv.cn/show/4845-592.html
+阿坝州1,video://http://www.aba-news.com.cn/#/dashboard
+成华有线电视,video://https://www.cditv.cn/show/4844-586.html
+大邑广播电视台,video://https://www.cditv.cn/show/4844-572.html
+德阳1,video://http://zb.scdytv.com/?name=xwpd
+德阳文旅科教,video://http://zb.scdytv.com/?name=ggpd
+甘孜,video://https://www.ganzitv.com/cms/tv/1027139
+高新电视台,video://https://www.cditv.cn/show/4844-591.html
+广安1,video://https://www.gatv.com.cn/Tv/details?id=10
+广安文旅乡村,video://https://www.gatv.com.cn/Tv/details?id=9
+广元广播电视,video://https://www.dzsm.com/live.asp
+简阳市广播电视台,video://https://www.cditv.cn/show/4844-578.html
+金牛区有线电视台,video://https://www.cditv.cn/show/4844-588.html
+金堂电视台,video://https://www.cditv.cn/show/4844-573.html
+锦江电视,video://https://www.cditv.cn/show/4844-590.html
 康巴卫视,video://https://www.kangbatv.com/zb_22587/
-
-
-内蒙古,#genre#
-内蒙古卫视,video://https://www.nmtv.cn/liveTv
+乐山1,video://http://www.lstv.org.cn/cms/tv/28
+乐山文旅生活,video://http://www.lstv.org.cn/cms/tv/44
+泸州科技教育,video://https://www.luzhoubs.com/lztv3/index.html
+泸州新闻综合,video://https://www.luzhoubs.com/lztv1/index.html
+眉山文旅乡村,video://https://www.scmstv.cn/web/folder88/folder89/folder92/
+眉山综合,video://https://www.scmstv.cn/web/folder88/folder89/folder91/
+绵阳1,video://http://www.myntv.cn/html/zb/mytv1.asp
+绵阳科教生活,video://http://www.myntv.cn/html/zb/mytv2.asp
+内江1,video://https://www.scnj.tv/bencandy.php?fid=43&id=972
+攀枝花1,video://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937329516896257
+攀枝花文旅生活,video://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937486832656384
+彭州广播电视台,video://https://www.cditv.cn/show/4844-576.html
+郫都区广播电视台,video://https://www.cditv.cn/show/4844-580.html
+浦江电视台,video://https://www.cditv.cn/show/4844-571.html
+青白江融媒体中心,video://https://www.cditv.cn/show/4844-584.html
+青羊区融媒体中心,video://https://www.cditv.cn/show/4844-589.html
+邛崃电视台综合,video://https://www.cditv.cn/show/4844-575.html
+双流区广播电视台,video://https://www.cditv.cn/show/4844-581.html
+遂宁文化生活,video://http://www.snxw.com/wldst/gggyzb/
+遂宁综合,video://http://www.snxw.com/wldst/xwzh/
+温江电视台,video://https://www.cditv.cn/show/4844-582.html
+武侯电视,video://https://www.cditv.cn/show/4844-587.html
+新都区广播电视台,video://https://www.cditv.cn/show/4844-583.html
+资阳,video://https://www.zyrb.com.cn/#/bD074b747F
 
 
 黑龙江,#genre#
@@ -448,7 +399,7 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 哈尔滨影视,video://https://www.hrbtv.net/folder79/folder87/
 
 
-贵州,#genre#
+吉林,#genre#
 吉林卫视,video://https://www.jlntv.cn/tv?id\=104
 长春经济,video://https://chinactv.com/live/1442880940893450241.html
 长春汽车,video://https://chinactv.com/live/1442881026868293634.html
@@ -460,6 +411,26 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 延边卫视,video://https://www.yb983.com/cys/index.html
 延边汉语综合,video://https://www.yb983.com/ybtv2/index.html
 延边朝鲜语综合,video://https://www.yb983.com/ybtv1/index.html
+
+
+辽宁,#genre#
+大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
+大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
+大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
+大连乐天购物,rtmp://secret.dltv.cn/dreamStreamCore/P6msbvE/lv800
+大连新闻综合,video://http://www.guangbomi.com/tv/ln/dltv1.html
+大连生活,video://http://www.guangbomi.com/tv/ln/dltv2.html
+大连文体,video://http://www.guangbomi.com/tv/ln/dltv4.html
+大连乐天购物,video://http://www.guangbomi.com/tv/ln/dlydtv.html
+丹东1,video://https://app.ddrtv.cn/application/tvradio/h5/detail.html?type=tv
+金普电视1台,video://https://web.guangdianyun.tv/tv/?id=1066&uin=1332
+金普慢直播大黑山,video://https://web.guangdianyun.tv/live/78563?uin=1332
+辽宁大连金普区大黑山,video://https://web.guangdianyun.tv/live/78563?uin=1332
+辽宁沈阳浑河桥,video://https://livechina.cctv.com/live_zb/LIVE3331.html?pageid=3331&tag=MicroLiveType
+
+
+重庆,#genre#
+重庆新闻,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
 
 海南,#genre#
@@ -482,7 +453,30 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 西宁交通广播电台,video://https://www.xntv.tv/jtgb
 
 
+内蒙古,#genre#
+内蒙古卫视,video://https://www.nmtv.cn/liveTv
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+鄂尔多斯经济服务,https://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8?Authorization=
+鄂尔多斯蒙语,https://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8?Authorization=
+鄂尔多斯新闻综合,https://live.nxw.org.cn/lsdream/h2mxgj4/1000/live.m3u8?Authorization=
+鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+准格尔电视台,https://1972762453.cloudvdn.com/a.m3u8?domain=pili-live-hls-nmgapp12019.nmgcyy.com.cn&player=0IAAAHs5S1t7hSoY&secondToken=secondToken%3A-D9R-1X8ay23kA25BzvtYfhxAQc&streamid=nmgapp12019%3Anmgapp12019%2Flive173640226096016&v3=1
+准格尔电视台,https://2061824979.cloudvdn.com/a.m3u8?domain=pili-live-hls-nmgapp12019.nmgcyy.com.cn&player=eMUAAD2czFmrhyoY&secondToken=secondToken%3Af-2vQ4dq9PyqM5fqfdAQt06x2jk&streamid=nmgapp12019%3Anmgapp12019%2Flive173640226096016&v3=1
+
+
 新疆,#genre#
+新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 新疆农业科技,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=16
 新疆体育健康,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
@@ -493,5 +487,38 @@ GRTN文化,video://https://www.gdtv.cn/tvChannelDetail/75
 新疆维吾尔语体育,video://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆维吾尔语新闻综合,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
 新疆维吾尔语综艺,video://https://www.xjtvs.com.cn/column/tv/434?channelId=17
+乌鲁木齐1,video://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
+乌鲁木齐2,video://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
+阿克苏1,video://https://web.guangdianyun.tv/tv/2229?uin=3643
+阿克苏2,video://https://web.guangdianyun.tv/tv/2233?uin=3643
+阿克苏3,video://https://web.guangdianyun.tv/tv/2234?uin=3643
+昌吉1,video://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12&page=canvas&live_type=1
+昌吉2,video://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=13&page=canvas&live_type=1
+哈密1,video://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=22&page=canvas&live_type=1
+哈密2,video://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=21&page=canvas&live_type=1
+哈密3,video://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=20&page=canvas&live_type=1
+和田,video://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=10&page=canvas&live_type=1
+和田,video://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11&page=canvas&live_type=1
+和田,video://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=9&page=canvas&live_type=1
+和田1,video://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=12&page=canvas&live_type=1
+喀什1,video://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=14&page=canvas&live_type=1
+喀什2,video://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=13&page=canvas&live_type=1
+克拉玛依1,video://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=7&page=canvas&live_type=1
+克拉玛依2,video://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=6&page=canvas&live_type=1
+克拉玛依3,video://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=5&page=canvas&live_type=1
+日喀则1,video://https://www.rkzrm.cn/2/2zb/index.shtml
+通辽1,video://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/22/nid/100009
+通辽2,video://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/23/nid/100010
+通辽3,video://https://api.tongliaowang.com/jhxtapi/jhxt/Live/newsShow/id/25/nid/100011
+乌海1,video://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656153032177844225
+乌海2,video://http://h5.wuhainews.org.cn/front-cloudlive-manage-h5/index.html?id=656154004388151296
+伊犁1,video://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=15&page=canvas&live_type=1
+伊犁2,video://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=14&page=canvas&live_type=1
+伊犁3,video://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=13&page=canvas&live_type=1
+伊犁4,video://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=10&page=canvas&live_type=1
 
 
+西藏,#genre#
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏藏语,http://php.jdshipin.com:8880/xztv.php?id=zy
+西藏文化影视,http://php.jdshipin.com:8880/xztv.php?id=ys
