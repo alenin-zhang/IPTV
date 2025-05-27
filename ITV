@@ -209,6 +209,13 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
+            "name": "港台体育直播",
+            "type": 0,
+            "url": "http://go8.myartsonline.com/zx/0/nowtv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
             "name": "快直播体育",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzbty.py",
