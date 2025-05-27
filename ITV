@@ -29,9 +29,9 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "DIYP",
+            "name": "港台推流",
             "type": 0,
-            "url": "http://iptv.diyp.site/diyp.php",
+            "url": "http://go8.myartsonline.com/zx/0/NOWtv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
@@ -43,6 +43,13 @@
       "jar":"./chvyo2.txt",
       "timeout": 30,
       "playerType": 1
+        },
+        {
+            "name": "DIYP",
+            "type": 0,
+            "url": "http://iptv.diyp.site/diyp.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "MytvSuper 1",
@@ -171,13 +178,7 @@
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
             "ext": {}
         },
-        {
-            "name": "AKTV",
-            "type": 0,
-            "url": "http://aktv.space/live.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
+
 
 
 
