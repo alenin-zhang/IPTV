@@ -29,9 +29,23 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "港台推流",
+            "name": "香港推流",
+            "type": 0,
+            "url": "http://go8.myartsonline.com/zx/0/NOWTV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "台湾推流",
             "type": 0,
             "url": "http://go8.myartsonline.com/zx/0/NOWtv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "港台体育",
+            "type": 0,
+            "url": "http://go8.myartsonline.com/zx/0/nowtv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
@@ -205,13 +219,6 @@
             "name": "88KQ体育直播",
             "type": 0,
             "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
-            "ua": "okhttp/3.15",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-        {
-            "name": "港台体育直播",
-            "type": 0,
-            "url": "http://go8.myartsonline.com/zx/0/nowtv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
