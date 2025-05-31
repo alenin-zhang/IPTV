@@ -62,12 +62,19 @@
         },
         {
             "name": "SMARTV 1",
+            "type": 0,
+            "url": "http://smart.tv.home.kg/smtv.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+            "name": "SMARTV 2",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt.py",
             "ext": {}
         },
         {
-            "name": "SMARTV 2",
+            "name": "SMARTV 3",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
             "ext": {}
@@ -156,7 +163,13 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
-
+        {
+            "name": "NPTV",
+            "type": 0,
+            "url": "https://nptv.freetv.top/juhe.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
 
         {
             "name": "港台TV汇[云梯]",
