@@ -1,4 +1,4 @@
-国际新闻台,#genre#
+国际新闻,#genre#
 Al Jazeera International,http://serv8.iptv11.com:8080/3037/video.m3u8?token=5F909214E4DF0
 BBC World,http://serv8.iptv11.com:8080/BBCWorldNews/video.m3u8?token=5F909214E4DF0
 Bloomberg,http://serv8.iptv11.com:8080/3036/video.m3u8?token=5F909214E4DF0
@@ -13,7 +13,7 @@ Russia Today Doc HD,http://serv8.iptv11.com:8080/329/video.m3u8?token=5F909214E4
 Atv Antwerpen,http://serv8.iptv11.com:8080/3611/video.m3u8?token=5F909214E4DF0
 
 
-俄罗斯全国台,#genre#
+俄罗斯全国,#genre#
 Первый канал,http://serv8.iptv11.com:8080/Perviy/video.m3u8?token=5F909214E4DF0
 Первый канал HD,http://serv8.iptv11.com:8080/PerviyHD/video.m3u8?token=5F909214E4DF0
 Первый канал +2,http://serv8.iptv11.com:8080/875/video.m3u8?token=5F909214E4DF0
@@ -138,7 +138,7 @@ English Club HD,http://serv8.iptv11.com:8080/223/video.m3u8?token=5F909214E4DF0
 Соловьев.Live,http://serv8.iptv11.com:8080/3587/video.m3u8?token=5F909214E4DF0
 
 
-俄罗斯地方台,#genre#
+俄罗斯地方,#genre#
 6 ТВ,http://serv8.iptv11.com:8080/3444/video.m3u8?token=5F909214E4DF0
 8 канал Владивосток,http://serv8.iptv11.com:8080/3445/video.m3u8?token=5F909214E4DF0
 8 канал Красноярский край,http://serv8.iptv11.com:8080/3446/video.m3u8?token=5F909214E4DF0
