@@ -239,7 +239,9 @@
             "type": 3,
             "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_beesport.py",
             "ext": {},
-            "header": {"Referer": "https://p.m82xg4z0cdbz7.com/"}
+            "header": {
+                "Referer": "https://p.m82xg4z0cdbz7.com/"
+            }
         },
 
 
