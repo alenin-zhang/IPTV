@@ -3,7 +3,7 @@
         {
             "name": "我的IPTV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
@@ -26,21 +26,21 @@
         {
             "name": "国际IPTV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/IPTV.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/IPTV.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "WEBTV中国",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "WEBTV港台",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
@@ -77,13 +77,13 @@
         {
             "name": "SMARTV 2",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt.py",
+            "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt.py",
             "ext": {}
         },
         {
             "name": "SMARTV 3",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
+            "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
             "ext": {}
         },
         {
@@ -117,49 +117,49 @@
         {
             "name": "TVJK-港台",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/gt.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/cqshushu/tvjk/master/gt.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "TVJK-酒店1",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "TVJK-酒店2",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd2.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/cqshushu/tvjk/master/jd2.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "GUOVIN-酒店",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-IPTV",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-酒店",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
+            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-组播",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
+            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
@@ -188,7 +188,7 @@
         {
             "name": "LITV[云梯]",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
+            "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
             "ext": {}
         },
 
@@ -205,13 +205,13 @@
         {
             "name": "YOO体育直播",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/yoozb.py",
+            "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/yoozb.py",
             "ext": {}
         },
         {
             "name": "海星体育直播",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/360pai.py",
+            "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/360pai.py",
             "ext": {}
         },
         {
@@ -224,7 +224,7 @@
         {
             "name": "快直播体育",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzbty.py",
+            "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzbty.py",
             "ext": {}
         },
         {
@@ -240,14 +240,14 @@
         {
             "name": "移动ITV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
+            "url": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
             "name": "快直播电视",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzb.py",
+            "api": "https://gh-proxy.net/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzb.py",
             "ext": {}
         },
 
