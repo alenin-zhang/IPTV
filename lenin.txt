@@ -3417,8 +3417,6 @@ YESNETWORK*,https://stream1.freetv.fun/yes-network-1.m3u8
 天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-3.m3u8
 天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-7.m3u8
 天映经典*,https://stream1.freetv.fun/tian-ying-jing-dian-2.m3u8
-
-
 全网通,#genre#
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
@@ -3482,8 +3480,6 @@ CCTV-17农业农村,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-
-
 山东组播,#genre#
 CCTV1,http://123.133.163.32:9002/11z.php?id=CCTV1
 CCTV2,http://123.133.163.32:9002/11z.php?id=CCTV2
