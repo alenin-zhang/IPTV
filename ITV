@@ -70,7 +70,7 @@
         {
             "name": "SMARTV 1",
             "type": 0,
-            "url": "http://smart.tv.home.kg/smtv.php",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
