@@ -252,6 +252,13 @@
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
+        {
+            "name": "XXOO",
+            "type": 0,
+            "url": "https://v-ip.eu.org/xxoo.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
 
 
         {
