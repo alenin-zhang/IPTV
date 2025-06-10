@@ -1,4 +1,4 @@
-﻿=来龙去脉=,#genre#
+=来龙去脉=,#genre#
 01,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/c0e36b8129bf49b6ab9b52d76d8b8de4/4000.m3u8
 02,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/f738e19c794e4ed79e4d1668ae6f261b/4000.m3u8
 03,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/caeec93f53ec4a228ff2f4e62b7958b6/4000.m3u8
@@ -69,6 +69,7 @@
 02,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2bb9804b9c9346ecb27f377762f90581/4000.m3u8
 03,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/787823c6dad14b0e824617b78ba6b52b/4000.m3u8
 04,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/45978877179b4576a9777a401b089fc1/4000.m3u8
+05,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b91c211d2a2146e0af5b6dae5585f60d/4000.m3u8
 
 =你好！火星=,#genre#
 01出发,https://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/6c902090223e4718bbec2e12bbe39903/4000.m3u8
