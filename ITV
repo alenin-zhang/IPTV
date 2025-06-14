@@ -54,6 +54,7 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+
         {
             "name": "DIYP",
             "type": 0,
@@ -78,6 +79,7 @@
             "timeout": 30,
             "playerType": 1
         },
+
         {
             "name": "SMARTV 1",
             "type": 0,
@@ -97,6 +99,7 @@
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
             "ext": {}
         },
+
         {
             "name": "IILL.TOP",
             "type": 0,
@@ -206,9 +209,14 @@
 
 
 
-
         {
-            "name": "咪咕全球赛事",
+            "name": "咪咕赛事",
+            "type": 0,
+            "url": "https://www.freetv.top/mgevent.m3u",
+            "ua": "judy/5.2.1"
+        },
+        {
+            "name": "全球赛事",
             "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
             "ua": "judy/5.2.1"
