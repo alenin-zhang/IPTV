@@ -32,6 +32,13 @@
         },
 
         {
+            "name": "infinityfreeapp",
+            "type": 0,
+            "url": "https://yk95.yymmiptv.top",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "极速港台",
             "type": 0,
             "url": "http://kkk.888.3116598.xyz/user/HKTV.txt",
