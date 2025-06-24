@@ -32,22 +32,6 @@
         },
 
         {
-            "name": "infinityfreeapp",
-            "type": 0,
-            "url": "https://yk95.yymmiptv.top",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "HKTV",
-            "type": 0,
-            "url": "http://go8.myartsonline.com/zx/0/HKTV.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-
-
-        {
             "name": "WEBTV中国",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
@@ -58,14 +42,6 @@
             "name": "WEBTV港台",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-
-        {
-            "name": "DIYP",
-            "type": 0,
-            "url": "http://iptv.diyp.site/diyp.php",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
@@ -123,55 +99,6 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "X",
-            "type": 0,
-            "url": "http://live.nctv.top/x.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "IPTV365",
-            "type": 0,
-            "url": "https://live.iptv365.org/live.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "HACKSERVER",
-            "type": 0,
-            "url": "https://epg.hackserver.net/live.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "TVJK-港台",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/gt.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "TVJK-酒店1",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "TVJK-酒店2",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/jd2.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "GUOVIN-酒店",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
             "name": "LALIFEIER-IPTV",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
@@ -199,13 +126,7 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-        {
-            "name": "NPTV",
-            "type": 0,
-            "url": "https://nptv.freetv.top/juhe.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
+
 
         {
             "name": "港台TV汇[云梯]",
@@ -220,8 +141,6 @@
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
             "ext": {}
         },
-
-
 
 
         {
