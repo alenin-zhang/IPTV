@@ -1288,7 +1288,7 @@ HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
 彩虹电影,https://hls-gateway.vpstv.net/streams/709038.m3u8
 极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
 惊艳,https://hls-gateway.vpstv.net/streams/709041.m3u8
-潘朵拉,https://hls-gateway.vpstv.net/streams/709042.m3u8
+潘朵拉完美,https://hls-gateway.vpstv.net/streams/709042.m3u8
 潘朵拉完美,https://hls-gateway.vpstv.net/streams/476375.m3u8
 松视1,https://hls-gateway.vpstv.net/streams/709043.m3u8
 松视2,https://hls-gateway.vpstv.net/streams/709044.m3u8
