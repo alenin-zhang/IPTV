@@ -395,6 +395,118 @@ CCTV央视台球,http://219.141.44.235:8188/udp/238.255.2.224:5999
 CCTV发现之旅,http://219.141.44.235:8188/udp/238.255.2.184:5999
 CCTV老故事,http://219.141.44.235:8188/udp/238.255.2.35:5999
 CCTV中学生,http://219.141.44.235:8188/udp/238.255.2.181:5999
+CCTV4K,http://8.134.252.79:2222/udp/239.11.0.161:1025
+CCTV4K,http://8.134.252.79:2222/udp/239.11.0.162:1025
+CCTV4K,http://8.134.252.79:2222/udp/239.21.0.123:3836
+CCTV4K,http://8.134.252.79:2222/udp/239.21.0.124:3840
+CCTV1,http://8.134.252.79:2222/udp/239.10.0.100:1025
+CCTV1,http://8.134.252.79:2222/udp/239.10.0.114:1025
+CCTV1,http://8.134.252.79:2222/udp/239.10.0.48:1025
+CCTV1,http://8.134.252.79:2222/udp/239.20.0.104:2006
+CCTV1,http://8.134.252.79:2222/udp/239.20.0.32:3276
+CCTV1,http://8.134.252.79:2222/udp/239.20.0.96:3016
+CCTV1,http://8.134.252.79:2222/udp/239.10.0.202:1025
+CCTV1,http://8.134.252.79:2222/udp/239.20.0.192:2182
+CCTV2,http://8.134.252.79:2222/udp/239.10.0.207:1025
+CCTV2,http://8.134.252.79:2222/udp/239.20.0.197:2192
+CCTV2,http://8.134.252.79:2222/udp/239.10.0.186:1025
+CCTV2,http://8.134.252.79:2222/udp/239.20.0.176:2150
+CCTV3,http://8.134.252.79:2222/udp/239.10.0.101:1025
+CCTV3,http://8.134.252.79:2222/udp/239.20.0.28:3292
+CCTV3,http://8.134.252.79:2222/udp/239.10.0.107:1025
+CCTV3,http://8.134.252.79:2222/udp/239.20.0.27:3296
+CCTV4,http://8.134.252.79:2222/udp/239.10.0.245:1025
+CCTV4,http://8.134.252.79:2222/udp/239.20.0.16:3340
+CCTV4,http://8.134.252.79:2222/udp/239.10.0.187:1025
+CCTV4,http://8.134.252.79:2222/udp/239.20.0.177:2152
+CCTV4美洲,http://8.134.252.79:2222/udp/239.11.0.102:1025
+CCTV4美洲,http://8.134.252.79:2222/udp/239.21.0.108:3772
+CCTV4欧洲,http://8.134.252.79:2222/udp/239.11.0.101:1025
+CCTV4欧洲,http://8.134.252.79:2222/udp/239.21.0.107:3768
+CCTV5,http://8.134.252.79:2222/udp/239.10.0.102:1025
+CCTV5,http://8.134.252.79:2222/udp/239.20.0.30:3284
+CCTV5,http://8.134.252.79:2222/udp/239.10.0.108:1025
+CCTV5,http://8.134.252.79:2222/udp/239.20.0.26:3300
+CCTV5+,http://8.134.252.79:2222/udp/239.10.0.213:1025
+CCTV5+,http://8.134.252.79:2222/udp/239.20.0.203:2204
+CCTV6,http://8.134.252.79:2222/udp/239.10.0.103:1025
+CCTV6,http://8.134.252.79:2222/udp/239.20.0.29:3288
+CCTV6,http://8.134.252.79:2222/udp/239.10.0.109:1025
+CCTV6,http://8.134.252.79:2222/udp/239.20.0.25:3304
+CCTV7,http://8.134.252.79:2222/udp/239.10.0.208:1025
+CCTV7,http://8.134.252.79:2222/udp/239.20.0.198:2194
+CCTV7,http://8.134.252.79:2222/udp/239.10.0.188:1025
+CCTV7,http://8.134.252.79:2222/udp/239.20.0.178:2154
+CCTV8,http://8.134.252.79:2222/udp/239.10.0.104:1025
+CCTV8,http://8.134.252.79:2222/udp/239.20.0.31:3280
+CCTV8,http://8.134.252.79:2222/udp/239.10.0.110:1025
+CCTV8,http://8.134.252.79:2222/udp/239.20.0.24:3308
+CCTV9,http://8.134.252.79:2222/udp/239.10.0.209:1025
+CCTV9,http://8.134.252.79:2222/udp/239.20.0.199:2196
+CCTV9,http://8.134.252.79:2222/udp/239.10.0.189:1025
+CCTV9,http://8.134.252.79:2222/udp/239.20.0.179:2156
+CCTV10,http://8.134.252.79:2222/udp/239.10.0.210:1025
+CCTV10,http://8.134.252.79:2222/udp/239.20.0.200:2198
+CCTV10,http://8.134.252.79:2222/udp/239.10.0.190:1025
+CCTV10,http://8.134.252.79:2222/udp/239.20.0.180:2158
+CCTV11,http://8.134.252.79:2222/udp/239.11.0.24:1025
+CCTV11,http://8.134.252.79:2222/udp/239.21.0.35:3480
+CCTV11,http://8.134.252.79:2222/udp/239.10.0.191:1025
+CCTV11,http://8.134.252.79:2222/udp/239.20.0.181:2160
+CCTV12,http://8.134.252.79:2222/udp/239.10.0.211:1025
+CCTV12,http://8.134.252.79:2222/udp/239.20.0.201:2200
+CCTV12,http://8.134.252.79:2222/udp/239.10.0.192:1025
+CCTV12,http://8.134.252.79:2222/udp/239.20.0.182:2162
+CCTV13,http://8.134.252.79:2222/udp/239.10.0.198:1025
+CCTV13,http://8.134.252.79:2222/udp/239.21.0.88:3692
+CCTV13,http://8.134.252.79:2222/udp/239.10.0.193:1025
+CCTV13,http://8.134.252.79:2222/udp/239.20.0.183:2164
+CCTV14,http://8.134.252.79:2222/udp/239.10.0.212:1025
+CCTV14,http://8.134.252.79:2222/udp/239.20.0.202:2202
+CCTV14,http://8.134.252.79:2222/udp/239.10.0.194:1025
+CCTV14,http://8.134.252.79:2222/udp/239.20.0.184:2166
+CCTV15,http://8.134.252.79:2222/udp/239.11.0.25:1025
+CCTV15,http://8.134.252.79:2222/udp/239.21.0.36:3484
+CCTV15,http://8.134.252.79:2222/udp/239.10.0.195:1025
+CCTV15,http://8.134.252.79:2222/udp/239.20.0.185:2168
+CCTV16,http://8.134.252.79:2222/udp/239.11.0.126:1025
+CCTV16,http://8.134.252.79:2222/udp/239.21.0.116:3808
+CCTV17,http://8.134.252.79:2222/udp/239.10.0.244:1025
+CCTV17,http://8.134.252.79:2222/udp/239.20.0.7:3376
+CCTV17,http://8.134.252.79:2222/udp/239.10.0.243:1025
+CCTV17,http://8.134.252.79:2222/udp/239.20.0.8:3372
+CCTV电视指南,http://8.134.252.79:2222/udp/239.11.0.58:1025
+CCTV电视指南,http://8.134.252.79:2222/udp/239.21.0.81:3664
+CCTV兵器科技,http://8.134.252.79:2222/udp/239.11.0.57:1025
+CCTV兵器科技,http://8.134.252.79:2222/udp/239.21.0.80:3660
+CCTV第一剧场,http://8.134.252.79:2222/udp/239.11.0.67:1025
+CCTV第一剧场,http://8.134.252.79:2222/udp/239.21.0.78:3652
+CCTV风云剧场,http://8.134.252.79:2222/udp/239.11.0.65:1025
+CCTV风云剧场,http://8.134.252.79:2222/udp/239.21.0.76:3644
+CCTV风云音乐,http://8.134.252.79:2222/udp/239.11.0.68:1025
+CCTV风云音乐,http://8.134.252.79:2222/udp/239.21.0.79:3656
+CCTV风云足球,http://8.134.252.79:2222/udp/239.11.0.59:1025
+CCTV风云足球,http://8.134.252.79:2222/udp/239.21.0.70:3620
+CCTV高尔夫网球,http://8.134.252.79:2222/udp/239.21.0.72:3628
+CCTV怀旧剧场,http://8.134.252.79:2222/udp/239.11.0.64:1025
+CCTV怀旧剧场,http://8.134.252.79:2222/udp/239.21.0.75:3640
+CCTV女性时尚,http://8.134.252.79:2222/udp/239.11.0.62:1025
+CCTV女性时尚,http://8.134.252.79:2222/udp/239.21.0.73:3632
+CCTV世界地理,http://8.134.252.79:2222/udp/239.11.0.63:1025
+CCTV世界地理,http://8.134.252.79:2222/udp/239.21.0.74:3636
+CCTV卫生健康,http://8.134.252.79:2222/udp/239.11.0.185:1025
+CCTV文化精品,http://8.134.252.79:2222/udp/239.11.0.66:1025
+CCTV央视精品,http://8.134.252.79:2222/udp/239.21.0.77:3648
+CCTV央视台球,http://8.134.252.79:2222/udp/239.11.0.60:1025
+CCTV央视台球,http://8.134.252.79:2222/udp/239.21.0.71:3624
+CCTV央视网球,http://8.134.252.79:2222/udp/239.11.0.61:1025
+CCTV发现之旅,http://8.134.252.79:2222/udp/239.11.0.183:1025
+CCTV发现之旅,http://8.134.252.79:2222/udp/239.11.0.182:1025
+CCTV发现之旅,http://8.134.252.79:2222/udp/239.21.0.151:3948
+CCTV老故事,http://8.134.252.79:2222/udp/239.10.0.33:1025
+CCTV老故事,http://8.134.252.79:2222/udp/239.20.0.227:2252
+CCTV中学生,http://8.134.252.79:2222/udp/239.11.0.173:1025
+CCTV中学生,http://8.134.252.79:2222/udp/239.21.0.139:3900
 大陆卫视,#genre#
 安徽卫视,http://111.72.202.250:7088/udp/239.252.220.83:5140
 北京卫视,http://111.72.202.250:7088/udp/239.252.219.206:5140
@@ -882,10 +994,141 @@ CCTV中学生,http://219.141.44.235:8188/udp/238.255.2.181:5999
 浙江卫视,http://219.141.44.235:8188/udp/238.255.2.100:5999
 重庆卫视,http://219.141.44.235:8188/udp/238.255.2.78:5999
 大湾区卫视,http://219.141.44.235:8188/udp/238.255.2.60:5999
+安徽卫视,http://8.134.252.79:2222/udp/239.10.0.203:1025
+安徽卫视,http://8.134.252.79:2222/udp/239.20.0.193:2184
+安徽卫视,http://8.134.252.79:2222/udp/239.10.0.146:1025
+安徽卫视,http://8.134.252.79:2222/udp/239.20.0.136:2070
+北京卫视,http://8.134.252.79:2222/udp/239.10.0.131:1025
+北京卫视,http://8.134.252.79:2222/udp/239.20.0.121:2040
+北京卫视,http://8.134.252.79:2222/udp/239.10.0.147:1025
+北京卫视,http://8.134.252.79:2222/udp/239.20.0.137:2072
+兵团卫视,http://8.134.252.79:2222/udp/239.10.0.170:1025
+兵团卫视,http://8.134.252.79:2222/udp/239.20.0.160:2118
+东方卫视,http://8.134.252.79:2222/udp/239.10.0.183:1025
+东方卫视,http://8.134.252.79:2222/udp/239.20.0.173:2144
+东方卫视,http://8.134.252.79:2222/udp/239.10.0.118:1025
+东方卫视,http://8.134.252.79:2222/udp/239.20.0.108:2014
+东南卫视,http://8.134.252.79:2222/udp/239.10.0.77:1025
+东南卫视,http://8.134.252.79:2222/udp/239.20.0.58:3168
+东南卫视,http://8.134.252.79:2222/udp/239.20.0.148:2094
+甘肃卫视,http://8.134.252.79:2222/udp/239.11.0.175:1025
+甘肃卫视,http://8.134.252.79:2222/udp/239.21.0.141:3908
+甘肃卫视,http://8.134.252.79:2222/udp/239.10.0.169:1025
+甘肃卫视,http://8.134.252.79:2222/udp/239.20.0.159:2116
+广东卫视,http://8.134.252.79:2222/udp/239.10.0.111:1025
+广东卫视,http://8.134.252.79:2222/udp/239.10.0.45:1025
+广东卫视,http://8.134.252.79:2222/udp/239.20.0.101:2000
+广东卫视,http://8.134.252.79:2222/udp/239.20.0.99:3004
+广东卫视,http://8.134.252.79:2222/udp/239.10.0.141:1025
+广东卫视,http://8.134.252.79:2222/udp/239.20.0.131:2060
+广西卫视,http://8.134.252.79:2222/udp/239.10.0.246:1025
+广西卫视,http://8.134.252.79:2222/udp/239.20.0.15:3344
+广西卫视,http://8.134.252.79:2222/udp/239.20.0.149:2096
+贵州卫视,http://8.134.252.79:2222/udp/239.10.0.222:1025
+贵州卫视,http://8.134.252.79:2222/udp/239.20.0.212:2222
+贵州卫视,http://8.134.252.79:2222/udp/239.20.0.142:2082
+海南卫视,http://8.134.252.79:2222/udp/239.11.0.172:1025
+海南卫视,http://8.134.252.79:2222/udp/239.21.0.134:3880
+海南卫视,http://8.134.252.79:2222/udp/239.10.0.165:1025
+海南卫视,http://8.134.252.79:2222/udp/239.20.0.155:2108
+河北卫视,http://8.134.252.79:2222/udp/239.10.0.79:1025
+河北卫视,http://8.134.252.79:2222/udp/239.20.0.56:3176
+河北卫视,http://8.134.252.79:2222/udp/239.20.0.147:2092
+河南卫视,http://8.134.252.79:2222/udp/239.11.0.94:1025
+河南卫视,http://8.134.252.79:2222/udp/239.21.0.104:3756
+河南卫视,http://8.134.252.79:2222/udp/239.10.0.154:1025
+河南卫视,http://8.134.252.79:2222/udp/239.20.0.144:2086
+黑龙江卫视,http://8.134.252.79:2222/udp/239.10.0.133:1025
+黑龙江卫视,http://8.134.252.79:2222/udp/239.10.0.53:1025
+黑龙江卫视,http://8.134.252.79:2222/udp/239.20.0.123:2044
+黑龙江卫视,http://8.134.252.79:2222/udp/239.20.0.91:3036
+黑龙江卫视,http://8.134.252.79:2222/udp/239.20.0.141:2080
+湖北卫视,http://8.134.252.79:2222/udp/239.10.0.134:1025
+湖北卫视,http://8.134.252.79:2222/udp/239.10.0.54:1025
+湖北卫视,http://8.134.252.79:2222/udp/239.20.0.124:2046
+湖北卫视,http://8.134.252.79:2222/udp/239.20.0.90:3040
+湖北卫视,http://8.134.252.79:2222/udp/239.20.0.139:2076
+湖南卫视,http://8.134.252.79:2222/udp/239.10.0.115:1025
+湖南卫视,http://8.134.252.79:2222/udp/239.10.0.49:1025
+湖南卫视,http://8.134.252.79:2222/udp/239.20.0.105:2008
+湖南卫视,http://8.134.252.79:2222/udp/239.20.0.95:3020
+湖南卫视,http://8.134.252.79:2222/udp/239.10.0.145:1025
+湖南卫视,http://8.134.252.79:2222/udp/239.20.0.135:2068
+吉林卫视,http://8.134.252.79:2222/udp/239.10.0.81:1025
+吉林卫视,http://8.134.252.79:2222/udp/239.20.0.54:3184
+吉林卫视,http://8.134.252.79:2222/udp/239.20.0.150:2098
+江苏卫视,http://8.134.252.79:2222/udp/239.10.0.180:1025
+江苏卫视,http://8.134.252.79:2222/udp/239.10.0.51:1025
+江苏卫视,http://8.134.252.79:2222/udp/239.20.0.170:2138
+江苏卫视,http://8.134.252.79:2222/udp/239.10.0.117:1025
+江苏卫视,http://8.134.252.79:2222/udp/239.20.0.107:2012
+江西卫视,http://8.134.252.79:2222/udp/239.10.0.80:1025
+江西卫视,http://8.134.252.79:2222/udp/239.20.0.55:3180
+江西卫视,http://8.134.252.79:2222/udp/239.10.0.148:1025
+江西卫视,http://8.134.252.79:2222/udp/239.20.0.138:2074
+辽宁卫视,http://8.134.252.79:2222/udp/239.10.0.185:1025
+辽宁卫视,http://8.134.252.79:2222/udp/239.20.0.175:2148
+辽宁卫视,http://8.134.252.79:2222/udp/239.20.0.140:2078
+内蒙古卫视,http://8.134.252.79:2222/udp/239.10.0.163:1025
+内蒙古卫视,http://8.134.252.79:2222/udp/239.20.0.153:2104
+宁夏卫视,http://8.134.252.79:2222/udp/239.10.0.166:1025
+宁夏卫视,http://8.134.252.79:2222/udp/239.20.0.156:2110
+青海卫视,http://8.134.252.79:2222/udp/239.11.0.179:1025
+青海卫视,http://8.134.252.79:2222/udp/239.21.0.144:3920
+青海卫视,http://8.134.252.79:2222/udp/239.10.0.164:1025
+青海卫视,http://8.134.252.79:2222/udp/239.20.0.154:2106
+三沙卫视,http://8.134.252.79:2222/udp/239.11.0.177:1025
+三沙卫视,http://8.134.252.79:2222/udp/239.21.0.143:3916
+三沙卫视,http://8.134.252.79:2222/udp/239.10.0.83:1025
+三沙卫视,http://8.134.252.79:2222/udp/239.20.0.52:3192
+厦门卫视,http://8.134.252.79:2222/udp/239.10.0.178:1025
+厦门卫视,http://8.134.252.79:2222/udp/239.20.0.168:2134
+山东卫视,http://8.134.252.79:2222/udp/239.10.0.182:1025
+山东卫视,http://8.134.252.79:2222/udp/239.20.0.172:2142
+山东卫视,http://8.134.252.79:2222/udp/239.20.0.109:2016
+山西卫视,http://8.134.252.79:2222/udp/239.10.0.162:1025
+山西卫视,http://8.134.252.79:2222/udp/239.20.0.152:2102
+陕西卫视,http://8.134.252.79:2222/udp/239.10.0.161:1025
+陕西卫视,http://8.134.252.79:2222/udp/239.20.0.151:2100
+深圳卫视,http://8.134.252.79:2222/udp/239.10.0.132:1025
+深圳卫视,http://8.134.252.79:2222/udp/239.10.0.52:1025
+深圳卫视,http://8.134.252.79:2222/udp/239.20.0.122:2042
+深圳卫视,http://8.134.252.79:2222/udp/239.20.0.92:3032
+深圳卫视,http://8.134.252.79:2222/udp/239.10.0.144:1025
+深圳卫视,http://8.134.252.79:2222/udp/239.20.0.134:2066
+四川卫视,http://8.134.252.79:2222/udp/239.10.0.204:1025
+四川卫视,http://8.134.252.79:2222/udp/239.10.0.60:1025
+四川卫视,http://8.134.252.79:2222/udp/239.20.0.194:2186
+四川卫视,http://8.134.252.79:2222/udp/239.20.0.143:2084
+天津卫视,http://8.134.252.79:2222/udp/239.10.0.181:1025
+天津卫视,http://8.134.252.79:2222/udp/239.10.0.55:1025
+天津卫视,http://8.134.252.79:2222/udp/239.20.0.171:2140
+天津卫视,http://8.134.252.79:2222/udp/239.20.0.89:3044
+天津卫视,http://8.134.252.79:2222/udp/239.20.0.110:2018
+西藏卫视,http://8.134.252.79:2222/udp/239.10.0.167:1025
+西藏卫视,http://8.134.252.79:2222/udp/239.20.0.157:2112
+新疆卫视,http://8.134.252.79:2222/udp/239.10.0.168:1025
+新疆卫视,http://8.134.252.79:2222/udp/239.20.0.158:2114
+延边卫视,http://8.134.252.79:2222/udp/239.10.0.140:1025
+延边卫视,http://8.134.252.79:2222/udp/239.20.0.51:3216
+云南卫视,http://8.134.252.79:2222/udp/239.11.0.171:1025
+云南卫视,http://8.134.252.79:2222/udp/239.21.0.133:3876
+云南卫视,http://8.134.252.79:2222/udp/239.10.0.155:1025
+云南卫视,http://8.134.252.79:2222/udp/239.20.0.145:2088
+浙江卫视,http://8.134.252.79:2222/udp/239.10.0.179:1025
+浙江卫视,http://8.134.252.79:2222/udp/239.20.0.169:2136
+浙江卫视,http://8.134.252.79:2222/udp/239.10.0.116:1025
+浙江卫视,http://8.134.252.79:2222/udp/239.20.0.106:2010
+重庆卫视,http://8.134.252.79:2222/udp/239.10.0.205:1025
+重庆卫视,http://8.134.252.79:2222/udp/239.20.0.195:2188
+重庆卫视,http://8.134.252.79:2222/udp/239.20.0.146:2090
+大湾区卫视,http://8.134.252.79:2222/udp/239.11.0.78:1025
+大湾区卫视,http://8.134.252.79:2222/udp/239.21.0.84:3676
+大湾区卫视,http://8.134.252.79:2222/udp/239.10.0.135:1025
+大湾区卫视,http://8.134.252.79:2222/udp/239.20.0.125:2048
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=a5a3a04e1720508811
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
-大湾区卫视,http://108.181.20.197/livehttpplay?channel_id=20083
 香港频道,#genre#
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -993,6 +1236,20 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN英语,http://8.134.252.79:2222/udp/239.21.0.109:3776
+CGTN英语,http://8.134.252.79:2222/udp/239.11.0.103:1025
+CGTN英语,http://8.134.252.79:2222/udp/239.10.0.196:1025
+CGTN英语,http://8.134.252.79:2222/udp/239.20.0.186:2170
+CGTN纪录,http://8.134.252.79:2222/udp/239.21.0.110:3780
+CGTN纪录,http://8.134.252.79:2222/udp/239.11.0.104:1025
+CGTN阿语,http://8.134.252.79:2222/udp/239.11.0.107:1025
+CGTN阿语,http://8.134.252.79:2222/udp/239.21.0.113:3792
+CGTN俄语,http://8.134.252.79:2222/udp/239.11.0.108:1025
+CGTN俄语,http://8.134.252.79:2222/udp/239.21.0.114:3796
+CGTN法语,http://8.134.252.79:2222/udp/239.11.0.106:1025
+CGTN法语,http://8.134.252.79:2222/udp/239.21.0.112:3788
+CGTN西语,http://8.134.252.79:2222/udp/239.21.0.111:3800
+CGTN西语,http://8.134.252.79:2222/udp/239.11.0.105:1025
 财经频道,#genre#
 第一财经,http://nxlj.cn:1688/udp/239.45.3.211:5140
 东方财经,http://nxlj.cn:1688/udp/239.45.0.17:5140
@@ -1024,6 +1281,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 第一财经,http://jl.haoyuhuojia.com:4022/udp/233.50.200.125:5140
 第一财经,http://xrhui.f3322.org:8888/udp/233.50.200.125:5140
 财富天下,http://219.141.44.235:8188/udp/238.255.2.186:5999
+财富天下,http://8.134.252.79:2222/udp/239.10.0.177:1025
+财富天下,http://8.134.252.79:2222/udp/239.20.0.167:2132
 纪实频道,#genre#
 CETV1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 CETV2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
@@ -1296,6 +1555,39 @@ CETV4,http://219.141.44.235:8188/udp/238.255.2.222:5999
 摄影,http://219.141.44.235:8188/udp/238.255.2.8:5999
 生活时尚,http://219.141.44.235:8188/udp/238.255.2.193:5999
 中国交通,http://219.141.44.235:8188/udp/238.255.2.220:5999
+CETV1,http://8.134.252.79:2222/udp/239.20.0.213:2224
+CETV1,http://8.134.252.79:2222/udp/239.10.0.223:1025
+CETV2,http://8.134.252.79:2222/udp/239.11.0.35:1025
+CETV2,http://8.134.252.79:2222/udp/239.21.0.46:3524
+CETV4,http://8.134.252.79:2222/udp/239.11.0.176:1025
+CETV4,http://8.134.252.79:2222/udp/239.21.0.142:3912
+CETV4,http://8.134.252.79:2222/udp/239.11.0.36:1025
+CETV4,http://8.134.252.79:2222/udp/239.21.0.47:3528
+求索记录,http://8.134.252.79:2222/udp/239.11.0.128:1025
+求索记录,http://8.134.252.79:2222/udp/239.21.0.118:3816
+茶频道,http://8.134.252.79:2222/udp/239.11.0.130:1025
+茶频道,http://8.134.252.79:2222/udp/239.21.0.120:3824
+国学频道,http://8.134.252.79:2222/udp/239.10.0.38:1025
+国学频道,http://8.134.252.79:2222/udp/239.20.0.247:2292
+环球奇观,http://8.134.252.79:2222/udp/239.10.0.36:1025
+环球奇观,http://8.134.252.79:2222/udp/239.20.0.245:2288
+纪实人文,http://8.134.252.79:2222/udp/239.10.0.78:1025
+纪实人文,http://8.134.252.79:2222/udp/239.20.0.57:3172
+金鹰纪实,http://8.134.252.79:2222/udp/239.10.0.206:1025
+金鹰纪实,http://8.134.252.79:2222/udp/239.20.0.196:2190
+金鹰纪实,http://8.134.252.79:2222/udp/239.20.0.85:3060
+山东教育,http://8.134.252.79:2222/udp/239.10.0.176:1025
+山东教育,http://8.134.252.79:2222/udp/239.20.0.166:2130
+书画频道,http://8.134.252.79:2222/udp/239.11.0.174:1025
+书画频道,http://8.134.252.79:2222/udp/239.21.0.140:3904
+现代教育,http://8.134.252.79:2222/udp/239.11.0.181:1025
+现代教育,http://8.134.252.79:2222/udp/239.21.0.148:3936
+现代教育,http://8.134.252.79:2222/udp/239.10.0.138:1025
+现代教育,http://8.134.252.79:2222/udp/239.20.0.128:2054
+早期教育,http://8.134.252.79:2222/udp/239.11.0.100:1025
+早期教育,http://8.134.252.79:2222/udp/239.21.0.106:37
+中国交通,http://8.134.252.79:2222/udp/239.10.0.72:1025
+中国交通,http://8.134.252.79:2222/udp/239.20.0.68:3128
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -1572,6 +1864,56 @@ CHC动作电影,http://117.8.143.179:8834/udp/225.1.1.215:5002
 金鹰卡通,http://219.141.44.235:8188/udp/238.255.2.55:5999
 卡酷少儿,http://219.141.44.235:8188/udp/238.255.2.80:5999
 优漫卡通,http://219.141.44.235:8188/udp/238.255.2.57:5999
+CHC影迷电影,http://8.134.252.79:2222/udp/239.11.0.129:1025
+CHC影迷电影,http://8.134.252.79:2222/udp/239.21.0.119:3820
+IPTV谍战剧场,http://8.134.252.79:2222/udp/239.10.0.8:1025
+IPTV谍战剧场,http://8.134.252.79:2222/udp/239.20.0.228:2254
+IPTV法治,http://8.134.252.79:2222/udp/239.10.0.11:1025
+IPTV法治,http://8.134.252.79:2222/udp/239.20.0.231:2260
+IPTV魅力时尚,http://8.134.252.79:2222/udp/239.10.0.19:1025
+IPTV魅力时尚,http://8.134.252.79:2222/udp/239.20.0.239:2276
+IPTV少儿动画,http://8.134.252.79:2222/udp/239.10.0.18:1025
+IPTV少儿动画,http://8.134.252.79:2222/udp/239.20.0.238:2274
+IPTV相声小品,http://8.134.252.79:2222/udp/239.10.0.9:1025
+IPTV相声小品,http://8.134.252.79:2222/udp/239.20.0.229:2256
+IPTV野外,http://8.134.252.79:2222/udp/239.10.0.10:1025
+IPTV野外,http://8.134.252.79:2222/udp/239.20.0.230:2258
+经典电影,http://8.134.252.79:2222/udp/239.10.0.13:1025
+经典电影,http://8.134.252.79:2222/udp/239.20.0.233:2264
+热播剧场,http://8.134.252.79:2222/udp/239.10.0.15:1025
+热播剧场,http://8.134.252.79:2222/udp/239.20.0.235:2268
+嘉佳卡通,http://8.134.252.79:2222/udp/239.21.0.94:3716
+嘉佳卡通,http://8.134.252.79:2222/udp/239.10.0.200:1025
+嘉佳卡通,http://8.134.252.79:2222/udp/239.10.0.129:1025
+嘉佳卡通,http://8.134.252.79:2222/udp/239.20.0.119:2036
+金鹰卡通,http://8.134.252.79:2222/udp/239.11.0.125:1025
+金鹰卡通,http://8.134.252.79:2222/udp/239.21.0.115:3804
+金鹰卡通,http://8.134.252.79:2222/udp/239.10.0.173:1025
+金鹰卡通,http://8.134.252.79:2222/udp/239.20.0.163:2124
+卡酷动画,http://8.134.252.79:2222/udp/239.10.0.172:1025
+卡酷动画,http://8.134.252.79:2222/udp/239.20.0.162:2122
+炫动卡通,http://8.134.252.79:2222/udp/239.10.0.174:1025
+炫动卡通,http://8.134.252.79:2222/udp/239.20.0.164:2126
+广东影视,http://8.134.252.79:2222/udp/239.11.0.79:1025
+广东影视,http://8.134.252.79:2222/udp/239.21.0.85:3680
+广东影视,http://8.134.252.79:2222/udp/239.10.0.127:1025
+广东影视,http://8.134.252.79:2222/udp/239.20.0.117:2032
+广东珠江,http://8.134.252.79:2222/udp/239.10.0.62:1025
+广东珠江,http://8.134.252.79:2222/udp/239.10.0.63:1025
+广东珠江,http://8.134.252.79:2222/udp/239.20.0.63:3148
+广东珠江,http://8.134.252.79:2222/udp/239.20.0.64:3144
+广东珠江,http://8.134.252.79:2222/udp/239.10.0.121:1025
+广东珠江,http://8.134.252.79:2222/udp/239.20.0.111:2020
+岭南戏曲,http://8.134.252.79:2222/udp/239.11.0.180:1025
+岭南戏曲,http://8.134.252.79:2222/udp/239.21.0.147:3932
+岭南戏曲,http://8.134.252.79:2222/udp/239.10.0.125:1025
+岭南戏曲,http://8.134.252.79:2222/udp/239.20.0.115:2028
+IPTV3+,http://8.134.252.79:2222/udp/239.10.0.16:1025
+IPTV3+,http://8.134.252.79:2222/udp/239.20.0.236:2270
+IPTV6+,http://8.134.252.79:2222/udp/239.10.0.12:1025
+IPTV6+,http://8.134.252.79:2222/udp/239.20.0.232:2262
+IPTV8+,http://8.134.252.79:2222/udp/239.10.0.14:1025
+IPTV8+,http://8.134.252.79:2222/udp/239.20.0.234:2266
 河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 河南睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 音乐频道,#genre#
@@ -1828,10 +2170,19 @@ MAX极速汽车,http://nxlj.cn:1688/udp/239.45.3.49:5140
 汽摩频道,http://219.141.44.235:8188/udp/238.255.2.148:5999
 天元围棋,http://219.141.44.235:8188/udp/238.255.2.7:5999
 新视觉,http://219.141.44.235:8188/udp/238.255.2.195:5999
+快乐垂钓,http://8.134.252.79:2222/udp/239.11.0.131:1025
+汽摩频道,http://8.134.252.79:2222/udp/239.10.0.232:1025
+汽摩频道,http://8.134.252.79:2222/udp/239.20.0.222:2242
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 北京体育,http://beijinglive.online.domybox.com:91/live/BTVTYhd-8M/live.m3u8
 广东体育,http://125.90.228.174:12306/udp/239.77.0.112:5146
 广东体育,http://125.90.228.174:12306/udp/239.77.0.168:5146
+广东体育,http://8.134.252.79:2222/udp/239.10.0.113:1025
+广东体育,http://8.134.252.79:2222/udp/239.10.0.47:1025
+广东体育,http://8.134.252.79:2222/udp/239.20.0.103:2004
+广东体育,http://8.134.252.79:2222/udp/239.20.0.97:3012
+广东体育,http://8.134.252.79:2222/udp/239.10.0.124:1025
+广东体育,http://8.134.252.79:2222/udp/239.20.0.114:2026
 江苏体育,http://222.95.140.67:58888/udp/239.49.0.19:8144
 江苏体育,http://222.95.140.67:58888/udp/239.49.8.117:8000
 麻辣体育,http://171.213.131.63:8188/udp/239.93.42.2:5140
@@ -1840,113 +2191,17 @@ MAX极速汽车,http://nxlj.cn:1688/udp/239.45.3.49:5140
 五星体育,http://nxlj.cn:1688/udp/239.45.3.210:5140
 北京体育,http://120.244.127.106:8098/udp/228.1.1.117:8000
 北京体育,http://111.196.134.161:20000/udp/239.3.1.243:8000
+IPTV5+,http://8.134.252.79:2222/udp/239.10.0.218:1025
+IPTV5+,http://8.134.252.79:2222/udp/239.20.0.208:2214
+IPTV5+,http://8.134.252.79:2222/udp/239.10.0.17:1025
+IPTV5+,http://8.134.252.79:2222/udp/239.20.0.237:2272
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-五星体育,http://108.181.20.197/livehttpplay?channel_id=20060
 RedBull Sport,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 RedBull Sport,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 PAC12 Insider,https://pac12-samsungus.amagi.tv/playlist.m3u8
 Sports Grid,https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-UK EuroSport,https://kong.pp.ua/iptv/live.php?channel=2ff12a14f091275043ed51cffb8e5219&expiry=1747758603&token=e0d14c17c3da43a01128b43b8f6cabc8
-UK EuroSport,https://kong.pp.ua/iptv/live.php?channel=ccfd810388bab833496e2bbd84d2e4c1&expiry=1747758603&token=95109d5ef567235af2fa6dd0a459c4ab
-UK Sky Sports Action,https://kong.pp.ua/iptv/live.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1747758603&token=92010e1c984d33957c9265256ec92f7a
-UK SKY SPORTS ARENA FHD,https://kong.pp.ua/iptv/live.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1747758603&token=e920536a762bba5315233884eb360e2d
-UK Sky Sports Arena,https://kong.pp.ua/iptv/live.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1747758603&token=bd355c7e9f62b9fc2b82b32d8742ab9d
-UK Sky Sports Cricket FHD,https://kong.pp.ua/iptv/live.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1747758603&token=7129108cfd3193a95ea808118c68f083
-UK Sky Sports F1 FHD,https://kong.pp.ua/iptv/live.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1747758603&token=dc4e0f4229e3649fcc2a01de798f10a6
-UK Sky Sports F1,https://kong.pp.ua/iptv/live.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1747758603&token=6a73ab89147748718ad21098ad8e3e73
-UK Sky Sports Golf FHD,https://kong.pp.ua/iptv/live.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1747758603&token=a17c4342c58ceafb362956230bf5a07f
-UK SKY SPORTS MAIN EVENT HD,https://kong.pp.ua/iptv/live.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1747758603&token=f7f96ccb982e6a7261043d32fee4325a
-UK Sky Sports Main Event,https://kong.pp.ua/iptv/live.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1747758603&token=a50cfa5af8bd820f9320404534ac9f62
-UK Sky Sports Mix FHD,https://kong.pp.ua/iptv/live.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1747758603&token=bb7c2b3a0adf85fe3ebcacbebc0c76fa
-UK Sky Sports News,https://kong.pp.ua/iptv/live.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1747758603&token=07aaa9aafd7e1d4f5278298e14c80702
-US Altitude Sports HD,https://kong.pp.ua/iptv/live.php?channel=d704eaad4b4188373cdc7c37288ebb61&expiry=1747758603&token=80c0faa9da58097db1bda0ca60bb10b6
-US Bally Sports Carolinas,https://kong.pp.ua/iptv/live.php?channel=8b0f08f7caa1891a369a2ca77e735cd3&expiry=1747758603&token=2f16a6dccca25805b1343a8c0e166be4
-US Bally Sports Detroit,https://kong.pp.ua/iptv/live.php?channel=34df14f367c4d86e90a40481b5a9744d&expiry=1747758603&token=43cff10bb7504c16c53b2a914f109133
-US Bally Sports Florida,https://kong.pp.ua/iptv/live.php?channel=7ce0279e1be7db704f70e5a1b823e338&expiry=1747758603&token=087dbf4d756a3bdc647248333d04186f
-US Bally Sports Midwest,https://kong.pp.ua/iptv/live.php?channel=121ee1307fa786da6cec1d57f4a0931c&expiry=1747758603&token=5d7e451710f4eb907551c019fa0a7d5d
-US Bally Sports North A,https://kong.pp.ua/iptv/live.php?channel=84827e2abb983da746d91596e4827ea0&expiry=1747758603&token=6c04bbc388bd4274d37b8de51b8d702f
-US Bally Sports North,https://kong.pp.ua/iptv/live.php?channel=60be623155d0f796c9fb9b03b8995d21&expiry=1747758603&token=e78cf5bddf17c2d1791172866969660b
-US Bally Sports Ohio,https://kong.pp.ua/iptv/live.php?channel=a0c0da11430903b7eec3479cd4fae214&expiry=1747758603&token=3bb5966ba8f02fd6748960aae0371489
-US Bally Sports Oklahoma,https://kong.pp.ua/iptv/live.php?channel=31090f72b3b75bf0dadbdba8940d6a9f&expiry=1747758603&token=7fc40654ecdb3e6c395dfd04094bde3b
-US Bally Sports South,https://kong.pp.ua/iptv/live.php?channel=490c53dba7ef5d680328d6d399f30fb1&expiry=1747758603&token=c0e6d9b6f9eba7e0c380b562c1e82a6b
-US Bally Sports South,https://kong.pp.ua/iptv/live.php?channel=f80c55751290655726f88ddd31987fdf&expiry=1747758603&token=f18f381b821d1c7bc69f7aaef3231851
-US Bally Sports Southeast,https://kong.pp.ua/iptv/live.php?channel=26055d052c5e670bd7d81597d5d3be95&expiry=1747758603&token=c872c56301991d4b38380cc0cdc532dc
-US Bally Sports Southeast,https://kong.pp.ua/iptv/live.php?channel=806d9ecb5b7a1f5fb00131686fc798c8&expiry=1747758603&token=36f3e6db6207d84a586e480b8025c780
-US Bally Sports Southwest,https://kong.pp.ua/iptv/live.php?channel=90605d900466c89dec6b241225890be5&expiry=1747758603&token=6df162b8c2df4a389b9a9039b3a55fc4
-US Bally Sports Sun,https://kong.pp.ua/iptv/live.php?channel=b225c7981819ae7c7e7f7bfba1e4b78e&expiry=1747758603&token=858fde1d75e07b51d6f24eb11deb3741
-US Bally Sports West,https://kong.pp.ua/iptv/live.php?channel=0db22cda8673561485ee8401ae33a797&expiry=1747758603&token=779b62787401dfbe884a874df03e9d30
-US Bally Sports,https://kong.pp.ua/iptv/live.php?channel=f4e14092d890b79ac046002c68a72e79&expiry=1747758603&token=c5a867f9675e344078aa997f528e1c8b
-US CBS Sports Network HD,https://kong.pp.ua/iptv/live.php?channel=196aa194d2bf2149e84005eea5d808b7&expiry=1747758603&token=f2846c4e0a59f513f16c2b3c2f9e615b
-US CBS Sports Network HD,https://kong.pp.ua/iptv/live.php?channel=736ceb517bf37a432b85e203b545c1b0&expiry=1747758603&token=46c7bc687085ad918e55c3e69ef5772c
-US ESPNU College Sports,https://kong.pp.ua/iptv/live.php?channel=9c60348bb7c48fb8f33af3ac1168eb7d&expiry=1747758603&token=941e87bfc20a2df8128c42a1965e2370
-US ESPNU College Sports,https://kong.pp.ua/iptv/live.php?channel=e1cfa6345c8640c07a1b8aeaad1effa5&expiry=1747758603&token=9c93d53fb3a076fde62f605d0f9d6214
-US FanDuel Sports Wisconsin,https://kong.pp.ua/iptv/live.php?channel=dab1aceccdf37ff0fc4fa11123e5245b&expiry=1747758603&token=022dfa7c1c151b42963de81dc2233671
-US Fox Sports,https://kong.pp.ua/iptv/live.php?channel=631730cec0bb3be3402c249c8bee076b&expiry=1747758603&token=b30826509c7523d283c7b75eb0e00795
-US Fox Sports,https://kong.pp.ua/iptv/live.php?channel=678dc13a40bc92a89aec29ac9449a3f9&expiry=1747758603&token=6f4fd13083d1069813e9eb42e1e84b40
-US Fox Sports,https://kong.pp.ua/iptv/live.php?channel=6a5c2c6e28eaf679064c222a552f53ff&expiry=1747758603&token=0ea3d5f013bf36b741fc23833c360261
-US FOX Sports,https://kong.pp.ua/iptv/live.php?channel=9eaac0310263d0d3c20f8b1c84903563&expiry=1747758603&token=7572706f2eba155d7053a187ded9039e
-US FOX Sports,https://kong.pp.ua/iptv/live.php?channel=a22abebdf798ba8fa868dbadf0229b91&expiry=1747758603&token=9989365357c707e482f36e6135e5f767
-US Fox Sports,https://kong.pp.ua/iptv/live.php?channel=f5f8616e105c2de614fe703b3155179a&expiry=1747758603&token=f2816ad382461212e7152010256c4216
-US Marquee Sports Network HD,https://kong.pp.ua/iptv/live.php?channel=cd7cc83b6a033661fb7370577d6f5538&expiry=1747758603&token=226d9a762e03ab0631891a2797eee8be
-US NBC Sports Bay Area,https://kong.pp.ua/iptv/live.php?channel=fb14bd7406041d0bfeab74f66c62026e&expiry=1747758603&token=0262c9ae1a5497526916f5a9568f104b
-US NBC Sports Boston,https://kong.pp.ua/iptv/live.php?channel=8d26f72ccd51fdc6e243bc8d9581b859&expiry=1747758603&token=5cb1570fd2330abeca5dfa73d86e638f
-US NBC Sports California,https://kong.pp.ua/iptv/live.php?channel=972a29fc8933643c6be8449e38b7a85d&expiry=1747758603&token=eb138a1b8609eb35913332727afbc359
-US NBC Sports Chicago,https://kong.pp.ua/iptv/live.php?channel=ea933353832aa453da52cb41571acd8c&expiry=1747758603&token=c5d33e0f8996a28577df26202a892ac7
-US NBC Sports Network FHD,https://kong.pp.ua/iptv/live.php?channel=fc777c1b8b0b036faa124c22d3bc7731&expiry=1747758603&token=38dcc8bbca713618a880caea6744ddeb
-US NBC Sports Network,https://kong.pp.ua/iptv/live.php?channel=ed0d62ceb1ccb8fa46c010f91ef7df01&expiry=1747758603&token=7e0a831677f9ee2b08333d3a66d24c26
-US NBC Sports Philly,https://kong.pp.ua/iptv/live.php?channel=b445e40e7a4ac3009d30a464b165acbf&expiry=1747758603&token=64cbdbd1e9e34a315aec6141f1dcb68c
-US NBC Sports Washington F,https://kong.pp.ua/iptv/live.php?channel=9528187deb2b6cd35ad8f962052555a5&expiry=1747758603&token=cc35b2dbf91669b3c4f10f66a6221472
-US Spectrum SportsNet LA Dodgers HD,https://kong.pp.ua/iptv/live.php?channel=dd3a70e909c12b7c49c23c920940899b&expiry=1747758603&token=1698be8c296b08a1774751b96dbdad80
-US Spectrum SportsNet Lakers FHD,https://kong.pp.ua/iptv/live.php?channel=1edca2e074266a068a4599a9610451d8&expiry=1747758603&token=4a37927279fa232cdc7e47664003e286
-US Spectrum SportsNet Lakers FHD,https://kong.pp.ua/iptv/live.php?channel=a98a5614c6a9b5f24d21d2ee0b0f27db&expiry=1747758603&token=fade99dd30cacac3d63015834020384f
-US Sportsman Channel,https://kong.pp.ua/iptv/live.php?channel=53faedc755edd2e38c6a9d653cf7f995&expiry=1747758603&token=3673d9dc48d774f583e2a94c92461f21
-US Sportsnet New York SNY,https://kong.pp.ua/iptv/live.php?channel=d7e46a22db988cba519d5fa29a106e38&expiry=1747758603&token=8756f397c8d0536e594ec806933c8db0
-CA FR TVA Sports,https://kong.pp.ua/iptv/live.php?channel=b7c24d8fc5520e7b24eff7f7f0a3a655&expiry=1747758603&token=efcbc23cf612e6761a9e31b1a9830a1f
-CA Ginx esports TV,https://kong.pp.ua/iptv/live.php?channel=660bcbe9cb89ad56404ee3e45fd59b7f&expiry=1747758603&token=52872eb75e1b6dd66da34c77d55d5df6
-CA Sportsnet  HD,https://kong.pp.ua/iptv/live.php?channel=59da56dad417a4185c8a4f1973883f63&expiry=1747758603&token=e111205232d5a9ea6f47ca80568af03b
-CA Sportsnet  HD,https://kong.pp.ua/iptv/live.php?channel=e153f210a1a275abff2fd2db6976a5c5&expiry=1747758603&token=ace2d2d85c7af791895b360450daddf3
-CA Sportsnet East HD F,https://kong.pp.ua/iptv/live.php?channel=668edfcb1ec322a7a2a85e47b27445ae&expiry=1747758603&token=a5eb01a7d88e59ab72d0cf3148dcb523
-CA Sportsnet East,https://kong.pp.ua/iptv/live.php?channel=2278dfadb8c8fa9afa7884812f4bab74&expiry=1747758603&token=df6d51f1b16ed0458661441246825e13
-CA Sportsnet One FHD,https://kong.pp.ua/iptv/live.php?channel=ee7aa846775cf1e25f4aba1fb156734d&expiry=1747758603&token=092555ded87307852781bf2a566cb1c1
-CA Sportsnet One HD,https://kong.pp.ua/iptv/live.php?channel=dea3cf23f8dda760e3692aa04de686e3&expiry=1747758603&token=ff68f1ca792f992b306297f74a10a651
-CA Sportsnet One,https://kong.pp.ua/iptv/live.php?channel=8311de3244086e1566686a65d4d6c159&expiry=1747758603&token=ca2211e3b553187f77488115803e7ce9
-CA Sportsnet Ontario FHD,https://kong.pp.ua/iptv/live.php?channel=994af90d443789ff7e6c88292fba0270&expiry=1747758603&token=5943f9be082377cdc1096934685d95e2
-CA Sportsnet Ontario HD,https://kong.pp.ua/iptv/live.php?channel=b56bf7861abfd59ef3af0aacbb807dc4&expiry=1747758603&token=2c5cc131e39ff42b6c740a08cbe15570
-CA Sportsnet Ontario,https://kong.pp.ua/iptv/live.php?channel=a1d71fa2c29c4dd9536f16aded8abfc1&expiry=1747758603&token=7f237b47e87f2b9f3560050a1af54a7d
-CA Sportsnet Pacific FHD,https://kong.pp.ua/iptv/live.php?channel=e22c18653a213848dc23ff32d9b848cc&expiry=1747758603&token=2c8ce0463447447275eb33e9ec032036
-CA Sportsnet Pacific HD,https://kong.pp.ua/iptv/live.php?channel=18124e29acc6b44724953ce24549dc60&expiry=1747758603&token=47819f2c5b22bbc202a845d37db16852
-CA Sportsnet West FHD,https://kong.pp.ua/iptv/live.php?channel=3062a90ac2712331bbe291e2143252d3&expiry=1747758603&token=7e1fba99f90ab6c38d63666c2c386ad7
-CA SPORTSNET WEST,https://kong.pp.ua/iptv/live.php?channel=7b0a3869799e6feb19021c137f39f43d&expiry=1747758603&token=75cb27cc7b9f695d814bb31d7a4dcf19
-CA Sportsnet World HD,https://kong.pp.ua/iptv/live.php?channel=9e86cfb61e198678cd852a49bbdd69c8&expiry=1747758603&token=db998eda086d3248fb69ac48e9d29df7
-CA TVA SPORTS,https://kong.pp.ua/iptv/live.php?channel=eff268e6666685b0c016a4fd7ed2b26a&expiry=1747758603&token=7ab92dc733fd941040cf18ee0fffb421
-CAR SPORTSMAX,https://kong.pp.ua/iptv/live.php?channel=617db37779f923b597c3bf649d97996e&expiry=1747758603&token=2ac49f532962441ca50bd3f26ec97d02
-CAR SPORTSMAX,https://kong.pp.ua/iptv/live.php?channel=d649f9c2502fcdd32b85ac0671b9bbc0&expiry=1747758603&token=f0f72c3a9b5691c5959961bda5126027
-FOX SPORTS,https://kong.pp.ua/iptv/live.php?channel=a40e5be2a0393e3629cb17b5cd8c2a42&expiry=1747758603&token=f5e9f3bfaa6e168da27ad8c6b794e2ec
-NSPORTS  HD,https://kong.pp.ua/iptv/live.php?channel=77a224911cdaf6e9effae6267226bb40&expiry=1747758603&token=ee82e5452ee0120fb2fcf648ef1890e9
-NSPORTS  HD,https://kong.pp.ua/iptv/live.php?channel=8e6cad389ae41eb6a50f1374ad35bb63&expiry=1747758603&token=2a2ddf3f9c11de3dd351f045814ca183
-PAY PER VIEW ESPORTES,https://kong.pp.ua/iptv/live.php?channel=642a4a430010d987d550b15520292fa6&expiry=1747758603&token=349a363b1f82d318667ed3d358714136
-PREMIERE SPORTS,https://kong.pp.ua/iptv/live.php?channel=f1a9d34ef67edf5388c04f0dba30909d&expiry=1747758603&token=a44cf75b1bce033fa8b289b54ee79fe0
-PT Eleven Sports  FHD,https://kong.pp.ua/iptv/live.php?channel=0bd1ee1dcd22bbdbdda5980b061725b1&expiry=1747758603&token=49b818a2bcf61b2017d137f4673f3556
-PT ELEVEN SPORTS  HD,https://kong.pp.ua/iptv/live.php?channel=260ae3d9837b0d4a8ca38b7d0c9a32d3&expiry=1747758603&token=78ab02132e6802bf59918758d12f8215
-PT ELEVEN SPORTS  HD,https://kong.pp.ua/iptv/live.php?channel=b889301f0db737fd4433af692002a573&expiry=1747758603&token=3717ece1596374525335e7aa3151b355
-PT ELEVEN SPORTS  HD,https://kong.pp.ua/iptv/live.php?channel=df5b1470ba6abc00d5c2774c628afde4&expiry=1747758603&token=7045757b6a1a9995e40878a4b33df2eb
-PT SPORT TV  FHD,https://kong.pp.ua/iptv/live.php?channel=bb9ad40ade0da255ec72cc880a376f8b&expiry=1747758603&token=8dd02409793c618472d9996e4a2c2cf2
-PT SPORT TV  FHD,https://kong.pp.ua/iptv/live.php?channel=d29eeae29d22fc3362f0917f05855ce8&expiry=1747758603&token=81604d5d1b924cc930b82be6a7a8a954
-PT SPORT TV  HD,https://kong.pp.ua/iptv/live.php?channel=68dfeabe3cffd7813cf546208051e2f2&expiry=1747758603&token=dbbe7b9cd6ad880bcca203c3cd9bc478
-PT SPORT TV  HD,https://kong.pp.ua/iptv/live.php?channel=9558894011acb1da1f633944bc5d4645&expiry=1747758603&token=f8265ad83b83aad8757f60dbea7df25f
-Sportsnet,https://kong.pp.ua/iptv/live.php?channel=de713332f99c89968d1b46d844eebf91&expiry=1747758603&token=484ed9376a2902757b5e3bbef30f90dd
-SPORTV  HDR,https://kong.pp.ua/iptv/live.php?channel=204ddac9a235be06eb5fb81c25500602&expiry=1747758603&token=584a421f067469227f64de6380a2c780
-SPORTV  HDR,https://kong.pp.ua/iptv/live.php?channel=6d098dc9cd5329bc56d2a27fc8ad9fe4&expiry=1747758603&token=a22cd421fb69335c543b9994a64b317b
-SPORTV  HDR,https://kong.pp.ua/iptv/live.php?channel=af02aa8daf0802722f983071b939dd22&expiry=1747758603&token=760bb7987478ba59fde5c43ba05b4ea5
-SPORTV,https://kong.pp.ua/iptv/live.php?channel=2eb68d0255f16c9b792d489b9a1843c2&expiry=1747758603&token=1a3bb87a6bc9a31b885a737ccf91bcdc
-SPORTV,https://kong.pp.ua/iptv/live.php?channel=355330742543ad3aa64c48f16743819b&expiry=1747758603&token=496142673bffa79690dd9edc07bc1a03
-SPORTV,https://kong.pp.ua/iptv/live.php?channel=fd8c033fec0a053d93e6f471ebf7307e&expiry=1747758603&token=2f4ec450c584b5311ce625f8a33058f3
-Star TV Sports,https://kong.pp.ua/iptv/live.php?channel=08533d571d7642677d6dca892d747a59&expiry=1747758603&token=ede43db559bd465e764197616afe1d12
-Star TV Sports,https://kong.pp.ua/iptv/live.php?channel=51958793cfe6e5a7a2dc6e8dbe299921&expiry=1747758603&token=a9707c1253cdc031f01c4265ce38e69d
-Star TV Sports,https://kong.pp.ua/iptv/live.php?channel=7d1a0cbd574f2e33545091b836d60df6&expiry=1747758603&token=c95c409d426a7bfd14eb6d14a3eb93e3
-Star TV Sports,https://kong.pp.ua/iptv/live.php?channel=ccb54c4e87ba9dde14a3f744853eff55&expiry=1747758603&token=6f51f246a32a7279db2cbfacc4601fa6
 广播频道,#genre#
 浙江新闻,http://xrhui.f3322.org:8888/udp/233.50.201.80:5140
 浙江之声,http://xrhui.f3322.org:8888/udp/233.50.201.79:5140
