@@ -154,20 +154,6 @@
         },
 
 
-        {
-            "name": "港台TV汇[云梯]",
-            "type": 0,
-            "url": "http://docker.livednow.dpdns.org/?type=m3u",
-            "ua": "judy/5.2.1",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "LITV[云梯]",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
-            "ext": {}
-        },
-
 
         {
             "name": "咪咕赛事",
@@ -246,6 +232,24 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+
+
+
+        {
+            "name": "港台TV汇[云梯]",
+            "type": 0,
+            "url": "http://docker.livednow.dpdns.org/?type=m3u",
+            "ua": "judy/5.2.1",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "LITV[云梯]",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
+            "ext": {}
+        },
+
+
 
         {
             "name": "52火星直播",
