@@ -2,6 +2,9 @@
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+北京卫视4K,http://dsl1.oni2023.uk:8888/udp/239.77.0.2:5146
+广东卫视4K,http://dsl1.oni2023.uk:8888/udp/239.77.0.66:5146
+深圳卫视4K,http://dsl1.oni2023.uk:8888/udp/239.77.0.67:5146
 爱上4K,http://59.52.57.211:8008/udp/239.252.220.212:5140
 爱上4K,http://www.lizhinas.top:1009/udp/239.252.220.212:5140
 4K超清,http://120.244.127.106:8098/udp/228.1.1.123:8001
