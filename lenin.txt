@@ -30,14 +30,10 @@ CCTV4K,http://dsl1.oni2023.uk:8888/udp/239.77.0.174:5146
 CCTV4K,http://dsl1.oni2023.uk:8888/udp/239.77.0.194:5146
 CCTV4K,http://baota.guangyuan.site:8188/udp/239.77.0.174:5146
 CCTV4K,http://baota.guangyuan.site:8188/udp/239.77.0.194:5146
-CCTV4K,http://hongzhijiaoyu.net:8188/udp/239.77.0.174:5146
-CCTV4K,http://hongzhijiaoyu.net:8188/udp/239.77.0.194:5146
 CCTV4K,http://ikuai.huase.ltd:8888/udp/239.77.0.174:5146
 CCTV4K,http://ikuai.huase.ltd:8888/udp/239.77.0.194:5146
 CCTV4K,http://itv.8866.org:10033/udp/239.77.0.174:5146
 CCTV4K,http://itv.8866.org:10033/udp/239.77.0.194:5146
-CCTV4K,http://www.hongzhijiaoyu.net:8188/udp/239.77.0.174:5146
-CCTV4K,http://www.hongzhijiaoyu.net:8188/udp/239.77.0.194:5146
 CCTV4K,http://120.244.127.106:8098/udp/228.1.1.227:2000
 CCTV4K,http://111.196.134.250:20000/udp/239.3.1.245:2000
 CCTV1,http://218.87.74.79:8008/udp/239.252.219.200:5140
