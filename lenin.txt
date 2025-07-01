@@ -1044,9 +1044,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 东方财经,http://117.8.142.18:8834/udp/225.1.1.247:5002
 家庭理财,http://117.8.142.18:8834/udp/225.1.2.23:5002
 证券服务,http://117.8.142.18:8834/udp/225.1.1.72:5002
-第一财经,http://60.185.236.95:4022/udp/233.50.200.125:5140
 第一财经,http://jl.haoyuhuojia.com:4022/udp/233.50.200.125:5140
-财富天下,http://219.141.44.245:8188/udp/238.255.2.186:5999
+第一财经,http://xrhui.f3322.org:8888/udp/233.50.200.125:5140
 纪实频道,#genre#
 CETV1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 CETV2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
