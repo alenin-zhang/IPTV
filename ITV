@@ -270,7 +270,7 @@
         }
     ],
     "hosts": [
-        "cache.ott.*.itv.cmvideo.cn=39.135.97.81"
+        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
     ],
     "rules": [
         {
