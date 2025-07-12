@@ -11,7 +11,7 @@
             "name": "ITV_QQ",
             "type": 0,
             "url": "https://itv-list.myukj.cn/list/itv.m3u",
-            "ua": "d6f0e3f3e627d701",
+            "ua": "d6f0e3f3e627d503",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
@@ -31,19 +31,45 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "艾米TV",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/IMTV.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
             "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+
+        {
+            "name": "345IPTV",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/345IPTV.txt",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 15; V2405A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36",
+				"Connection": "keep-alive",
+				"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+				"Accept-Encoding": "deflate",
+				"origin": "https://m.345iptv.com/",
+				"referer": "https://m.345iptv.com/",
+				"accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+                "X-FORWARDED-FOR": "127.0.0.1"
+            },
+            "playerType": 2
+        },
+        {
+            "name": "PerfecttvFree-MPD",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/PerfecttvFree3.m3u",
+            "type": 0,
+            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
+            "playerType": 2
+        },
+        {
+            "name": "4GTV",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/4GTV.txt",
+            "type": 0,
+            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
+            "playerType": 2
+        },
+
+
         {
             "name": "CCTV4K",
             "type": 0,
@@ -77,23 +103,15 @@
             "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
             "ua": "judy/5.2.1",
             "timeout": 30,
-            "playerType": 1
+            "playerType": 2
         },
         {
             "name": "MytvSuper 2",
             "type": 0,
-            "url": "http://tv.iill.top/m3u/MyTV",
+            "url": "https://1.xiangcaihaoxiang.dpdns.org/tvbox1/mytv.php",
             "ua": "okhttp/3.15",
             "timeout": 30,
-            "playerType": 1
-        },
-        {
-            "name": "MytvSuper 3",
-            "type": 0,
-            "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/",
-            "ua": "okhttp/3.15",
-            "timeout": 30,
-            "playerType": 1
+            "playerType": 2
         },
 
         {
@@ -117,13 +135,6 @@
         },
 
 
-        {
-            "name": "IILL.TOP",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
         {
             "name": "LALIFEIER-IPTV",
             "type": 0,
