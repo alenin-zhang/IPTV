@@ -47,8 +47,8 @@
 				"Connection": "keep-alive",
 				"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
 				"Accept-Encoding": "deflate",
-				"origin": "https://m.345iptv.com/",
-				"referer": "https://m.345iptv.com/",
+				"origin": "https://iptv807.com/",
+				"referer": "https://iptv807.com/",
 				"accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
                 "X-FORWARDED-FOR": "127.0.0.1"
             },
