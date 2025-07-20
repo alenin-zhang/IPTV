@@ -76,6 +76,14 @@
             "timeout": 30,
             "playerType": 2
         },
+        {
+            "name": "LITV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
 
 
         {
