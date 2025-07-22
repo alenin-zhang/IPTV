@@ -191,21 +191,9 @@
             "ua": "judy/5.2.1"
         },
         {
-            "name": "全球赛事",
-            "type": 0,
-            "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
-            "ua": "judy/5.2.1"
-        },
-        {
             "name": "YOO体育直播",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/yoozb.py",
-            "ext": {}
-        },
-        {
-            "name": "海星体育直播",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/360pai.py",
             "ext": {}
         },
         {
@@ -216,17 +204,17 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "快直播体育",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/kzbty.py",
-            "ext": {}
-        },
-        {
             "name": "52快直播体育",
             "type": 0,
             "url": "http://xg.52sw.top/play/kzb/ty.php",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "海星体育直播",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/360pai.py",
+            "ext": {}
         },
         {
             "name": "BeeSport直播",
