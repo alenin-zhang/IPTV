@@ -88,7 +88,7 @@
             "name": "LITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
-            "ua": "okhttp/3.15",
+            "ua": "xieanqishisb/0.0.1",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
 
