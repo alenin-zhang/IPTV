@@ -38,19 +38,24 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "大佬特供",
-            "type": 0,
-            "url": "http://go8.work.gd/i/?T=大佬已更新",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
             "name": "KKK特供",
             "type": 0,
             "url": "https://d.kstore.dev/download/13670/cs.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-
+        {
+            "name": "大佬特供",
+            "type": 0,
+            "url": "http://go8.work.gd/i/?T=大佬已更新",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "HOCHUTV",
+            "type": 0,
+            "url": "http://xtvantsc.xyz/ewxt.txt",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
 
         {
             "name": "345IPTV",
