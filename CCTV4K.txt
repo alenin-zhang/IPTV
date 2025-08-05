@@ -47,6 +47,18 @@
 02长城内外是故乡,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b65957b395b44d7aa5cb9ed40c2e51ec/4000.m3u8
 03长城峥嵘铸脊梁,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/84c200b46c7f4d72891466ec85f23f07/4000.m3u8
 
+=天宫建造=,#genre#
+01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/16d95ef132ba4a25b717dd4f96d778ff/4000.m3u8
+02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2bb9804b9c9346ecb27f377762f90581/4000.m3u8
+03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/787823c6dad14b0e824617b78ba6b52b/4000.m3u8
+04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45978877179b4576a9777a401b089fc1/4000.m3u8
+05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b91c211d2a2146e0af5b6dae5585f60d/4000.m3u8
+
+=我们的征途=,#genre#
+01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5d730a77cc5e4a6ca47fc03800d240ad/4000.m3u8
+02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ed4ebde9efd54c0f8088e014ca6acd55/4000.m3u8
+03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f497ad64e58943c9b673aceebe117b7b/4000.m3u8
+
 =飞向月球 第1季=,#genre#
 01往事千年,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d64a17c7177641b18fa37b59f4b5ae2b/4000.m3u8
 02中国探月,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/72ea230607c8498a961ccc44c085d2ba/4000.m3u8
@@ -63,13 +75,6 @@
 01再出发,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4b9c4c7e537848378e6c70ba3fddc8a0/4000.m3u8
 02挖呀挖,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/79e0a83f0ca54e87950c8fbcee0cd959/4000.m3u8
 03带回家,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e19666c6c07b488ead7e4b352dad7c42/4000.m3u8
-
-=天宫建造=,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/16d95ef132ba4a25b717dd4f96d778ff/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2bb9804b9c9346ecb27f377762f90581/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/787823c6dad14b0e824617b78ba6b52b/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45978877179b4576a9777a401b089fc1/4000.m3u8
-05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b91c211d2a2146e0af5b6dae5585f60d/4000.m3u8
 
 =你好！火星=,#genre#
 01出发,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6c902090223e4718bbec2e12bbe39903/4000.m3u8
@@ -152,11 +157,6 @@
 01四季家园,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ded7da35ddda4c0988081be3c5575cdd/4000.m3u8
 02希望的田野,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2b9c29374f1842769efc2d9af269b9e6/4000.m3u8
 03你我皆凡人,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/56cd151cadb44f89989075f868398bd2/4000.m3u8
-
-=我们的征途=,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5d730a77cc5e4a6ca47fc03800d240ad/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ed4ebde9efd54c0f8088e014ca6acd55/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f497ad64e58943c9b673aceebe117b7b/4000.m3u8
 
 =跟着唐诗去旅行 第1季=,#genre#
 01杜甫 江湖,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cff82c02cd3541e28956979342c9bf79/4000.m3u8
