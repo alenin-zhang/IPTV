@@ -5,6 +5,9 @@ Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc
 北京卫视4K,http://baota.guangyuan.site:8188/udp/239.77.0.2:5146
 广东卫视4K,http://baota.guangyuan.site:8188/udp/239.77.0.66:5146
 深圳卫视4K,http://baota.guangyuan.site:8188/udp/239.77.0.67:5146
+北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
+苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
+河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 爱上4K,http://www.lizhinas.top:1009/udp/239.252.220.212:5140
 4K超清,http://111.196.131.153:20000/udp/239.3.1.249:8001
 爱上4K,http://111.196.131.153:20000/udp/239.3.1.236:2000
