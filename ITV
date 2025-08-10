@@ -50,9 +50,9 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "大佬特供",
+            "name": "三维",
             "type": 0,
-            "url": "http://ys.my.to/i/?T=大佬已更新",
+            "url": "http://ys.my.to/i/?T=三维",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
 
