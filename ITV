@@ -15,6 +15,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "咪咕IPTV2",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://github.com/mursor1985/LIVE/raw/main/iptv.m3u",
+            "ua": "okHttp/Mod-1.0.0",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
