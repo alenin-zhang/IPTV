@@ -42,6 +42,12 @@
             "url": "http://ys.my.to//i/?T=正儿八经",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+        {
+            "name": "港台",
+            "type": 0,
+            "url": "http://ys.my.to//i/?T=港台",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
 
         {
             "name": "345IPTV",
