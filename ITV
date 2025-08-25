@@ -43,12 +43,6 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "土拨鼠",
-            "type": 0,
-            "url": "http://ys.my.to//i/?T=土拨鼠",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
             "name": "歌曲串串烧",
             "type": 0,
             "url": "http://ys.my.to//i/?T=iptv",
