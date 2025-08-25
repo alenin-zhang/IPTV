@@ -30,6 +30,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "冰雪TV",
+            "type": 0,
+            "url": "https://bxtv.3a.ink/live.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
@@ -46,6 +53,41 @@
             "name": "歌曲串串烧",
             "type": 0,
             "url": "http://ys.my.to//i/?T=iptv",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "Mursor-IPTV",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/iptv.m3u",
+            "ua": "okHttp/Mod-1.1.0",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "Mursor-虎牙",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "ua": "okHttp/Mod-1.1.0",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "Mursor-斗鱼",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "ua": "okHttp/Mod-1.1.0",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "Mursor-YY",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "ua": "okHttp/Mod-1.1.0",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "Mursor-哔哩哔哩",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "ua": "okHttp/Mod-1.1.0",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
 
