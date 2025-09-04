@@ -2957,15 +2957,4 @@ TVBS精彩,http://api.mytv666.top/api/hkhk.php?id=396531653066346137393262353737
 猪哥亮歌厅秀,http://api.mytv666.top/api/hkhk.php?id=6334366330373732363432326261363432663630353664313131336133336535267469643d74762669643d313738&auth=123
 国会频道1,http://api.mytv666.top/api/hkhk.php?id=3064363636346433313362323964376231393632356566326435333364363634267469643d74762669643d313931&auth=123
 国会频道2,http://api.mytv666.top/api/hkhk.php?id=6462626262626366326339343734353636323463363264653236316533353839267469643d74762669643d313932&auth=123
-XXX,#genre#
-HAPPY,http://devpulllive.xylink.com:80/live/f7e3a3efc7b060376c0e9d33100a6012.flv
-K,http://devpulllive.xylink.com:80/live/18b0f88af5aed2ab4ca0e3c522105cd4.flv
-彩虹E,http://devpulllive.xylink.com:80/live/54fe4640ec80cd3014307d3b98fa2863.flv
-彩虹电影,http://devpulllive.xylink.com:80/live/2c376357aefe066dd12d464b2583e19f.flv
-极限电影,http://devpulllive.xylink.com:80/live/f1ace1da37a9e2179340b564e37371ce.flv
-惊艳,http://devpulllive.xylink.com:80/live/8180640621f63c76c275c0dd28e447ca.flv
-潘多拉完美,http://devpulllive.xylink.com:80/live/4b5de6648c35e39094ca838a27cc4548.flv
-松视1,http://devpulllive.xylink.com:80/live/3f27ceadaa156456e14cd951637e320f.flv
-松视2,http://devpulllive.xylink.com:80/live/0d0c7d8b96fc6a8486d3f8c14b648d36.flv
-松视3,http://devpulllive.xylink.com:80/live/b6fc149e0780b181029c2ddcb8cc95c1.flv
-香蕉,http://devpulllive.xylink.com:80/live/32b4f242caefddf82418e447ce6e131c.flv
+
