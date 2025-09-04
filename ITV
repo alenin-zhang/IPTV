@@ -19,7 +19,7 @@
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "https://59.125.210.231:4433",
-      "jar":"./chvyo2.txt",
+      "jar":"./000.txt",
       "timeout": 30,
       "playerType": 1
         },
