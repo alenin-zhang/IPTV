@@ -14,12 +14,33 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+
+        {
+            "name": "345IPTV",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/345IPTV.txt",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 15; V2405A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36",
+				"Connection": "keep-alive",
+				"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+				"Accept-Encoding": "deflate",
+				"origin": "https://iptv807.com/",
+				"referer": "https://iptv807.com/",
+				"accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+                "X-FORWARDED-FOR": "127.0.0.1"
+            },
+            "timeout": 30,
+            "playerType": 2
+        },
+
+
+
         {
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "https://59.125.210.231:4433",
-      "jar":"./000.txt",
+      "jar":"./chvyo2.txt",
       "timeout": 30,
       "playerType": 1
         },
@@ -30,12 +51,8 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-        {
-            "name": "Everyday TV",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/everydaytv.txt",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
+
+
         {
             "name": "冰雪TV",
             "type": 0,
@@ -117,23 +134,11 @@
         },
 
         {
-            "name": "345IPTV",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/345IPTV.txt",
+            "name": "Everyday TV",
             "type": 0,
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 15; V2405A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36",
-				"Connection": "keep-alive",
-				"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-				"Accept-Encoding": "deflate",
-				"origin": "https://iptv807.com/",
-				"referer": "https://iptv807.com/",
-				"accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-                "X-FORWARDED-FOR": "127.0.0.1"
-            },
-            "timeout": 30,
-            "playerType": 2
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/everydaytv.txt",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-
         {
             "name": "4GTV",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/4GTV.txt",
