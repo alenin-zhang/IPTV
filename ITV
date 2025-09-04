@@ -8,6 +8,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "移动ITV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
@@ -37,28 +44,40 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "移动ITV",
+            "name": "风云TV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
             "name": "正儿八经",
             "type": 0,
-            "url": "http://ys.my.to/i/?T=正儿八经",
+            "url": "http://ys.my.to//i/?T=正儿八经",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
             "name": "歌曲串串烧",
             "type": 0,
-            "url": "http://ys.my.to/i/?T=iptv",
+            "url": "http://ys.my.to//i/?T=iptv",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
             "name": "钉钉直播影视",
             "type": 0,
-            "url": "http://zoto.zoho.to/i/?T=钉钉直播影视",
+            "url": "http://zoto.zoho.to//i/?T=钉钉直播影视",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "94港澳台",
+            "type": 0,
+            "url": "http://zoto.work.gd//i/?T=94港澳台",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "JACKTV",
+            "type": 0,
+            "url": "https://php.946985.xyz/jackTV.m3u",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
