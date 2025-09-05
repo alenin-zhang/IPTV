@@ -29,6 +29,7 @@ CCTV4K,http://ikuai.sunjianwu.fun:8800/udp/239.49.0.82:8000
 CCTV4K,http://baota.guangyuan.site:8188/udp/239.77.0.174:5146
 CCTV4K,http://baota.guangyuan.site:8188/udp/239.77.0.194:5146
 CCTV4K,http://114.246.183.194:4022/udp/239.3.1.245:2000
+CCTV4K,http://124.116.170.138:8081/udp/239.111.205.38:5140
 CCTV1,http://www.lizhinas.top:1009/udp/239.252.219.200:5140
 CCTV2,http://www.lizhinas.top:1009/udp/239.252.220.183:5140
 CCTV3,http://www.lizhinas.top:1009/udp/239.252.219.252:5140
@@ -773,36 +774,16 @@ CCTV中学生,http://219.141.47.253:8188/udp/238.255.2.181:5999
 凤凰中文,http://dsm.ccb912.top:9998/udp/239.93.0.162:2192
 星空卫视,http://dsm.ccb912.top:9998/udp/239.93.0.156:2193
 星空卫视,http://dsm.ccb912.top:9998/udp/239.93.1.10:2193
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-HOY78,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-TVB PLUS,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
-TVB PLUS,http://bxtv.3a.ink/api.php?id=tvbp
-TVB PLUS,http://t.061899.xyz/tl/168.php?id=2j
-TVB翡翠,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
-TVB翡翠,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
-TVB翡翠,http://bxtv.3a.ink/api.php?id=fct
-TVB翡翠,http://t.061899.xyz/tl/168.php?id=fct
-TVB明珠,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
-TVB明珠,http://bxtv.3a.ink/api.php?id=mz
-TVB千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
-TVB千禧经典,http://t.061899.xyz/tl/168.php?id=tvbqxjd
-TVB无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-TVB无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
-VIUTV,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
-VIUTV,http://bxtv.3a.ink/api.php?id=viutv
-VIUTV6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
-美亚电影,http://bxtv.3a.ink/api.php?id=meiya
-天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
-天映频道,http://t.061899.xyz/tl/168.php?id=typd
-PopC,http://bxtv.3a.ink/api.php?id=popc
-RTHK31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
-RTHK32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
+天映经典,http://iptv.4666888.xyz/iptv.php?id=20114
+天映经典2,http://iptv.4666888.xyz/iptv.php?id=20115
+天映频道,http://iptv.4666888.xyz/iptv.php?id=20116
+天映频道2,http://iptv.4666888.xyz/iptv.php?id=20117
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
@@ -813,27 +794,23 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/st
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+卫视电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 台湾频道,#genre#
-TVBS,http://bxtv.3a.ink/api.php?id=tvbs
-寰宇新闻,http://bxtv.3a.ink/api.php?id=hyxw
-民视新闻,http://bxtv.3a.ink/api.php?id=msxw
-台视新闻,http://bxtv.3a.ink/api.php?id=tsxw
-中视新闻,http://bxtv.3a.ink/api.php?id=zsxw
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-HBO,http://bxtv.3a.ink/api.php?id=hbo
-八大第一,http://bxtv.3a.ink/api.php?id=bddy
-八大综合,http://bxtv.3a.ink/api.php?id=bdzh
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
-东森幼幼,http://bxtv.3a.ink/api.php?id=dsyy
-华视,http://bxtv.3a.ink/api.php?id=huashi
-美亚电影,http://bxtv.3a.ink/api.php?id=twmeiya
-民视,http://bxtv.3a.ink/api.php?id=minshi
-民视台湾,http://bxtv.3a.ink/api.php?id=mstw
-台视,http://bxtv.3a.ink/api.php?id=taishi
-纬来电影,http://bxtv.3a.ink/api.php?id=wldy
-纬来体育,http://bxtv.3a.ink/api.php?id=wlty
-中视,http://bxtv.3a.ink/api.php?id=zhongshi
-中天亚洲,http://bxtv.3a.ink/api.php?id=ztyz
+TVBS新闻,http://iptv.4666888.xyz/iptv.php?id=20168
+东森新闻,http://iptv.4666888.xyz/iptv.php?id=20174
+非凡新闻,http://iptv.4666888.xyz/iptv.php?id=20179
+寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
+寰宇新闻台湾,http://iptv.4666888.xyz/iptv.php?id=20293
+镜新闻,http://iptv.4666888.xyz/iptv.php?id=20180
+民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177
+年代新闻,http://iptv.4666888.xyz/iptv.php?id=20178
+三立iNEWS,http://iptv.4666888.xyz/iptv.php?id=20170
+三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169
+台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172
+中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
+中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
@@ -1399,6 +1376,7 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 Ocko Expres,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 Ocko Gold,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 Ocko TV,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+CHANNEL V,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 时装频道,#genre#
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 A3 Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
@@ -2957,4 +2935,3 @@ TVBS精彩,http://api.mytv666.top/api/hkhk.php?id=396531653066346137393262353737
 猪哥亮歌厅秀,http://api.mytv666.top/api/hkhk.php?id=6334366330373732363432326261363432663630353664313131336133336535267469643d74762669643d313738&auth=123
 国会频道1,http://api.mytv666.top/api/hkhk.php?id=3064363636346433313362323964376231393632356566326435333364363634267469643d74762669643d313931&auth=123
 国会频道2,http://api.mytv666.top/api/hkhk.php?id=6462626262626366326339343734353636323463363264653236316533353839267469643d74762669643d313932&auth=123
-
