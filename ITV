@@ -101,35 +101,35 @@
             "name": "Mursor-IPTV",
             "type": 0,
             "url": "https://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0.1",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
             "name": "Mursor-虎牙",
             "type": 0,
             "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0.1",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
             "name": "Mursor-斗鱼",
             "type": 0,
             "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0.1",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
             "name": "Mursor-YY",
             "type": 0,
             "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0.1",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
             "name": "Mursor-哔哩哔哩",
             "type": 0,
             "url": "https://sub.ottiptv.cc/bililive.m3u",
-            "ua": "okHttp/Mod-1.1.0",
+            "ua": "okHttp/Mod-1.2.0.1",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
 
