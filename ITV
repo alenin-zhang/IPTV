@@ -205,7 +205,7 @@
             "name": "SMARTV 1",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
-            "ua": "catvod.com",
+            "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
