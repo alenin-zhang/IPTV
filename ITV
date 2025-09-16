@@ -92,6 +92,12 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "新视界",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=新视界",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "JACKTV",
             "type": 0,
             "url": "https://php.946985.xyz/jackTV.m3u",
