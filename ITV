@@ -216,17 +216,11 @@
         },
         {
             "name": "SMARTV 2",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt.py",
-            "ext": {}
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt2.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-        {
-            "name": "SMARTV 3",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
-            "ext": {}
-        },
-
 
         {
             "name": "LALIFEIER-IPTV",
