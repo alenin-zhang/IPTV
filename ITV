@@ -160,15 +160,15 @@
             "timeout": 30,
             "playerType": 2
         },
+
+
         {
-            "name": "LITV",
+            "name": "30000电影集",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
-            "ua": "xieanqishisb/0.0.1",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/30000.txt",
+            "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-
-
 
         {
             "name": "CCTV4K",
