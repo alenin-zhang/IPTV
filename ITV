@@ -15,7 +15,7 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "SMARTV",
+            "name": "CATVOD",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
             "ua": "Goiptv/8.8.8",
@@ -317,20 +317,7 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-        {
-            "name": "日本地波",
-            "type": 0,
-            "url": "http://88.203.211.6:50040/playlist/channels.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "加拿大地波",
-            "type": 0,
-            "url": "http://68.233.120.207:9981/playlist/channels.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
+
 
         {
             "name": "Perfect TV Free",
