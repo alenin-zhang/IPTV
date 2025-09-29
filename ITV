@@ -63,7 +63,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
 
-
+        {
+            "name": "榴芒TV",
+            "type": 0,
+            "url": "http://106.53.99.30/2025.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
         {
             "name": "冰雪TV",
             "type": 0,
@@ -97,9 +103,9 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
-            "name": "94港澳台",
+            "name": "港澳台",
             "type": 0,
-            "url": "http://ys.my.to//i/?T=94港澳台",
+            "url": "http://txt.gt.tc/users/HKTV.txt",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
