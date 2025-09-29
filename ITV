@@ -22,6 +22,13 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "港澳台",
+            "type": 0,
+            "url": "http://txt.gt.tc/users/HKTV.txt",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+        {
             "name": "345IPTV",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/345IPTV.txt",
             "type": 0,
@@ -45,15 +52,6 @@
             "type": 0,
             "url": "https://php.946985.xyz/jackTV.m3u",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-      "name": "MQitv",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "ext": "https://59.125.210.231:4433",
-      "jar":"./chvyo2.txt",
-      "timeout": 30,
-      "playerType": 1
         },
         {
             "name": "4GTV",
@@ -100,12 +98,6 @@
             "name": "钉钉直播影视",
             "type": 0,
             "url": "http://zoto.zoho.to//i/?T=钉钉直播影视",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "港澳台",
-            "type": 0,
-            "url": "http://txt.gt.tc/users/HKTV.txt",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
@@ -270,7 +262,15 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
 
-
+        {
+      "name": "MQitv",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "https://59.125.210.231:4433",
+      "jar":"./chvyo2.txt",
+      "timeout": 30,
+      "playerType": 1
+        },
 
         {
             "name": "咪咕赛事",
