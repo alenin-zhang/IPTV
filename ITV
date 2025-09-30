@@ -50,7 +50,7 @@
         {
             "name": "JACKTV",
             "type": 0,
-            "url": "https://php.946985.xyz/jackTV.m3u",
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
@@ -202,22 +202,21 @@
 
 
         {
-            "name": "MytvSuper 1",
+            "name": "MytvSuper",
             "type": 0,
-            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-            "ua": "judy/5.2.1",
-            "timeout": 30,
-            "playerType": 2
-        },
-        {
-            "name": "MytvSuper 2",
-            "type": 0,
-            "url": "https://1.xiangcaihaoxiang.dpdns.org/tvbox1/mytv.php",
+            "url": "https://tv.iill.top/m3u/MyTV",
             "ua": "okhttp/3.15",
             "timeout": 30,
             "playerType": 2
         },
-
+        {
+            "name": "Gather",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 2
+        },
         {
             "name": "SMARTV 1",
             "type": 0,
