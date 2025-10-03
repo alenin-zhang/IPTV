@@ -53,7 +53,23 @@
         },
 
 
-
+{
+"name":"冰茶",
+"type":1,
+"playerType":2,
+"url":"https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian&json=true",
+"ua":"bingcha/1.1",
+"epg":"https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
+"logo":"https://11.112114.xyz/logo/{name}.png",
+"playerType":2,
+"timeout":10,
+"headers":{
+"host":"hlsztemgsplive.miguvideo.com",
+"header":{
+"User-Agent":"bingcha/1.1"
+}
+}
+},
         {
             "name": "冰茶TV",
             "type": 0,
