@@ -22,6 +22,12 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "JACKTV",
+            "type": 0,
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "港澳台",
             "type": 0,
             "url": "http://txt.gt.tc/users/HKTV.txt",
@@ -47,20 +53,14 @@
         },
 
 
+
         {
-            "name": "JACKTV",
+            "name": "冰茶TV",
             "type": 0,
-            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
-        {
-            "name": "4GTV",
-            "type": 0,
-            "url": "http://154.219.113.217:8080/sub?type=txt&token=112233",
+            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-
         {
             "name": "榴芒TV",
             "type": 0,
