@@ -1,4 +1,4 @@
-﻿歐美色情,#genre#
+歐美色情,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 Babes TV,http://hochu.tv/babes-tv.html
@@ -32,3 +32,8 @@ XXL,http://hochu.tv/xxl.html
 XY MAX,http://hochu.tv/xy-max.html
 XY MIX,http://hochu.tv/xy-mix.html
 XY plus,http://hochu.tv/xy-plus.html
+
+cineman1,http://oxax.tv/sl-hot1.html
+cineman2,http://oxax.tv/sl-hot2.html
+nuart,https://moonlight.wideiptv.top/NuartTV/index.fmp4.m3u8?token=3138ccf78227f48ba01a6f3437b5b07119ddbb6b-64cf112f965b443d655460bd0ff6b5b3-1754106255-1754095455
+desire,https://freeshot.live/live-tv/desire-tv.html
