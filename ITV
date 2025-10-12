@@ -28,6 +28,20 @@
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
         {
+            "name": "冰雪TV",
+            "type": 0,
+            "url": "https://bxtv.3a.ink/live.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "冰茶TV",
+            "type": 0,
+            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
             "name": "港澳台",
             "type": 0,
             "url": "http://txt.gt.tc/users/HKTV.txt",
@@ -70,13 +84,7 @@
 }
 }
 },
-        {
-            "name": "冰茶TV",
-            "type": 0,
-            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
+
         {
             "name": "榴芒TV",
             "type": 0,
@@ -84,13 +92,7 @@
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
-        {
-            "name": "冰雪TV",
-            "type": 0,
-            "url": "https://bxtv.3a.ink/live.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
-        },
+
         {
             "name": "风云TV",
             "type": 0,
@@ -287,12 +289,7 @@
       "playerType": 1
         },
 
-        {
-            "name": "咪咕赛事",
-            "type": 0,
-            "url": "https://www.freetv.top/mgevent.m3u",
-            "ua": "judy/5.2.1"
-        },
+
         {
             "name": "YOO体育直播",
             "type": 3,
@@ -312,6 +309,12 @@
             "url": "http://xg.52sw.top/play/kzb/ty.php",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "咪咕赛事",
+            "type": 0,
+            "url": "https://www.freetv.top/mgevent.m3u",
+            "ua": "judy/5.2.1"
         },
         {
             "name": "海星体育直播",
