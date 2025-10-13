@@ -5,47 +5,47 @@
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "CATVOD",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
             "ua": "Goiptv/8.8.8",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "JACKTV",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "冰雪TV",
             "type": 0,
             "url": "https://bxtv.3a.ink/live.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "冰茶TV",
             "type": 0,
             "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "港澳台",
             "type": 0,
             "url": "http://txt.gt.tc/users/HKTV.txt",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
         {
@@ -73,8 +73,8 @@
 "playerType":2,
 "url":"https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian&json=true",
 "ua":"bingcha/1.1",
-"epg":"https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-"logo":"https://11.112114.xyz/logo/{name}.png",
+"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png",
 "playerType":2,
 "timeout":10,
 "headers":{
@@ -90,7 +90,7 @@
             "type": 0,
             "url": "http://106.53.99.30/2025.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
         {
@@ -98,31 +98,31 @@
             "type": 0,
             "url": "http://iptv.4666888.xyz/FYTV.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "正儿八经",
             "type": 0,
             "url": "http://ys.my.to//i/?T=正儿八经",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "歌曲串串烧",
             "type": 0,
             "url": "http://ys.my.to//i/?T=iptv",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "钉钉直播影视",
             "type": 0,
             "url": "http://zoto.zoho.to//i/?T=钉钉直播影视",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "新视界",
             "type": 0,
             "url": "http://ok.zoho.to//i/?T=新视界",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
 
@@ -131,42 +131,42 @@
             "type": 0,
             "url": "https://sub.ottiptv.cc/iptv.m3u",
             "ua": "okHttp/Mod-1.4.0.0",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "Mursor-虎牙",
             "type": 0,
             "url": "https://sub.ottiptv.cc/huyayqk.m3u",
             "ua": "okHttp/Mod-1.4.0.0",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "Mursor-斗鱼",
             "type": 0,
             "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
             "ua": "okHttp/Mod-1.4.0.0",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "Mursor-YY",
             "type": 0,
             "url": "https://sub.ottiptv.cc/yylunbo.m3u",
             "ua": "okHttp/Mod-1.4.0.0",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "Mursor-哔哩哔哩",
             "type": 0,
             "url": "https://sub.ottiptv.cc/bililive.m3u",
             "ua": "okHttp/Mod-1.4.0.0",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
         {
             "name": "Everyday TV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/everydaytv.txt",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "4GTV",
@@ -182,14 +182,14 @@
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/10000.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "30000电影集",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/30000.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
         {
@@ -197,7 +197,7 @@
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/CCTV4K.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
 
@@ -207,14 +207,14 @@
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "WEBTV港台",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
 
@@ -240,14 +240,14 @@
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "SMARTV 2",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt2.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
         {
@@ -255,28 +255,28 @@
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-酒店",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-组播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "网友IPTV",
             "type": 0,
             "url": "http://gm.scvip.net.cn/iptv/iptv.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
         {
@@ -301,14 +301,14 @@
             "type": 0,
             "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "52快直播体育",
             "type": 0,
             "url": "http://xg.52sw.top/play/kzb/ty.php",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "咪咕赛事",
@@ -339,7 +339,7 @@
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/IPTV.txt",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
 
@@ -356,7 +356,7 @@
             "type": 0,
             "url": "http://docker.livednow.dpdns.org/?type=m3u",
             "ua": "judy/5.2.1",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "LITV[云梯]",
@@ -368,7 +368,7 @@
             "name": "Hochu TV[云梯]",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/HOCHUTV.txt",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
 
@@ -377,7 +377,7 @@
             "type": 0,
             "url": "http://xg.52sw.top/play/hxds/",
             "ua": "okhttp/3.15",
-            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
             "header": {
                 "Referer": "https://www.kds.tw/"
             }
@@ -387,7 +387,7 @@
             "type": 0,
             "url": "file://tvbus/ofiii.m3u",
             "ua": "okhttp/3.15",
-             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         }
     ],
     "hosts": [
