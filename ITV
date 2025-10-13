@@ -35,8 +35,7 @@
         {
             "name": "JACKTV",
             "type": 0,
-            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
         {
             "name": "冰雪TV",
