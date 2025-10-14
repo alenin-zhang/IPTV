@@ -926,6 +926,12 @@ CCTV15,http://pa.kuangdeng.top:8081/hls/15/index.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰资讯,https://4k.11cn.dpdns.org/28.m3u8
+凤凰中文,https://4k.11cn.dpdns.org/27.m3u8
+凤凰香港,https://4k.11cn.dpdns.org/29.m3u8
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 凤凰资讯,http://171.213.203.241:8888/udp/239.93.1.4:2191
 凤凰资讯,http://171.213.203.241:8888/udp/239.93.0.118:2191
 凤凰中文,http://171.213.203.241:8888/udp/239.93.1.9:2192
