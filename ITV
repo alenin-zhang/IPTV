@@ -135,13 +135,13 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "新港",
+            "name": "新港澳台",
             "type": 0,
             "url": "http://zz.zoho.to/z/新港",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "M",
+            "name": "DJ舞曲",
             "type": 0,
             "url": "http://ok.zoho.to/z/=m",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
