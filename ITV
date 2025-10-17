@@ -27,9 +27,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "港澳台",
+            "name": "4G TW",
             "type": 0,
-            "url": "http://txt.gt.tc/users/HKTV.txt",
+            "url": "http://166.108.228.188:1234/?type=m3u&proxy=true",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
