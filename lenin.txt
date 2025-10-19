@@ -996,7 +996,7 @@ CETV4,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 CETV1,http://220.176.218.102:9000/udp/239.252.220.198:5140
 CETV2,http://220.176.218.102:9000/udp/239.252.219.73:5140
 CETV4,http://220.176.218.102:9000/udp/239.252.219.169:5140
-求索记录,http://220.176.218.102:9000/udp/239.252.220.224:5140
+求索纪录,http://220.176.218.102:9000/udp/239.252.220.224:5140
 乐游,http://220.176.218.102:9000/udp/239.252.219.141:5140
 文物宝库,http://220.176.218.102:9000/udp/239.252.220.158:5140
 金鹰纪实,http://220.176.218.102:9000/udp/239.252.220.155:5140
@@ -1042,7 +1042,7 @@ CETV早期教育,http://222.95.140.66:58888/udp/239.49.0.93:8000
 CETV1,http://uo202.1985001.xyz:66/udp/239.93.1.111:5140
 CETV2,http://uo202.1985001.xyz:66/udp/239.93.0.113:5140
 CETV4,http://uo202.1985001.xyz:66/udp/239.93.0.50:5140
-求索记录,http://uo202.1985001.xyz:66/udp/239.93.42.24:5140
+求索纪录,http://uo202.1985001.xyz:66/udp/239.93.42.24:5140
 北京纪实,http://uo202.1985001.xyz:66/udp/239.93.0.141:5140
 纪实人文,http://uo202.1985001.xyz:66/udp/239.93.1.137:5140
 纪实人文,http://uo202.1985001.xyz:66/udp/239.93.1.154:5140
@@ -1225,12 +1225,10 @@ CETV4,http://114.104.183.57:8686/udp/238.1.78.107:6728
 Xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 影视频道,#genre#
 大象视界,http://cdn.jdshipin.com:8880/hntv.php?id=xsj
-1905电影1,http://xxwx.yoesun.com/1905dy.php?id=1905a
-1905电影1,http://150.138.77.132:10037/1905电影网.php?id=1905
-1905电影2,http://120.76.248.139/live/lunbo/ssdy.m3u8
+CCTV6,http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
+1905电影网1,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+1905电影网2,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 经典电影轮播,rtmp://live.gxrb.com.cn/pull/red_movies_0501
-美食家,http://live.nctv.top/douyu.php?id=260322
-邵氏影院,http://live.nctv.top/douyu.php?id=4246519
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 CHC动作电影,http://220.176.218.102:9000/udp/239.252.219.85:5140
@@ -1859,7 +1857,7 @@ zzc,http://live.nctv.top/douyu.php?id=666743
 柯南,http://live.nctv.top/douyu.php?id=1487654
 科幻,http://live.nctv.top/douyu.php?id=2793084
 科幻Fans布玛,http://live.nctv.top/douyu.php?id=3508304
-懒猫,http://live.nctv.top/douyu.php?id=260322
+美食家,http://live.nctv.top/douyu.php?id=260322
 老杨怪,http://live.nctv.top/douyu.php?id=6141287
 李哥,http://live.nctv.top/douyu.php?id=431935
 李好好吗吗,http://live.nctv.top/douyu.php?id=6385489
@@ -1890,7 +1888,7 @@ zzc,http://live.nctv.top/douyu.php?id=666743
 求求扣扣困困,http://live.nctv.top/douyu.php?id=8795274
 人气港剧,http://live.nctv.top/douyu.php?id=5261342
 三酒OuO,http://live.nctv.top/douyu.php?id=2421040
-邵氏电影·1,http://live.nctv.top/douyu.php?id=4246519
+邵氏电影,http://live.nctv.top/douyu.php?id=4246519
 深夜,http://live.nctv.top/douyu.php?id=12421816
 神机小诸葛,http://live.nctv.top/douyu.php?id=259676
 十月船长,http://live.nctv.top/douyu.php?id=718133
