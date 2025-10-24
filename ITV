@@ -27,9 +27,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "103 4GTV",
+            "name": "4GTV",
             "type": 0,
-            "url": "http://103.158.228.47:50001/?type=m3u&proxy=true",
+            "url": "http://220.132.15.209:5008/?type=m3u&proxy=true",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
