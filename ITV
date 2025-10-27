@@ -33,12 +33,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "HKTV",
-            "type": 0,
-            "url": "http://txt.gt.tc/users/HKTV.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "JACKTV",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
@@ -150,6 +144,18 @@
             "name": "DJ舞曲",
             "type": 0,
             "url": "http://ok.zoho.to/z/=m",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "酒店",
+            "type": 0,
+            "url": "http://zz.zoho.to//z/=酒店1",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "HKTV",
+            "type": 0,
+            "url": "http://txt.gt.tc/users/HKTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
