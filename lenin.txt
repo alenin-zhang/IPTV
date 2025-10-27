@@ -903,11 +903,18 @@ C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 卫视电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-NOW爆谷台,http://stream-ali1.csslcloud.net:80/live/hktv-09ali20.flv
-NOW星影台,http://stream-ali1.csslcloud.net:80/live/hktv-09ali21.flv
-PopC电影台,http://stream-ali1.csslcloud.net:80/live/hktv-09ali22.flv
-TVB无线新闻,http://stream-ali1.csslcloud.net:80/live/hktv-09ali23.flv
-十方法界,http://stream-ali1.csslcloud.net:80/live/hktv-09ali19.flv
+HOY76,http://hls.168.us.kg/u/76/master.m3u8
+HOY77,http://hls.168.us.kg/u/77/master.m3u8
+HOY78,http://hls.168.us.kg/u/78/master.m3u8
+NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
+NOW直播,http://hls.168.us.kg/u/331/master.m3u8
+RTHK31,http://hls.168.us.kg/u/31/master.m3u8
+TVB PLUS,http://hls.168.us.kg/u/82/master.m3u8
+TVB翡翠,http://hls.168.us.kg/u/81/master.m3u8
+TVB明珠,http://hls.168.us.kg/u/84/master.m3u8
+TVB无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+VIUTV,http://hls.168.us.kg/u/99/master.m3u8
+VIUTV6,http://hls.168.us.kg/u/96/master.m3u8
 台湾频道,#genre#
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
