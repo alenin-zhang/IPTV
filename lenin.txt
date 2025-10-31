@@ -47,6 +47,15 @@ Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc
 山东卫视4K,http://124.116.170.138:8081/udp/239.111.205.66:5140
 四川卫视4K,http://124.116.170.138:8081/udp/239.111.205.62:5140
 浙江卫视4K,http://124.116.170.138:8081/udp/239.111.205.65:5140
+北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
+东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
+广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
+湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
+江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
+山东卫视4K,http://106.53.99.30/tv/api.php?id=sdws4k
+深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
+四川卫视4K,http://106.53.99.30/tv/api.php?id=scws4k
+浙江卫视4K,http://106.53.99.30/tv/api.php?id=zjws4k
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 4K超清,http://bigy.timwin.top:5400/udp/239.3.1.249:8001
