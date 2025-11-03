@@ -27,12 +27,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "4GTV",
-            "type": 0,
-            "url": "http://220.132.15.209:5008/?type=m3u&proxy=true",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "JACKTV",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
@@ -138,6 +132,12 @@
             "name": "新港澳台",
             "type": 0,
             "url": "http://zz.zoho.to/z/新港",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "M",
+            "type": 0,
+            "url": "http://zoto.3d.tc/i/i/=m.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
