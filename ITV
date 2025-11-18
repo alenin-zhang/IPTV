@@ -49,7 +49,6 @@
             "name": "冰茶TV",
             "type": 0,
             "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&haiwai=true",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
