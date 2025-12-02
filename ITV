@@ -10,7 +10,7 @@
         {
             "name": "咪咕官源",
             "type": 0,
-            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         },
         {
             "name": "移动ITV",
@@ -27,9 +27,15 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "103-4GTV",
+            "name": "HKTV1",
             "type": 0,
-            "url": "http://103.158.228.47:50001/?type=m3u&proxy=true",
+            "url": "http://zz.zoho.to//z/=HKTV",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "HKTV2",
+            "type": 0,
+            "url": "http://txt.gt.tc/users/HKTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -39,13 +45,19 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "STREAM-LINK[云梯]",
+            "type": 0,
+            "url": "https://www.stream-link.org/playlist.m3u?token=6070ea73-860b-4b4c-8767-23eae2498663&hmac=b08f068b599ac7c0ce86074f3504af70",
+            "ua": "SYTV/1.6",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "冰雪TV",
             "type": 0,
             "url": "https://bxtv.3a.ink/live.txt",
             "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
     {
       "name": "冰茶TV",
       "type": 0,
@@ -78,10 +90,9 @@
 
 
         {
-            "name": "榴芒TV",
+            "name": "风云天下",
             "type": 0,
-            "url": "http://106.53.99.30/2025.txt",
-            "ua": "okhttp/3.15",
+            "url": "http://z.home.kg//i/?T=风云天下",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -105,7 +116,7 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "钉钉直播影视",
+            "name": "钉钉直播",
             "type": 0,
             "url": "http://zoto.zoho.to//i/?T=钉钉直播影视",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
@@ -116,36 +127,8 @@
             "url": "http://ok.zoho.to//i/?T=新视界",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "新港澳台",
-            "type": 0,
-            "url": "http://zz.zoho.to/z/新港",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "M",
-            "type": 0,
-            "url": "http://zoto.3d.tc/i/i/=m.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "DJ舞曲",
-            "type": 0,
-            "url": "http://ok.zoho.to/z/=m",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "酒店",
-            "type": 0,
-            "url": "http://zz.zoho.to//z/=酒店1",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "HKTV",
-            "type": 0,
-            "url": "http://txt.gt.tc/users/HKTV.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
+
 
         {
             "name": "Mursor-IPTV",
