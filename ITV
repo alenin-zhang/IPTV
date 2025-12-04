@@ -39,16 +39,15 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "JACKTV",
+            "name": "小松",
             "type": 0,
-            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+            "url": "http://zz.zoho.to//z/=小松",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "STREAM-LINK[云梯]",
+            "name": "JACKTV",
             "type": 0,
-            "url": "https://www.stream-link.org/playlist.m3u?token=6070ea73-860b-4b4c-8767-23eae2498663&hmac=b08f068b599ac7c0ce86074f3504af70",
-            "ua": "SYTV/1.6",
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -86,7 +85,13 @@
             "playerType": 2
         },
 
-
+        {
+            "name": "STREAM-LINK[云梯]",
+            "type": 0,
+            "url": "https://www.stream-link.org/playlist.m3u?token=6070ea73-860b-4b4c-8767-23eae2498663&hmac=b08f068b599ac7c0ce86074f3504af70",
+            "ua": "SYTV/1.6",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
         {
