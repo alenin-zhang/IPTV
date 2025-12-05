@@ -8,9 +8,10 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "咪咕官源",
+            "name": "咪咕",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "移动ITV",
@@ -27,6 +28,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "组播精选",
+            "type": 0,
+            "url": "https://gitee.com/wgq11/main/raw/tv/live.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "HKTV1",
             "type": 0,
             "url": "http://zz.zoho.to//z/=HKTV",
@@ -36,12 +43,6 @@
             "name": "HKTV2",
             "type": 0,
             "url": "http://txt.gt.tc/users/HKTV.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "小松",
-            "type": 0,
-            "url": "http://zz.zoho.to//z/=小松",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
