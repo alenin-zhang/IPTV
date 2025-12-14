@@ -133,6 +133,18 @@
             "url": "http://ok.zoho.to//i/?T=新视界",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+        {
+            "name": "小丽",
+            "type": 0,
+            "url": "http://zz.zoho.to//z/=小丽",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "SMA",
+            "type": 0,
+            "url": "http://zz.zoho.to//z/=sma",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
 
