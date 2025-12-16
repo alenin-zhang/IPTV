@@ -134,15 +134,15 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小丽",
+            "name": "小松",
             "type": 0,
-            "url": "http://zz.zoho.to//z/=小丽",
+            "url": "http://zz.zoho.to//z/=小松",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "SMA",
+            "name": "CM",
             "type": 0,
-            "url": "http://zz.zoho.to//z/=sma",
+            "url": "http://zz.zoho.to//z/=CM",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
