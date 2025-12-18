@@ -46,6 +46,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "HKTV3",
+            "type": 0,
+            "url": "http://ok.zoho.to//z/=HK",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "JACKTV",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
@@ -133,18 +139,7 @@
             "url": "http://ok.zoho.to//i/?T=新视界",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "小松",
-            "type": 0,
-            "url": "http://zz.zoho.to//z/=小松",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "CM",
-            "type": 0,
-            "url": "http://zz.zoho.to//z/=CM",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
 
 
