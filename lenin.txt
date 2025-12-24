@@ -848,13 +848,26 @@ HOY77,http://hls.168.us.kg/u/77/master.m3u8
 HOY78,http://hls.168.us.kg/u/78/master.m3u8
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW直播,http://hls.168.us.kg/u/331/master.m3u8
-RTHK31,http://hls.168.us.kg/u/31/master.m3u8
 TVB PLUS,http://hls.168.us.kg/u/82/master.m3u8
 TVB翡翠,http://hls.168.us.kg/u/81/master.m3u8
 TVB明珠,http://hls.168.us.kg/u/84/master.m3u8
 TVB无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 VIUTV,http://hls.168.us.kg/u/99/master.m3u8
 VIUTV6,http://hls.168.us.kg/u/96/master.m3u8
+RTHK31,http://hls.168.us.kg/u/31/master.m3u8
+凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+HOY78,http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
+RTHK31,http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8
+RTHK32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
+TVB PLUS,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
+TVB翡翠,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+TVB翡翠,http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
+TVB明珠,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
+TVB无线新闻,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
+VIUTV,http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
+VIUTV6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 台湾频道,#genre#
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
