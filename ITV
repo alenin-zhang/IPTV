@@ -8,12 +8,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "咪咕",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
@@ -34,21 +28,21 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "HKTV1",
+            "name": "海马",
             "type": 0,
-            "url": "http://zz.zoho.to//z/=HKTV",
+            "url": "http://gc.gt.tc/o/i/海马.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "HKTV2",
+            "name": "小美",
             "type": 0,
-            "url": "http://txt.gt.tc/users/HKTV.txt",
+            "url": "http://he.html-5.me/2/i/小美.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "HKTV3",
+            "name": "数字",
             "type": 0,
-            "url": "http://ok.zoho.to//z/=HK",
+            "url": "http://he.html-5.me/2/i/数字.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
