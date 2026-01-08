@@ -59,7 +59,13 @@
       "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&json=true",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
 },
-
+        {
+            "name": "风云TV",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
         {
@@ -81,31 +87,7 @@
         },
 
 
-        {
-            "name": "风云TV",
-            "type": 0,
-            "url": "http://iptv.4666888.xyz/FYTV.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "正儿八经",
-            "type": 0,
-            "url": "http://ys.my.to/i/?T=正儿八经",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "歌曲串串烧",
-            "type": 0,
-            "url": "http://ys.my.to/i/?T=iptv",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "钉钉直播",
-            "type": 0,
-            "url": "http://ys.my.to/i/?T=钉钉直播影视",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
         {
             "name": "新视界",
             "type": 0,
