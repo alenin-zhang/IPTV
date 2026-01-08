@@ -22,12 +22,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "组播精选",
-            "type": 0,
-            "url": "https://gitee.com/wgq11/main/raw/tv/live.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "海马",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/海马.txt",
@@ -40,9 +34,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "数字",
+            "name": "HKTV",
             "type": 0,
-            "url": "http://he.html-5.me/2/i/数字.txt",
+            "url": "http://he.html-5.me/2/i/HKTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -86,21 +80,6 @@
             "playerType": 2
         },
 
-        {
-            "name": "STREAM-LINK[云梯]",
-            "type": 0,
-            "url": "https://www.stream-link.org/playlist.m3u?token=6070ea73-860b-4b4c-8767-23eae2498663&hmac=b08f068b599ac7c0ce86074f3504af70",
-            "ua": "SYTV/1.6",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-
-
-        {
-            "name": "风云天下",
-            "type": 0,
-            "url": "http://z.home.kg//i/?T=风云天下",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
 
         {
             "name": "风云TV",
@@ -112,19 +91,19 @@
         {
             "name": "正儿八经",
             "type": 0,
-            "url": "http://ys.my.to//i/?T=正儿八经",
+            "url": "http://ys.my.to/i/?T=正儿八经",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "歌曲串串烧",
             "type": 0,
-            "url": "http://ys.my.to//i/?T=iptv",
+            "url": "http://ys.my.to/i/?T=iptv",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "钉钉直播",
             "type": 0,
-            "url": "http://zoto.zoho.to//i/?T=钉钉直播影视",
+            "url": "http://ys.my.to/i/?T=钉钉直播影视",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -133,7 +112,12 @@
             "url": "http://ok.zoho.to//i/?T=新视界",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "组播精选",
+            "type": 0,
+            "url": "https://gitee.com/wgq11/main/raw/tv/live.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
 
@@ -186,6 +170,14 @@
             "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
             "timeout": 30,
             "playerType": 2
+        },
+
+        {
+            "name": "STREAM-LINK[云梯]",
+            "type": 0,
+            "url": "https://www.stream-link.org/playlist.m3u?token=6070ea73-860b-4b4c-8767-23eae2498663&hmac=b08f068b599ac7c0ce86074f3504af70",
+            "ua": "SYTV/1.6",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
         {
