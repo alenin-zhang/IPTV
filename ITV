@@ -35,6 +35,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "小芳",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/小芳.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "海马",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/海马.txt",
@@ -44,12 +50,6 @@
             "name": "酷看",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/酷看.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "小芳",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/小芳.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
