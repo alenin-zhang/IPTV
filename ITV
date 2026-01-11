@@ -15,10 +15,23 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "CNTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/CNTV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "CATVOD",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
             "ua": "Goiptv/8.8.8",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "小美",
+            "type": 0,
+            "url": "http://he.html-5.me/2/i/小美.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -28,9 +41,15 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小美",
+            "name": "酷看",
             "type": 0,
-            "url": "http://he.html-5.me/2/i/小美.txt",
+            "url": "http://gc.gt.tc/o/i/酷看.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "小芳",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/小芳.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
