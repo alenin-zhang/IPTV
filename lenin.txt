@@ -899,6 +899,23 @@ HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+TVB 翡翠4K,https://o11.163189.xyz/stream/tvb/fct4k/
+TVB 翡翠,https://o11.163189.xyz/stream/tvb/fct/
+TVB 华丽翡翠(新加坡),https://o11.163189.xyz/stream/live/jade/
+TVB 华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
+TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB 明珠,https://o11.163189.xyz/stream/tvb/mzt/
+TVB 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
+TVB 星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB 星河国语,http://cdn10.163189.xyz/163189/xinghe
+天映经典,http://cdn10.163189.xyz/163189/ccm
+天映经典,https://o11.163189.xyz/stream/live/ccm/
+天映频道,http://cdn10.163189.xyz/163189/typd
+天映频道,https://o11.163189.xyz/stream/live/typd/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro QJ,https://o11.163189.xyz/stream/live/qj/
 台湾频道,#genre#
 TVBS,http://rihou.cc:555/tv/[Hk]tvbS闽南
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
