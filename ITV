@@ -22,6 +22,20 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "SMARTV 1",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "SMARTV 2",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt2.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "CATVOD",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
@@ -239,20 +253,7 @@
             "timeout": 30,
             "playerType": 2
         },
-        {
-            "name": "SMARTV 1",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "SMARTV 2",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt2.txt",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
         {
             "name": "LALIFEIER-IPTV",
