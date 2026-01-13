@@ -29,15 +29,15 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小美",
+            "name": "小妙",
             "type": 0,
-            "url": "http://he.html-5.me/2/i/小美.txt",
+            "url": "http://he.html-5.me/2/i/小妙.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小芳",
+            "name": "星影",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/小芳.txt",
+            "url": "http://gc.gt.tc/o/i/星影.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
