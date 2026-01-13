@@ -29,9 +29,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小妙",
+            "name": "小美",
             "type": 0,
-            "url": "http://he.html-5.me/2/i/小妙.txt",
+            "url": "http://he.html-5.me/2/i/小美.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
