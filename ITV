@@ -49,9 +49,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "星影",
+            "name": "小红",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/星影.txt",
+            "url": "http://gc.gt.tc/o/i/小红.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
