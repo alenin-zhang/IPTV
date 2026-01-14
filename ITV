@@ -43,9 +43,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小美",
+            "name": "IPTVPRO",
             "type": 0,
-            "url": "http://he.html-5.me/2/i/小美.txt",
+            "url": "https://tv123.cc.cd/iptvpro.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
