@@ -49,21 +49,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小怡",
+            "name": "彩旗鸟",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/小怡.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "海马",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/海马.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "酷看",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/酷看.txt",
+            "url": "https://chuxinya.top/f/OMpoFv/CRR.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -111,7 +99,24 @@
             "url": "https://gitee.com/wgq11/main/raw/tv/live.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "小怡",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/小怡.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "海马",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/海马.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "酷看",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/酷看.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
         {
