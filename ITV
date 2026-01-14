@@ -49,9 +49,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小红",
+            "name": "小怡",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/小红.txt",
+            "url": "http://gc.gt.tc/o/i/小怡.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
