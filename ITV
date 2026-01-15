@@ -22,6 +22,20 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "4GTV-166",
+            "type": 0,
+            "url": "http://166.0.199.39:50017/?type=m3u&proxy=true",
+            "ua": "Goiptv/8.8.8",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "4GTV-213",
+            "type": 0,
+            "url": "http://213.210.5.156:2623/?type=m3u&proxy=true",
+            "ua": "Goiptv/8.8.8",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "SMARTV 1",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
