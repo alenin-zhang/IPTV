@@ -15,9 +15,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "CNTV",
+            "name": "咪咕",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/CNTV.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
