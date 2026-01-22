@@ -120,34 +120,11 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
-        {
-            "name": "海马",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/海马.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
         {
             "name": "酷看",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/酷看.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "小怡",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/小怡.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "水中花",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/水中花.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "水中花2",
-            "type": 0,
-            "url": "http://he.html-5.me/2/i/水中花.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -157,15 +134,15 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小艳",
+            "name": "小花",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/小艳.txt",
+            "url": "http://gc.gt.tc/o/i/小花.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小红",
+            "name": "兔子",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/小红.txt",
+            "url": "http://gc.gt.tc/o/i/兔子.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -174,7 +151,6 @@
             "url": "http://gc.gt.tc/o/i/怡红院.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
 
         {
             "name": "Mursor-IPTV",
