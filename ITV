@@ -94,23 +94,18 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "组播1",
+            "name": "组播",
             "type": 0,
             "url": "https://gitee.com/wgq11/main/raw/tv/live.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "组播2",
-            "type": 0,
-            "url": "http://he.html-5.me/2/i/组播源.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
 
         {
-            "name": "酷看",
+            "name": "808",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/酷看.txt",
+            "url": "http://gc.gt.tc/o/i/808.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
