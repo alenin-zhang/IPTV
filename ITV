@@ -26,7 +26,7 @@
             "type": 0,
             "url": "https://t.freetv.fun/m3u/playlist.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        }
+        },
         {
             "name": "4GTV",
             "type": 0,
