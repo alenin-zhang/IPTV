@@ -37,7 +37,7 @@
         {
             "name": "SMARTV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
+            "url": "https://tmxk.pp.ua/smart-cn.m3u",
             "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
@@ -63,7 +63,7 @@
         {
             "name": "HKTV",
             "type": 0,
-            "url": "http://he.html-5.me/2/i/HKTV.txt",
+            "url": "http://gc.gt.tc/o/i/HKTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -107,7 +107,18 @@
         },
 
 
-
+        {
+            "name": "酷马",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/酷马直播.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "酷马2",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/酷马TV.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
         {
             "name": "808",
             "type": 0,
