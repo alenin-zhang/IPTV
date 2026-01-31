@@ -28,6 +28,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "港台TV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "4GTV",
             "type": 0,
             "url": "http://nmk.ioapk.com:5050/?type=m3u&proxy=true",
@@ -120,9 +126,39 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "808",
+            "name": "酷马儿童",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/808.txt",
+            "url": "http://gc.gt.tc/o/i/酷马儿童台.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "中天",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/中天.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "环宇",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/环宇.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "如意",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/如意.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "绿影",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/绿影.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "风云天下",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/风云天下.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
