@@ -80,6 +80,16 @@ CCTV16 4K,http://116.233.38.8:8888/udp/233.18.204.215:5140
 浙江卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.75:4056
 爱上4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.123:4056
 CCTV16 4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.144:4056
+CCTV16 4K,http://171.83.103.119:9999/udp/239.69.1.249:11136
+北京卫视4K,http://171.83.103.119:9999/udp/239.69.2.22:11286
+东方卫视4K,http://171.83.103.119:9999/udp/239.69.2.37:11376
+广东卫视4K,http://171.83.103.119:9999/udp/239.69.2.27:11316
+湖南卫视4K,http://171.83.103.119:9999/udp/239.69.2.34:11358
+江苏卫视4K,http://171.83.103.119:9999/udp/239.69.2.36:11370
+山东卫视4K,http://171.83.103.119:9999/udp/239.69.2.38:11382
+深圳卫视4K,http://171.83.103.119:9999/udp/239.69.2.28:11322
+四川卫视4K,http://171.83.103.119:9999/udp/239.69.2.39:11388
+浙江卫视4K,http://171.83.103.119:9999/udp/239.69.2.35:11364
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
@@ -97,6 +107,7 @@ CCTV4K,http://114.246.181.187:4022/udp/239.3.1.245:2000
 CCTV4K,http://121.226.125.152:7777/udp/239.49.0.82:8000
 CCTV4K,http://www.yahao.host:4022/udp/239.77.0.174:5146
 CCTV4K,http://www.yahao.host:4022/udp/239.77.0.194:5146
+CCTV4K,http://171.83.103.119:9999/udp/239.69.1.111:10304
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV1,http://220.176.218.180:9000/udp/239.252.219.200:5140
