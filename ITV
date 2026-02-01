@@ -114,6 +114,12 @@
 
 
         {
+            "name": "周哥",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/周哥的女人.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "酷马",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/酷马直播.txt",
