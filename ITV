@@ -57,32 +57,13 @@
         {
             "name": "IPTVPRO",
             "type": 0,
-            "url": "https://tv123.cc.cd/iptvpro.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "彩旗鸟",
-            "type": 0,
-            "url": "https://chuxinya.top/f/OMpoFv/CRR.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "HKTV",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/HKTV.txt",
+            "url": "http://hufa.zabc.net:8080/iptvpro.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "JACKTV",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "冰雪TV",
-            "type": 0,
-            "url": "https://bxtv.3a.ink/live.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
     {
@@ -99,18 +80,6 @@
             "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "新视界",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=新视界",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "组播",
-            "type": 0,
-            "url": "https://gitee.com/wgq11/main/raw/tv/live.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
 
 
         {
@@ -120,21 +89,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "酷马",
+            "name": "推流",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/酷马直播.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "酷马2",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/酷马TV.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "酷马儿童",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/酷马儿童台.txt",
+            "url": "http://zo.gt.tc/o/i/推流.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -156,41 +113,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "绿影",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/绿影.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "风云天下",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/风云天下.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "小美",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/小美.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "小花",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/小花.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "兔子",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/兔子.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "怡红院",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/怡红院.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
         {
             "name": "Mursor-IPTV",
