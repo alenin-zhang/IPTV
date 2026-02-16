@@ -118,7 +118,24 @@
             "url": "http://gc.gt.tc/o/i/小美.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "果子狸",
+            "type": 0,
+            "url": "http://zo.gt.tc/o/i/果子狸.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "161",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/161.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "HKTV",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/HKTV.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
         {
             "name": "Mursor-IPTV",
