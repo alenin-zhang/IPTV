@@ -83,18 +83,6 @@
 
 
         {
-            "name": "周哥",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/周哥的女人.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "推流",
-            "type": 0,
-            "url": "http://zo.gt.tc/o/i/推流.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "中天",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/中天.txt",
@@ -110,6 +98,12 @@
             "name": "如意",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/如意.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "AV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/av",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
