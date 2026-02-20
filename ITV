@@ -130,6 +130,25 @@
             "url": "http://gc.gt.tc/c/HKTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+        {
+            "name": "小香",
+            "type": 0,
+            "url": "http://go0.myartsonline.com//i/?T=小香",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "新年快乐",
+            "type": 0,
+            "url": "http://go0.myartsonline.com//i/?T=新年快乐",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "海马儿童台",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/海马儿童台.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+
 
         {
             "name": "Mursor-IPTV",
