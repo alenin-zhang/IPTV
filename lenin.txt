@@ -906,15 +906,15 @@ TVB明珠,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 TVB无线新闻,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
 VIUTV,http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
 VIUTV6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
-TVB 翡翠4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB 翡翠,https://o11.163189.xyz/stream/tvb/fct/
-TVB 华丽翡翠(新加坡),https://o11.163189.xyz/stream/live/jade/
-TVB 华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
+TVB翡翠4K,https://o11.163189.xyz/stream/tvb/fct4k/
+TVB翡翠,https://o11.163189.xyz/stream/tvb/fct/
+TVB华丽翡翠(新加坡),https://o11.163189.xyz/stream/live/jade/
+TVB华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
-TVB 明珠,https://o11.163189.xyz/stream/tvb/mzt/
-TVB 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-TVB 星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB 星河国语,http://cdn10.163189.xyz/163189/xinghe
+TVB明珠,https://o11.163189.xyz/stream/tvb/mzt/
+TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
 天映经典,http://cdn10.163189.xyz/163189/ccm
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映频道,http://cdn10.163189.xyz/163189/typd
@@ -923,10 +923,16 @@ TVB 星河国语,http://cdn10.163189.xyz/163189/xinghe
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/
-TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
+NOW爆谷,http://74.91.26.218:82/live/nowbg.m3u8
+NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
+TVB PLUS,http://74.91.26.218:82/live/j2.m3u8
 TVB翡翠,http://74.91.26.218:82/live/jade.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
+TVB千禧经典,http://74.91.26.218:82/live/tvbjd.m3u8
+TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
+TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
+美亚电影,http://74.91.26.218:82/live/mydy.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
 台湾频道,#genre#
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
@@ -956,6 +962,7 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 国际频道,#genre#
 ABC AUSTRALIA,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 AL JAZEERA,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1709,11 +1716,11 @@ RTHK-31,http://rihou.cc:555/tv/[SX]RTHK-31
 RTHK-32,http://rihou.cc:555/tv/[Cx]RTHK-32
 RTHK-32,http://rihou.cc:555/tv/[PL]RTHK-32
 RTHK-32,http://rihou.cc:555/tv/[SX]RTHK-32
-TVB Plus综合,http://rihou.cc:555/tv/[Bx]Plus综合
-TVB Plus综合,http://rihou.cc:555/tv/[Mt]Plus综合
-TVB Plus综合,http://rihou.cc:555/tv/[PL]Plus综贰
-TVB Plus综合,http://rihou.cc:555/tv/[PL]Plus综合
-TVB Plus综合,http://rihou.cc:555/tv/[SX]Plus综合
+TVBPlus综合,http://rihou.cc:555/tv/[Bx]Plus综合
+TVBPlus综合,http://rihou.cc:555/tv/[Mt]Plus综合
+TVBPlus综合,http://rihou.cc:555/tv/[PL]Plus综贰
+TVBPlus综合,http://rihou.cc:555/tv/[PL]Plus综合
+TVBPlus综合,http://rihou.cc:555/tv/[SX]Plus综合
 TVB北美,http://rihou.cc:555/tv/[PL]无线北贰
 TVB北美,http://rihou.cc:555/tv/[PL]无线北美
 TVB翡翠4K,http://rihou.cc:555/tv/[PL]无线翡4k
