@@ -923,6 +923,10 @@ TVB 星河国语,http://cdn10.163189.xyz/163189/xinghe
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/
+TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
+TVB翡翠,http://74.91.26.218:82/live/jade.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 台湾频道,#genre#
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
@@ -935,6 +939,23 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 中视,rtmp://f13h.mine.nu/sat/tv091
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视少儿,http://74.91.26.218:82/live/ptsse.m3u8
+公视台语,http://74.91.26.218:82/live/ptsty.m3u8
+华视,http://74.91.26.218:82/live/cts.m3u8
+华视教育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
+民视,http://74.91.26.218:82/live/ftv.m3u8
+民视第一,http://74.91.26.218:82/live/ftvdy.m3u8
+民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
+民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
+台视,http://107.150.50.82:81/live/ttv.m3u8
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
+中视,http://74.91.26.218:82/live/ctv.m3u8
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 国际频道,#genre#
 ABC AUSTRALIA,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 AL JAZEERA,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
