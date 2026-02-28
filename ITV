@@ -82,24 +82,7 @@
         },
 
 
-        {
-            "name": "中天",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/中天.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "环宇",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/环宇.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "如意",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/如意.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
         {
             "name": "AV",
             "type": 0,
@@ -109,33 +92,10 @@
         {
             "name": "小美",
             "type": 0,
-            "url": "http://gc.gt.tc/o/i/小美.txt",
+            "url": "http://ok.zoho.to//i/?T=小美",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "果子狸",
-            "type": 0,
-            "url": "http://zo.gt.tc/o/i/果子狸.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "161",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/161.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "HKTV",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/HKTV.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "海马儿童台",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/海马儿童台.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
 
         {
