@@ -1692,6 +1692,10 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 衢州综合,http://122.246.52.213:6868/udp/233.50.202.11:5140
 温州综合,http://122.246.52.213:6868/udp/233.50.201.87:5140
 测试频道,#genre#
+TVBS,http://rihou.cc:555/tv/[Hv]tvbS闽南
+镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 凤凰资讯,http://rihou.cc:555/tv/[Bx]凤凰资讯
@@ -1702,11 +1706,13 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
 凤凰香港,http://rihou.cc:555/tv/[Bx]凤凰香港
 Now爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
+Now爆谷,http://rihou.cc:555/tv/[Hv]Now爆谷
 Now财经,http://rihou.cc:555/tv/[Mt]Now财经
 Now体育,http://rihou.cc:555/tv/[Mt]Now体育
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 Now星影,http://rihou.cc:555/tv/[Bx]Now星影
+Now星影,http://rihou.cc:555/tv/[Hv]Now星影
 Now直播,http://rihou.cc:555/tv/[Mt]Now直播
 pₒₚc电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 RTHK-31,http://rihou.cc:555/tv/[Cx]RTHK-31
@@ -1787,9 +1793,6 @@ VIUTV粤,http://rihou.cc:555/tv/[SX]VIUTV粤
 有线综合,http://rihou.cc:555/tv/[Mt]有线综合
 有线综合国,http://rihou.cc:555/tv/[PL]有线综国
 有线综合粤,http://rihou.cc:555/tv/[PL]有线综合
-镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 广东经济,http://rihou.cc:555/tv/[AtI]广东经济
 广东民生,http://rihou.cc:555/tv/[AtI]广东民生
 广东少儿,http://rihou.cc:555/tv/[AtI]广东少儿
