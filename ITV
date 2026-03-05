@@ -102,9 +102,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "全能看",
+            "name": "酷哒哒",
             "type": 0,
-            "url": "http://ok.zoho.to//i/?T=全能看",
+            "url": "http://ok.zoho.to//i/?T=酷哒哒",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
