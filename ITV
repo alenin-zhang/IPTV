@@ -4,21 +4,18 @@
             "name": "我的IPTV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "咪咕",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -44,7 +41,7 @@
             "name": "SMARTV",
             "type": 0,
             "url": "https://tmxk.pp.ua/smart-cn.m3u",
-            "ua": "okhttp/3.15",
+            "ua": "Goiptv/8.8.8",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -77,7 +74,6 @@
             "name": "风云TV",
             "type": 0,
             "url": "http://iptv.4666888.xyz/FYTV.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -102,12 +98,17 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "酷哒哒",
+            "name": "极速台湾",
             "type": 0,
-            "url": "http://ok.zoho.to//i/?T=酷哒哒",
+            "url": "http://gc.gt.tc/c/极速台湾.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "凤凰台",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=凤凰台",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
         {
             "name": "Mursor-IPTV",
@@ -172,14 +173,12 @@
             "name": "10000电影集",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/10000.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "30000电影集",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/30000.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -187,7 +186,6 @@
             "name": "CCTV4K",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/CCTV4K.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -197,14 +195,12 @@
             "name": "WEBTV中国",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "WEBTV港台",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -250,29 +246,25 @@
         {
             "name": "LALIFEIER-IPTV",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
-            "ua": "okhttp/3.15",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-酒店",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
-            "ua": "okhttp/3.15",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "LALIFEIER-组播",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
-            "ua": "okhttp/3.15",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "网友IPTV",
             "type": 0,
             "url": "http://gm.scvip.net.cn/iptv/iptv.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -297,15 +289,13 @@
             "name": "88KQ体育直播",
             "type": 0,
             "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+            "ua": "okhttp/3.15"
         },
         {
             "name": "52快直播体育",
             "type": 0,
             "url": "http://xg.52sw.top/play/kzb/ty.php",
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+            "ua": "okhttp/3.15"
         },
         {
             "name": "咪咕赛事",
@@ -335,7 +325,6 @@
             "name": "国际IPTV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/IPTV.txt",
-            "ua": "okhttp/3.15",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
