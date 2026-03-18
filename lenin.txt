@@ -859,9 +859,9 @@ CCTV央视台球,http://223.167.125.208:4022/udp/233.18.204.177:5140
 重庆卫视,http://223.167.125.208:4022/udp/233.18.204.100:5140
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 香港频道,#genre#
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
 TVB明珠,https://o11.163189.xyz/stream/tvb/mzt/
 TVB PLUS,http://74.91.26.218:82/live/j2.m3u8
@@ -899,6 +899,7 @@ Astro 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/
+TVB翡翠,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 台湾频道,#genre#
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
 TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
@@ -1381,6 +1382,13 @@ CHC影迷电影,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.240:4056
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 河南移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 河南睛彩中原,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
+峨眉电影4K,http://api.kkhk.itv888.vip:8080/streams/0558bdb0324/index.m3u8
+淘电影,http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8
+重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
+重温经典,http://api.kkhk.itv888.vip:8080/streams/214856d804c/index.m3u8
+CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
+CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
+CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
 音乐频道,#genre#
 Первый Музыкальный,http://hz1.teleport.cc/HLS/HD.m3u8
 Первый Музыкальный,http://rtmp.one.by:1200/
