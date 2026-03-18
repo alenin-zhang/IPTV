@@ -900,7 +900,6 @@ Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/
 台湾频道,#genre#
-TVBS,http://flvhttps-pull-goldendragon.speedws.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuogepfbMv.flv
 TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
 TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
@@ -1722,9 +1721,9 @@ Tnt Sports1,http://iptv.4666888.xyz/iptv2A.php?id=3
 智林体育,http://iptv.4666888.xyz/iptv2A.php?id=5
 测试频道,#genre#
 TVBS,http://rihou.cc:555/tv/[Hv]tvbS闽南
-东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
+东森新闻,http://rihou.cc:555/tv/[Hv]东森新闻
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
-中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+中视新闻,http://rihou.cc:555/tv/[Hv]中视新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -1751,8 +1750,8 @@ VIUTV粤,http://rihou.cc:555/tv/[Cx]VIUTV粤
 邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
 邵氏武侠,http://rihou.cc:555/tv/[FY]邵氏武侠
 邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
-Now爆谷,http://rihou.cc:555/tv/[Hv]Now爆谷
-Now星影,http://rihou.cc:555/tv/[Hv]Now星影
+Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
+Now星影,http://rihou.cc:555/tv/[Hk]Now星影
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 龙华卡通,http://rihou.cc:555/tv/[Pd]龙华卡通
