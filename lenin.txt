@@ -920,10 +920,13 @@ TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222
+今日新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20181
+BBC EARTH,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20279
 CI犯罪调查,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20253
 历史,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20289
 麦哲伦,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20282
 幸福空间居家,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20274
+美亚电影,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20239
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
