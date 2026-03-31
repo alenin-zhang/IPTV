@@ -75,7 +75,30 @@
             "url": "http://iptv.4666888.xyz/FYTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "HKTV",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/HKTV.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "小翠",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=小翠",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "天崖电视",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/天崖电视.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "香花电视",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/香花电视.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
         {
@@ -90,24 +113,11 @@
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/haijiao888.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "小美",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=小美",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "极速台湾",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/极速台湾.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "凤凰台",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=凤凰台",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
+
+
+
+
 
         {
             "name": "Mursor-IPTV",
