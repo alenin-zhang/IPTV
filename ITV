@@ -75,30 +75,7 @@
             "url": "http://iptv.4666888.xyz/FYTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "HKTV",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/HKTV.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "小翠",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=小翠",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "天崖电视",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/天崖电视.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "香花电视",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/香花电视.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
 
         {
@@ -110,10 +87,15 @@
         {
             "name": "海角社区",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/haijiao888.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/FGBLH/fgrjk2/refs/heads/main/haijiao669",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "小翠",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=小翠",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
 
