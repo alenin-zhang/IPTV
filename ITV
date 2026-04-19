@@ -113,12 +113,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小红",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=小红",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "小松4",
             "type": 0,
             "url": "http://ok.zoho.to//i/?T=小松4",
@@ -130,8 +124,18 @@
             "url": "http://ok.zoho.to//i/?T=菜鸟儿童",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
-
+        {
+            "name": "Yes",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=Yes",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "夏玉芬",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/夏玉芬.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
         {
             "name": "Mursor-IPTV",
