@@ -899,6 +899,10 @@ Astro 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/
+凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8 
+凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
 凤凰资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061
 凤凰中文,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060
 凤凰香港,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20065
@@ -911,8 +915,8 @@ TVB PLUS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=200
 NOW新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20082
 台湾频道,#genre#
 BLOOMBERG,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20019
+TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
-TVBS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20188
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190
@@ -920,14 +924,14 @@ TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20210
 东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20175
 非凡新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20179
-寰宇新闻,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
+寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
 镜新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20180
 民视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20177
 三立INEWS,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20170
 台视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20172
 中视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20171
-中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
+中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222
 今日新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20181
