@@ -903,11 +903,16 @@ Astro QJ,https://o11.163189.xyz/stream/live/qj/
 凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
+凤凰中文,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkgBhqPU05spvygdOQVMR-49HfUHqoz3BWysXpY3IcoxaskiJ6HCxNUFEGBHN7J9cHwJfR5qJYrfvRgFxEFVGK3M4e6U8zBBcXQ62XaSa7kUQZiYq5vbmVseM-xEImPe5pGROKnFK232_zwhQVcDCWqJ8GlcYI2uYcWREAj3tlSyt6pugIwt_wjsXByc9jMtMyw.m3u8?u
+凤凰资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u
+凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u
 台湾频道,#genre#
 TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
-TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
+寰宇新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u
+壹新闻,http://8.218.84.3:8885/streams/0gxzjd41Exjr8MCdg0OCIlFsspUXT8B2mKKIDWliu370QTQxvBYAl4Hzi0O1pIa8sJWijPaHoWa-Tk0JS4FtwB8LY3I16l-14fm317yHzzYF_UVIg6U2G8xWoVxazder10uEEZL2ZWIvau3zK-yJ202EAYcaDUUy1Yy9MLkfp4cFKXqhb2RDa6_wIGf3HW2kteaXR-qA8RMcNS1YFUXzcQJ1nCtYfhxM0UCQcpQ1ZzCHwBbTtkhJYjUKkTugBmtEtxRVrDLxkXHzWE_b_Rl3LA.m3u8?u
 TVBS亚洲,http://8.218.84.3:8885/streams/0gxzjd41Exjr8MCdg0OCIlFsspUXT8B2mKKIDWliu370QTQxvBYAl4Hzi0O1pIa8ehImDLu2E6HEaMg_YYEh4EGVUlaZo2Ag48m2LELTYKvj3CpQh9VuhjtGucq3Npt23I2uSSplx0mruabXPPIfzCT9GIMm27_KwMq5NY1lpvRhaY9nrXtqpO-a1ZrjiIEibEwPVmmsgoB2b47C8xZmktyAWORcSPQOpNrFHszSrF5MfGo-tEQtlRtNmplukz3NcMmGyNdPYywQNc8XXIw-5g.m3u8?u
+TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv073&token=https://t.me/GPT_858
 TVBS新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv072&token=https://t.me/GPT_858
@@ -922,7 +927,6 @@ TVBS新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv072&token=https://t.m
 民视新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv13&token=https://t.me/GPT_858
 台视财经,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv056&token=https://t.me/GPT_858
 台视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv051&token=https://t.me/GPT_858
-壹新闻,http://8.218.84.3:8885/streams/0gxzjd41Exjr8MCdg0OCIlFsspUXT8B2mKKIDWliu370QTQxvBYAl4Hzi0O1pIa8sJWijPaHoWa-Tk0JS4FtwB8LY3I16l-14fm317yHzzYF_UVIg6U2G8xWoVxazder10uEEZL2ZWIvau3zK-yJ202EAYcaDUUy1Yy9MLkfp4cFKXqhb2RDa6_wIGf3HW2kteaXR-qA8RMcNS1YFUXzcQJ1nCtYfhxM0UCQcpQ1ZzCHwBbTtkhJYjUKkTugBmtEtxRVrDLxkXHzWE_b_Rl3LA.m3u8?u
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 中天新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
