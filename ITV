@@ -19,16 +19,22 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "CATVOD",
+            "name": "SMARTV",
             "type": 0,
-            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
-            "ua": "okHttp/Mod-1.0.1",
+            "url": "https://ando.eu.org/smart.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "LITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
+            "ua": "okHttp/Mod-1.0.1",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "CATVOD",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
             "ua": "okHttp/Mod-1.0.1",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
@@ -53,7 +59,7 @@
         {
             "name": "欢乐看",
             "type": 0,
-            "url": "http://ezc.xtvantsc.xyz/欢乐看.txt",
+            "url": "https://iptv.707626.xyz/api/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -95,10 +101,9 @@
         {
             "name": "74TV",
             "type": 0,
-            "url": "https://im5k.fun/vip.m3u",
+            "url": "https://iptv.707626.xyz/api/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
 
 
 
