@@ -35,7 +35,6 @@
             "name": "CATVOD",
             "type": 0,
             "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
-            "ua": "okHttp/Mod-1.0.1",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -57,7 +56,7 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "欢乐看",
+            "name": "707626",
             "type": 0,
             "url": "https://iptv.707626.xyz/api/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
@@ -120,23 +119,30 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小翠",
+            "name": "31",
             "type": 0,
-            "url": "http://ok.zoho.to//i/?T=小翠",
+            "url": "http://ok.zoho.to//i/?T=31",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "小松4",
+            "name": "夏天",
             "type": 0,
-            "url": "http://ok.zoho.to//i/?T=小松4",
+            "url": "http://ok.zoho.to//i/?T=夏天",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "菜鸟儿童",
+            "name": "小极",
             "type": 0,
-            "url": "http://ok.zoho.to//i/?T=菜鸟儿童",
+            "url": "http://ok.zoho.to//i/?T=小极",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+        {
+            "name": "夏玉芬",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=夏玉芬",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+
 
 
         {
