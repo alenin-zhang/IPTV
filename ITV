@@ -19,6 +19,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "LU酒店",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/8344/1电信酒店.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "SMARTV",
             "type": 0,
             "url": "https://ando.eu.org/smart.m3u",
@@ -116,24 +122,6 @@
             "name": "海角社区",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/FGBLH/fgrjk2/refs/heads/main/haijiao669",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "31",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=31",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "夏天",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=夏天",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "小极",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=小极",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
