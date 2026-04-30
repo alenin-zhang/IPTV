@@ -33,14 +33,13 @@
         {
             "name": "SMARTV",
             "type": 0,
-            "url": "https://ando.eu.org/smart.m3u",
+            "url": "http://dbmlasvgas.sylu.cc:8080/smt.php",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
             "name": "LITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
-            "ua": "okHttp/Mod-1.0.1",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
