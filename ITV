@@ -43,15 +43,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "CATVOD",
+            "name": "北京地波",
             "type": 0,
-            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "FREETV",
-            "type": 0,
-            "url": "https://t.freetv.fun/m3u/playlist.txt",
+            "url": "http://221.223.181.136:8888/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -64,6 +58,18 @@
             "name": "风云TV",
             "type": 0,
             "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "CATVOD",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "FREETV",
+            "type": 0,
+            "url": "https://t.freetv.fun/m3u/playlist.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
