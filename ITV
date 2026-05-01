@@ -43,9 +43,33 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "OFIII",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/OFIII.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "北京地波",
             "type": 0,
             "url": "http://221.223.181.136:8888/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "浙江地波",
+            "type": 0,
+            "url": "http://183.149.40.16:4343/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "四川地波",
+            "type": 0,
+            "url": "http://nbdx.x3322.net:8888/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "四川地波2",
+            "type": 0,
+            "url": "http://171.223.122.41:4022/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -70,6 +94,12 @@
             "name": "FREETV",
             "type": 0,
             "url": "https://t.freetv.fun/m3u/playlist.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "宝藏直播",
+            "type": 0,
+            "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
