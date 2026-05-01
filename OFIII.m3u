@@ -1,0 +1,302 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTINF:-1 tvg-id="公视金奖台" tvg-name="公视金奖台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="欧飞点播",公视金奖台
+http://85.237.207.150:50007/ofiii13/index.m3u8
+#EXTINF:-1 tvg-id="哆啦Ａ梦台" tvg-name="哆啦Ａ梦台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png"group-title="欧飞点播",哆啦Ａ梦台
+http://85.237.207.150:50007/ofiii22/index.m3u8
+#EXTINF:-1 tvg-id="新哆啦A梦(中文版)" tvg-name="新哆啦A梦(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="欧飞点播",新哆啦A梦(中文版)
+http://85.237.207.150:50007/ofiii23/index.m3u8
+#EXTINF:-1 tvg-id="TVBS食尚玩家" tvg-name="TVBS食尚玩家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="欧飞点播",TVBS食尚玩家
+http://85.237.207.150:50007/ofiii31/index.m3u8
+#EXTINF:-1 tvg-id="东森娱乐台" tvg-name="东森娱乐台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="欧飞点播",东森娱乐台
+http://85.237.207.150:50007/ofiii32/index.m3u8
+#EXTINF:-1 tvg-id="中天亚洲精采台" tvg-name="中天亚洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="欧飞点播",中天亚洲精采台
+http://85.237.207.150:50007/ofiii36/index.m3u8
+#EXTINF:-1 tvg-id="经典剧场" tvg-name="经典剧场" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="欧飞点播",经典剧场
+http://85.237.207.150:50007/ofiii38/index.m3u8
+#EXTINF:-1 tvg-id="Yes娱乐" tvg-name="Yes娱乐" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="欧飞点播",Yes娱乐
+http://85.237.207.150:50007/ofiii47/index.m3u8
+#EXTINF:-1 tvg-id="Focus风采戏剧台" tvg-name="Focus风采戏剧台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="欧飞点播",Focus风采戏剧台
+http://85.237.207.150:50007/ofiii1048/index.m3u8
+#EXTINF:-1 tvg-id="掏掏新闻" tvg-name="掏掏新闻" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="欧飞点播",掏掏新闻
+http://85.237.207.150:50007/ofiii50/index.m3u8
+#EXTINF:-1 tvg-id="柯文哲政治风波" tvg-name="柯文哲政治风波" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png" group-title="欧飞点播",柯文哲政治风波
+http://85.237.207.150:50007/ofiii51/index.m3u8
+#EXTINF:-1 tvg-id="国际大小事" tvg-name="国际大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="欧飞点播",国际大小事
+http://85.237.207.150:50007/ofiii55/index.m3u8
+#EXTINF:-1 tvg-id="第1财经" tvg-name="第1财经" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="欧飞点播",第1财经
+http://85.237.207.150:50007/ofiii64/index.m3u8
+#EXTINF:-1 tvg-id="Golden 强片台" tvg-name="Golden 强片台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="欧飞点播",Golden 强片台
+http://85.237.207.150:50007/ofiii70/index.m3u8
+#EXTINF:-1 tvg-id="周星驰台" tvg-name="周星驰台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="欧飞点播",周星驰台
+http://85.237.207.150:50007/ofiii73/index.m3u8
+#EXTINF:-1 tvg-id="欧飞电影台" tvg-name="欧飞电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="欧飞点播",欧飞电影台
+http://85.237.207.150:50007/ofiii74/index.m3u8
+#EXTINF:-1 tvg-id="欧飞动作电影台" tvg-name="欧飞动作电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="欧飞点播",欧飞动作电影台
+http://85.237.207.150:50007/ofiii75/index.m3u8
+#EXTINF:-1 tvg-id="Focus探索新知台" tvg-name="Focus探索新知台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="欧飞点播",Focus探索新知台
+http://85.237.207.150:50007/ofiii82/index.m3u8
+#EXTINF:-1 tvg-id="乡民大学问" tvg-name="乡民大学问" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="欧飞点播",乡民大学问
+http://85.237.207.150:50007/ofiii83/index.m3u8
+#EXTINF:-1 tvg-id="野球名人房" tvg-name="野球名人房" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png" group-title="欧飞点播",野球名人房
+http://85.237.207.150:50007/ofiii84/index.m3u8
+#EXTINF:-1 tvg-id="社会NOW什麽" tvg-name="社会NOW什麽" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="欧飞点播",社会NOW什麽
+http://85.237.207.150:50007/ofiii85/index.m3u8
+#EXTINF:-1 tvg-id="啦啦队独家专访" tvg-name="啦啦队独家专访" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3565_ofiii88_tv_20241205.png" group-title="欧飞点播",啦啦队独家专访
+http://85.237.207.150:50007/ofiii88/index.m3u8
+#EXTINF:-1 tvg-id="泰可爱旋风" tvg-name="泰可爱旋风" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png" group-title="欧飞点播",泰可爱旋风
+http://85.237.207.150:50007/ofiii89/index.m3u8
+#EXTINF:-1 tvg-id="演唱会直击" tvg-name="演唱会直击" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="欧飞点播",演唱会直击
+http://85.237.207.150:50007/ofiii91/index.m3u8
+#EXTINF:-1 tvg-id="健康问良医" tvg-name="健康问良医" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20240731.png" group-title="欧飞点播",健康问良医
+http://85.237.207.150:50007/ofiii92/index.m3u8
+#EXTINF:-1 tvg-id="ASMR行车纪录" tvg-name="ASMR行车纪录" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="欧飞点播",ASMR行车纪录
+http://85.237.207.150:50007/ofiii94/index.m3u8
+#EXTINF:-1 tvg-id="Freeman @台湾" tvg-name="Freeman @台湾" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png" group-title="欧飞点播",Freeman @台湾
+http://85.237.207.150:50007/ofiii95/index.m3u8
+#EXTINF:-1 tvg-id="饕客揪爱吃" tvg-name="饕客揪爱吃" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png" group-title="欧飞点播",饕客揪爱吃
+http://85.237.207.150:50007/ofiii96/index.m3u8
+#EXTINF:-1 tvg-id="人气动漫预告" tvg-name="人气动漫预告" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png" group-title="欧飞点播",人气动漫预告
+http://85.237.207.150:50007/ofiii97/index.m3u8
+#EXTINF:-1 tvg-id="银发聚乐部" tvg-name="银发聚乐部" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" group-title="欧飞点播",银发聚乐部
+http://85.237.207.150:50007/ofiii99/index.m3u8
+#EXTINF:-1 tvg-id="锦绣安宁" tvg-name="锦绣安宁" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png" group-title="欧飞点播",锦绣安宁
+http://85.237.207.150:50007/ofiii100/index.m3u8
+#EXTINF:-1 tvg-id="琅琊榜" tvg-name="琅琊榜" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png" group-title="欧飞点播",琅琊榜
+http://85.237.207.150:50007/ofiii101/index.m3u8
+#EXTINF:-1 tvg-id="扶摇" tvg-name="扶摇" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3355_ofiii102_tv_20240531.png" group-title="欧飞点播",扶摇
+http://85.237.207.150:50007/ofiii102/index.m3u8
+#EXTINF:-1 tvg-id="三国" tvg-name="三国" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png" group-title="欧飞点播",三国
+http://85.237.207.150:50007/ofiii103/index.m3u8
+#EXTINF:-1 tvg-id="武媚娘传奇" tvg-name="武媚娘传奇" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20240731.png" group-title="欧飞点播",武媚娘传奇
+http://85.237.207.150:50007/ofiii104/index.m3u8
+#EXTINF:-1 tvg-id="长乐曲" tvg-name="长乐曲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png" group-title="欧飞点播",长乐曲
+http://85.237.207.150:50007/ofiii105/index.m3u8
+#EXTINF:-1 tvg-id="军师联盟" tvg-name="军师联盟" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png" group-title="欧飞点播",军师联盟
+http://85.237.207.150:50007/ofiii106/index.m3u8
+#EXTINF:-1 tvg-id="军师联盟2 虎啸龙吟" tvg-name="军师联盟2 虎啸龙吟" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20230920.png" group-title="欧飞点播",军师联盟2 虎啸龙吟
+http://85.237.207.150:50007/ofiii107/index.m3u8
+#EXTINF:-1 tvg-id="东宫(完整版)" tvg-name="东宫(完整版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png" group-title="欧飞点播",东宫(完整版)
+http://85.237.207.150:50007/ofiii108/index.m3u8
+#EXTINF:-1 tvg-id="国色芳华" tvg-name="国色芳华" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3692_ofiii108_tv_20250331.png" group-title="欧飞点播",国色芳华
+http://85.237.207.150:50007/ofiii109/index.m3u8
+#EXTINF:-1 tvg-id="楚乔传" tvg-name="楚乔传" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png" group-title="欧飞点播",楚乔传
+http://85.237.207.150:50007/ofiii110/index.m3u8
+#EXTINF:-1 tvg-id="倚天屠龙记 2019" tvg-name="倚天屠龙记 2019" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png" group-title="欧飞点播",倚天屠龙记 2019
+http://85.237.207.150:50007/ofiii111/index.m3u8
+#EXTINF:-1 tvg-id="披荆斩棘的大小姐" tvg-name="披荆斩棘的大小姐" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png" group-title="欧飞点播",披荆斩棘的大小姐
+http://85.237.207.150:50007/ofiii112/index.m3u8
+#EXTINF:-1 tvg-id="步步惊心" tvg-name="步步惊心" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png" group-title="欧飞点播",步步惊心
+http://85.237.207.150:50007/ofiii113/index.m3u8
+#EXTINF:-1 tvg-id="九重紫" tvg-name="九重紫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3630_ofiii114_tv_20250221.png" group-title="欧飞点播",九重紫
+http://85.237.207.150:50007/ofiii114/index.m3u8
+#EXTINF:-1 tvg-id="私藏浪漫" tvg-name="私藏浪漫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png" group-title="欧飞点播",私藏浪漫
+http://85.237.207.150:50007/ofiii115/index.m3u8
+#EXTINF:-1 tvg-id="去有风的地方" tvg-name="去有风的地方" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="欧飞点播",去有风的地方
+http://85.237.207.150:50007/ofiii116/index.m3u8
+#EXTINF:-1 tvg-id="以爱为营" tvg-name="以爱为营" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png" group-title="欧飞点播",以爱为营
+http://85.237.207.150:50007/ofiii117/index.m3u8
+#EXTINF:-1 tvg-id="向风而行" tvg-name="向风而行" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png" group-title="欧飞点播",向风而行
+http://85.237.207.150:50007/ofiii118/index.m3u8
+#EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png" group-title="欧飞点播",以家人之名
+http://85.237.207.150:50007/ofiii119/index.m3u8
+#EXTINF:-1 tvg-id="猎狐" tvg-name="猎狐" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png" group-title="欧飞点播",猎狐
+http://85.237.207.150:50007/ofiii120/index.m3u8
+#EXTINF:-1 tvg-id="好运家" tvg-name="好运家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3599_ofiii121_tv_20250221.png" group-title="欧飞点播",好运家
+http://85.237.207.150:50007/ofiii121/index.m3u8
+#EXTINF:-1 tvg-id="请叫我总监" tvg-name="请叫我总监" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png" group-title="欧飞点播",请叫我总监
+http://85.237.207.150:50007/ofiii122/index.m3u8
+#EXTINF:-1 tvg-id="司藤" tvg-name="司藤" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3513_ofiii123_tv_20241104.png" group-title="欧飞点播",司藤
+http://85.237.207.150:50007/ofiii123/index.m3u8
+#EXTINF:-1 tvg-id="月嫂先生" tvg-name="月嫂先生" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3693_ofiii124_tv_20250331.png" group-title="欧飞点播",月嫂先生
+http://85.237.207.150:50007/ofiii124/index.m3u8
+#EXTINF:-1 tvg-id="猪哥壹级棒" tvg-name="猪哥壹级棒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20250221.png" group-title="欧飞点播",猪哥壹级棒
+http://85.237.207.150:50007/ofiii126/index.m3u8
+#EXTINF:-1 tvg-id="医师好辣" tvg-name="医师好辣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3633_ofiii128_tv_20250221.png" group-title="欧飞点播",医师好辣
+http://85.237.207.150:50007/ofiii128/index.m3u8
+#EXTINF:-1 tvg-id="WTO姐妹会" tvg-name="WTO姐妹会" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png" group-title="欧飞点播",WTO姐妹会
+http://85.237.207.150:50007/ofiii129/index.m3u8
+#EXTINF:-1 tvg-id="综艺玩很大" tvg-name="综艺玩很大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="欧飞点播",综艺玩很大
+http://85.237.207.150:50007/ofiii130/index.m3u8
+#EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="欧飞点播",全民星攻略
+http://85.237.207.150:50007/ofiii131/index.m3u8
+#EXTINF:-1 tvg-id="健康2.0" tvg-name="健康2.0" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3600_ofiii132_tv_20250221.png" group-title="欧飞点播",健康2.0
+http://85.237.207.150:50007/ofiii132/index.m3u8
+#EXTINF:-1 tvg-id=台湾启示录" tvg-name="台湾启示录" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2595_ofiii133_tv_20250221.png" group-title="欧飞点播",台湾启示录
+http://85.237.207.150:50007/ofiii133/index.m3u8
+#EXTINF:-1 tvg-id="法眼黑与白" tvg-name="法眼黑与白" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png" group-title="欧飞点播",法眼黑与白
+http://85.237.207.150:50007/ofiii134/index.m3u8
+#EXTINF:-1 tvg-id="天才冲冲冲" tvg-name="天才冲冲冲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png" group-title="欧飞点播",天才冲冲冲
+http://85.237.207.150:50007/ofiii135/index.m3u8
+#EXTINF:-1 tvg-id="一步一脚印 发现新台湾" tvg-name="一步一脚印 发现新台湾" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3601_ofiii136_tv_20250221.png" group-title="欧飞点播",一步一脚印 发现新台湾
+http://85.237.207.150:50007/ofiii136/index.m3u8
+#EXTINF:-1 tvg-id="女人我最大" tvg-name="女人我最大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png" group-title="欧飞点播",女人我最大
+http://85.237.207.150:50007/ofiii137/index.m3u8
+#EXTINF:-1 tvg-id="看板人物" tvg-name="看板人物" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3602_ofiii138_tv_20250221.png" group-title="欧飞点播",看板人物
+http://85.237.207.150:50007/ofiii138/index.m3u8
+#EXTINF:-1 tvg-id="威廉沈欢乐送" tvg-name="威廉沈欢乐送" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3603_ofiii139_tv_20250221.png" group-title="欧飞点播",威廉沈欢乐送
+http://85.237.207.150:50007/ofiii139/index.m3u8
+#EXTINF:-1 tvg-id=木曜4超玩 一日系列" tvg-name="木曜4超玩 一日系列" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3694_ofiii140_tv_20250331.png" group-title="欧飞点播",木曜4超玩 一日系列
+http://85.237.207.150:50007/ofiii140/index.m3u8
+#EXTINF:-1 tvg-id=一字千金" tvg-name="一字千金" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20250221.png" group-title="欧飞点播",一字千金
+http://85.237.207.150:50007/ofiii142/index.m3u8
+#EXTINF:-1 tvg-id="11点热吵店" tvg-name="11点热吵店" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png" group-title="欧飞点播",11点热吵店
+http://85.237.207.150:50007/ofiii143/index.m3u8
+#EXTINF:-1 tvg-id="回到20岁" tvg-name="回到20岁" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3661_ofiii145_tv_20250305.png" group-title="欧飞点播",回到20岁
+http://85.237.207.150:50007/ofiii145/index.m3u8
+#EXTINF:-1 tvg-id="白雪公主非死不可" tvg-name="白雪公主非死不可" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20250225.png" group-title="欧飞点播",白雪公主非死不可
+http://85.237.207.150:50007/ofiii146/index.m3u8
+#EXTINF:-1 tvg-id="好搭档" tvg-name="好搭档" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20250225.png" group-title="欧飞点播",好搭档
+http://85.237.207.150:50007/ofiii147/index.m3u8
+#EXTINF:-1 tvg-id="头脑共助" tvg-name="头脑共助" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2886_ofiii148_tv_20250225.png" group-title="欧飞点播",头脑共助
+http://85.237.207.150:50007/ofiii148/index.m3u8
+#EXTINF:-1 tvg-id="凌晨两点的灰姑娘" tvg-name="凌晨两点的灰姑娘" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20250225.png" group-title="欧飞点播",凌晨两点的灰姑娘
+http://85.237.207.150:50007/ofiii149/index.m3u8
+#EXTINF:-1 tvg-id="台湾灵异事件" tvg-name="台湾灵异事件" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_ofiii150_tv_20250221.png" group-title="欧飞点播",台湾灵异事件
+http://85.237.207.150:50007/ofiii150/index.m3u8
+#EXTINF:-1 tvg-id="包青天 1993版" tvg-name="包青天 1993版" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20250221.png" group-title="欧飞点播",包青天 1993版
+http://85.237.207.150:50007/ofiii151/index.m3u8
+#EXTINF:-1 tvg-id="我的婆婆怎麽那麽可爱" tvg-name="我的婆婆怎麽那麽可爱" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20250221.png" group-title="欧飞点播",我的婆婆怎麽那麽可爱
+http://85.237.207.150:50007/ofiii152/index.m3u8
+#EXTINF:-1 tvg-id="村里来了个暴走女外科" tvg-name="村里来了个暴走女外科" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20250221.png" group-title="欧飞点播",村里来了个暴走女外科
+http://85.237.207.150:50007/ofiii153/index.m3u8
+#EXTINF:-1 tvg-id="一把青" tvg-name="一把青" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20250221.png" group-title="欧飞点播",一把青
+http://85.237.207.150:50007/ofiii154/index.m3u8
+#EXTINF:-1 tvg-id="茶金" tvg-name="茶金" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_ofiii155_tv_20250221.png" group-title="欧飞点播",茶金
+http://85.237.207.150:50007/ofiii155/index.m3u8
+#EXTINF:-1 tvg-id="苦力" tvg-name="苦力" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20250221.png" group-title="欧飞点播",苦力
+http://85.237.207.150:50007/ofiii156/index.m3u8
+#EXTINF:-1 tvg-id="俗女养成记" tvg-name="俗女养成记" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20250221.png" group-title="欧飞点播",俗女养成记
+http://85.237.207.150:50007/ofiii157/index.m3u8
+#EXTINF:-1 tvg-id="麻醉风暴" tvg-name="麻醉风暴" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20250221.png" group-title="欧飞点播",麻醉风暴
+http://85.237.207.150:50007/ofiii158/index.m3u8
+#EXTINF:-1 tvg-id="虽然等级只有1级但固有技能是最强的" tvg-name="虽然等级只有1级但固有技能是最强的" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3359_ofiii159_tv_20250221.png" group-title="欧飞点播",虽然等级只有1级但固有技能是最强的
+http://85.237.207.150:50007/ofiii159/index.m3u8
+#EXTINF:-1 tvg-id="拥有超常技能的异世界流浪美食家" tvg-name="拥有超常技能的异世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="欧飞点播",拥有超常技能的异世界流浪美食家
+http://85.237.207.150:50007/ofiii160/index.m3u8
+#EXTINF:-1 tvg-id="WIND BREAKER—防风少年—" tvg-name="WIND BREAKER—防风少年—" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3446_ofiii161_tv_20250221.png" group-title="欧飞点播",WIND BREAKER—防风少年—
+http://85.237.207.150:50007/ofiii161/index.m3u8
+#EXTINF:-1 tvg-id="在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～" tvg-name="在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3303_ofiii162_tv_20250221.png" group-title="欧飞点播",在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～
+http://85.237.207.150:50007/ofiii162/index.m3u8
+#EXTINF:-1 tvg-id="第一神拳" tvg-name="第一神拳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3266_ofiii163_tv_20250221.png" group-title="欧飞点播",第一神拳
+http://85.237.207.150:50007/ofiii163/index.m3u8
+#EXTINF:-1 tvg-id="刀剑神域(中文版)" tvg-name="刀剑神域(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3267_ofiii164_tv_20250221.png" group-title="欧飞点播",刀剑神域(中文版)
+http://85.237.207.150:50007/ofiii164/index.m3u8
+#EXTINF:-1 tvg-id="蜡笔小新(中文版)" tvg-name="蜡笔小新(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3079_ofiii165_tv_20250221.png" group-title="欧飞点播",蜡笔小新(中文版)
+http://85.237.207.150:50007/ofiii165/index.m3u8
+#EXTINF:-1 tvg-id="我们这一家" tvg-name="我们这一家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3121_ofiii166_tv_20250221.png" group-title="欧飞点播",我们这一家
+http://85.237.207.150:50007/ofiii166/index.m3u8
+#EXTINF:-1 tvg-id="猎人(中文版)" tvg-name="猎人(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3122_ofiii167_tv_20250221.png" group-title="欧飞点播",猎人(中文版)
+http://85.237.207.150:50007/ofiii167/index.m3u8
+#EXTINF:-1 tvg-id="中华一番(中文版)" tvg-name="中华一番(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3124_ofiii168_tv_20250221.png" group-title="欧飞点播",中华一番(中文版)
+http://85.237.207.150:50007/ofiii168/index.m3u8
+#EXTINF:-1 tvg-id="队长小翼(中文版)" tvg-name="队长小翼(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3125_ofiii169_tv_20250221.png" group-title="欧飞点播",队长小翼(中文版)
+http://85.237.207.150:50007/ofiii169/index.m3u8
+#EXTINF:-1 tvg-id="SPY X FAMILY 间谍家家酒" tvg-name="SPY X FAMILY 间谍家家酒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png" group-title="欧飞点播",SPY X FAMILY 间谍家家酒
+http://85.237.207.150:50007/ofiii170/index.m3u8
+#EXTINF:-1 tvg-id="SPY X FAMILY 间谍家家酒(中文版)" tvg-name="SPY X FAMILY 间谍家家酒(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png" group-title="欧飞点播",SPY X FAMILY 间谍家家酒(中文版)
+http://85.237.207.150:50007/ofiii171/index.m3u8
+#EXTINF:-1 tvg-id="无职转生，到了异世界就拿出真本事" tvg-name="无职转生，到了异世界就拿出真本事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3128_ofiii172_tv_20250221.png" group-title="欧飞点播",无职转生，到了异世界就拿出真本事
+http://85.237.207.150:50007/ofiii172/index.m3u8
+#EXTINF:-1 tvg-id="关於我转生变成史莱姆这档事(国)" tvg-name="关於我转生变成史莱姆这档事(国)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3170_ofiii173_tv_20250221.png" group-title="欧飞点播",关於我转生变成史莱姆这档事(国)
+http://85.237.207.150:50007/ofiii173/index.m3u8
+#EXTINF:-1 tvg-id="夏目友人帐" tvg-name="夏目友人帐" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3171_ofiii174_tv_20250221.png" group-title="欧飞点播",夏目友人帐
+http://85.237.207.150:50007/ofiii174/index.m3u8
+#EXTINF:-1 tvg-id="家庭教师HITMAN REBORN!(中文版)" tvg-name="家庭教师HITMAN REBORN!(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3205_ofiii175_tv_20250221.png" group-title="欧飞点播",家庭教师HITMAN REBORN!(中文版)
+http://85.237.207.150:50007/ofiii175/index.m3u8
+#EXTINF:-1 tvg-id="烘焙王(中文版)" tvg-name="烘焙王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png" group-title="欧飞点播",烘焙王(中文版)
+http://85.237.207.150:50007/ofiii176/index.m3u8
+#EXTINF:-1 tvg-id="钢之链金术师" tvg-name="钢之链金术师" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png" group-title="欧飞点播",钢之链金术师
+http://85.237.207.150:50007/ofiii177/index.m3u8
+#EXTINF:-1 tvg-id="JOJO 的奇妙冒险" tvg-name="JOJO 的奇妙冒险" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3238_ofiii178_tv_20250221.png" group-title="欧飞点播",JOJO 的奇妙冒险
+http://85.237.207.150:50007/ofiii178/index.m3u8
+#EXTINF:-1 tvg-id="葬送的芙莉莲" tvg-name="葬送的芙莉莲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3268_ofiii179_tv_20250221.png" group-title="欧飞点播",葬送的芙莉莲
+http://85.237.207.150:50007/ofiii179/index.m3u8
+#EXTINF:-1 tvg-id="史上最强弟子兼一(中文版)" tvg-name="史上最强弟子兼一(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="欧飞点播",史上最强弟子兼一(中文版)
+http://85.237.207.150:50007/ofiii180/index.m3u8
+#EXTINF:-1 tvg-id="爆漫王(中文版)" tvg-name="爆漫王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="欧飞点播",爆漫王(中文版)
+http://85.237.207.150:50007/ofiii181/index.m3u8
+#EXTINF:-1 tvg-id="忍者乱太郎(中文版)" tvg-name="忍者乱太郎(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="欧飞点播",忍者乱太郎(中文版)
+http://85.237.207.150:50007/ofiii182/index.m3u8
+#EXTINF:-1 tvg-id="胆大党" tvg-name="胆大党" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3604_ofiii183_tv_20250221.png" group-title="欧飞点播",胆大党
+http://85.237.207.150:50007/ofiii183/index.m3u8
+#EXTINF:-1 tvg-id="新忍者哈特利" tvg-name="新忍者哈特利" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3634_ofiii184_tv_20250221.png" group-title="欧飞点播",新忍者哈特利
+http://85.237.207.150:50007/ofiii184/index.m3u8
+#EXTINF:-1 tvg-id="生命的赢家" tvg-name="生命的赢家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" group-title="欧飞点播",生命的赢家
+http://85.237.207.150:50007/ofiii192/index.m3u8
+#EXTINF:-1 tvg-id="海派甜心" tvg-name="海派甜心" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3605_ofiii195_tv_20250225.png" group-title="欧飞点播",海派甜心
+http://85.237.207.150:50007/ofiii195/index.m3u8
+#EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png" group-title="欧飞点播",不良笑花
+http://85.237.207.150:50007/ofiii196/index.m3u8
+#EXTINF:-1 tvg-id="战神" tvg-name="战神" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png" group-title="欧飞点播",战神
+http://85.237.207.150:50007/ofiii197/index.m3u8
+#EXTINF:-1 tvg-id="大新闻大爆卦" tvg-name="大新闻大爆卦" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="欧飞点播",大新闻大爆卦
+http://85.237.207.150:50007/ofiii201/index.m3u8
+#EXTINF:-1 tvg-id="新闻大白话" tvg-name="新闻大白话" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="欧飞点播",新闻大白话
+http://85.237.207.150:50007/ofiii202/index.m3u8
+#EXTINF:-1 tvg-id="文茜的世界周报" tvg-name="文茜的世界周报" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png" group-title="欧飞点播",文茜的世界周报
+http://85.237.207.150:50007/ofiii203/index.m3u8
+#EXTINF:-1 tvg-id="寰宇全视界" tvg-name="寰宇全视界" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png" group-title="欧飞点播",寰宇全视界
+http://85.237.207.150:50007/ofiii204/index.m3u8
+#EXTINF:-1 tvg-id="文茜的世界财经周报" tvg-name="文茜的世界财经周报" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png" group-title="欧飞点播",文茜的世界财经周报
+http://85.237.207.150:50007/ofiii205/index.m3u8
+#EXTINF:-1 tvg-id="环球大战线" tvg-name="环球大战线" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png" group-title="欧飞点播",环球大战线
+http://85.237.207.150:50007/ofiii206/index.m3u8
+#EXTINF:-1 tvg-id="少康战情室" tvg-name="少康战情室" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png" group-title="欧飞点播",少康战情室
+http://85.237.207.150:50007/ofiii207/index.m3u8
+#EXTINF:-1 tvg-id="国民大会" tvg-name="国民大会" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png" group-title="欧飞点播",国民大会
+http://85.237.207.150:50007/ofiii208/index.m3u8
+#EXTINF:-1 tvg-id="电动车时代" tvg-name="电动车时代" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png" group-title="欧飞点播",电动车时代
+http://85.237.207.150:50007/ofiii215/index.m3u8
+#EXTINF:-1 tvg-id="SiCAR爱车酷" tvg-name="SiCAR爱车酷" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png" group-title="欧飞点播",SiCAR爱车酷
+http://85.237.207.150:50007/ofiii216/index.m3u8
+#EXTINF:-1 tvg-id="狂人日志" tvg-name="狂人日志" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png" group-title="欧飞点播",狂人日志
+http://85.237.207.150:50007/ofiii217/index.m3u8
+#EXTINF:-1 tvg-id="脖子解说 Mr. Neck" tvg-name="脖子解说 Mr. Neck" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png" group-title="欧飞点播",脖子解说 Mr. Neck
+http://85.237.207.150:50007/ofiii218/index.m3u8
+#EXTINF:-1 tvg-id="食尚玩家-Hello腹饿代" tvg-name="食尚玩家-Hello腹饿代" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20241211.png" group-title="欧飞点播",食尚玩家-Hello腹饿代
+http://85.237.207.150:50007/ofiii225/index.m3u8
+#EXTINF:-1 tvg-id="食尚玩家-天菜就酱吃" tvg-name="食尚玩家-天菜就酱吃" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_tv_20241211.png" group-title="欧飞点播",食尚玩家-天菜就酱吃
+http://85.237.207.150:50007/ofiii226/index.m3u8
+#EXTINF:-1 tvg-id="食尚玩家-2天1夜go" tvg-name="食尚玩家-2天1夜go" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_tv_20241202.png" group-title="欧飞点播",食尚玩家-2天1夜go
+http://85.237.207.150:50007/ofiii227/index.m3u8
+#EXTINF:-1 tvg-id="食尚玩家-热血48小时" tvg-name="食尚玩家-热血48小时" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_tv_20241202.png" group-title="欧飞点播",食尚玩家-热血48小时
+http://85.237.207.150:50007/ofiii228/index.m3u8
+#EXTINF:-1 tvg-id="食尚玩家-鱼肉乡民" tvg-name="食尚玩家-鱼肉乡民" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3556_ofiii229_tv_20250221.png" group-title="欧飞点播",食尚玩家-鱼肉乡民
+http://85.237.207.150:50007/ofiii229/index.m3u8
+#EXTINF:-1 tvg-id="食尚玩家-疯狂总部" tvg-name="食尚玩家-疯狂总部" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3557_ofiii230_tv_20241202.png" group-title="欧飞点播",食尚玩家-疯狂总部
+http://85.237.207.150:50007/ofiii230/index.m3u8
+#EXTINF:-1 tvg-id="非凡大探索" tvg-name="非凡大探索" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_tv_20241202.png" group-title="欧飞点播",非凡大探索
+http://85.237.207.150:50007/ofiii234/index.m3u8
+#EXTINF:-1 tvg-id="台湾1001个故事" tvg-name="台湾1001个故事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_tv_20241202.png" group-title="欧飞点播",台湾1001个故事
+http://85.237.207.150:50007/ofiii235/index.m3u8
+#EXTINF:-1 tvg-id="詹姆士出走料理" tvg-name="詹姆士出走料理" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20241211.png" group-title="欧飞点播",詹姆士出走料理
+http://85.237.207.150:50007/ofiii236/index.m3u8
+#EXTINF:-1 tvg-id="进击的台湾" tvg-name="进击的台湾" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png" group-title="欧飞点播",进击的台湾
+http://85.237.207.150:50007/ofiii237/index.m3u8
+#EXTINF:-1 tvg-id="世界第一等" tvg-name="世界第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png" group-title="欧飞点播",世界第一等
+http://85.237.207.150:50007/ofiii238/index.m3u8
+#EXTINF:-1 tvg-id="台湾第一等" tvg-name="台湾第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20241211.png" group-title="欧飞点播",台湾第一等
+http://85.237.207.150:50007/ofiii239/index.m3u8
+#EXTINF:-1 tvg-id="溢游未尽" tvg-name="溢游未尽" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png" group-title="欧飞点播",溢游未尽
+http://85.237.207.150:50007/ofiii240/index.m3u8
+#EXTINF:-1 tvg-id="台湾真善美" tvg-name="台湾真善美" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3635_ofiii241_tv_20250221.png" group-title="欧飞点播",台湾真善美
+http://85.237.207.150:50007/ofiii241/index.m3u8
+#EXTINF:-1 tvg-id="请问今晚住谁家" tvg-name="请问今晚住谁家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3636_ofiii242_tv_20250221.png" group-title="欧飞点播",请问今晚住谁家
+http://85.237.207.150:50007/ofiii242/index.m3u8
+#EXTINF:-1 tvg-id="早餐中国" tvg-name="早餐中国" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3664_ofiii243_tv_20250305.png" group-title="欧飞点播",早餐中国
+http://85.237.207.150:50007/ofiii243/index.m3u8
+#EXTINF:-1 tvg-id="溢起趣打卡" tvg-name="溢起趣打卡" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3665_ofiii244_tv_20250305.png" group-title="欧飞点播",溢起趣打卡
+http://85.237.207.150:50007/ofiii244/index.m3u8
+#EXTINF:-1 tvg-id="台湾壹百种味道" tvg-name="台湾壹百种味道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3666_ofiii245_tv_20250305.png" group-title="欧飞点播",台湾壹百种味道
+http://85.237.207.150:50007/ofiii245/index.m3u8
+#EXTINF:-1 tvg-id="纾压雷雨声" tvg-name="纾压雷雨声" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png" group-title="欧飞点播",纾压雷雨声
+http://85.237.207.150:50007/ofiii250/index.m3u8
+#EXTINF:-1 tvg-id="疗癒下雨声" tvg-name="疗癒下雨声" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="欧飞点播",疗癒下雨声
+http://85.237.207.150:50007/ofiii251/index.m3u8
+#EXTINF:-1 tvg-id="放松的爵士午後" tvg-name="放松的爵士午後" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="欧飞点播",放松的爵士午後
+http://85.237.207.150:50007/ofiii252/index.m3u8
+#EXTINF:-1 tvg-id="外烧柴火声" tvg-name="外烧柴火声" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="欧飞点播",野外烧柴火声
+http://85.237.207.150:50007/ofiii253/index.m3u8
+#EXTINF:-1 tvg-id="夏日阳光海浪声" tvg-name="夏日阳光海浪声" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="欧飞点播",夏日阳光海浪声
+http://85.237.207.150:50007/ofiii254/index.m3u8
