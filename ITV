@@ -49,27 +49,57 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "北京地波",
+            "name": "北京rtp2http",
             "type": 0,
             "url": "http://221.223.181.136:8888/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "浙江地波",
+            "name": "浙江rtp2http",
             "type": 0,
             "url": "http://183.149.40.16:4343/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "四川地波",
+            "name": "四川rtp2http1",
             "type": 0,
             "url": "http://nbdx.x3322.net:8888/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "四川地波2",
+            "name": "四川rtp2http2",
             "type": 0,
             "url": "http://171.223.122.41:4022/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "山西rtp2http",
+            "type": 0,
+            "url": "http://111.53.207.132:9898/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "山东rtp2http",
+            "type": 0,
+            "url": "http://124.132.52.92:1234/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "广东rtp2http",
+            "type": 0,
+            "url": "http://156.233.226.200:10086/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "湖北rtp2http",
+            "type": 0,
+            "url": "http://221.232.103.203:3333/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "江苏rtp2http",
+            "type": 0,
+            "url": "http://tv.miaoco.me/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -85,9 +115,39 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "CATVOD",
+            "name": "组播IPTV",
             "type": 0,
-            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "飞越直播1",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/11344/yunduan.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "飞越直播2",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "Itvlist",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "Suxuang",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -301,12 +361,7 @@
             "url": "https://gh-proxy.com/raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "网友IPTV",
-            "type": 0,
-            "url": "http://gm.scvip.net.cn/iptv/iptv.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
         {
       "name": "MQitv",
