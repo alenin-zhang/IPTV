@@ -895,10 +895,6 @@ NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
 天映频道,https://o11.163189.xyz/stream/live/typd/
 卫视电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-Astro 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
 凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8 
 凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
@@ -939,26 +935,30 @@ Astro QJ,https://o11.163189.xyz/stream/live/qj/
 凤凰资讯,http://zqh2333.top:2222/udp/239.94.2.50:5140
 凤凰中文,http://zqh2333.top:2222/udp/239.94.2.51:5140
 凤凰中文,http://zqh2333.top:2222/udp/239.94.2.52:5140
+澳门频道,#genre#
+澳门Macau,https://cdn6.163189.xyz/163189/as
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
+澳视澳门,https://cdn6.163189.xyz/163189/asam
 台湾频道,#genre#
 TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS,http://85.237.207.150:50007/of-4gtv-4gtv073/index.m3u8
-TVBS新闻,http://85.237.207.150:50007/of-4gtv-4gtv072/index.m3u8
+TVBS,http://85.237.207.150:50007/of-media-live073/index.m3u8
+TVBS新闻,http://85.237.207.150:50007/of-media-live072/index.m3u8
+东森财经新闻,http://85.237.207.150:50007/of-4gtv-4gtv153/index.m3u8
 东森新闻,http://85.237.207.150:50007/of-4gtv-4gtv152/index.m3u8
-东森财经,http://85.237.207.150:50007/of-4gtv-4gtv153/index.m3u8
-非凡商业,http://85.237.207.150:50007/of-4gtv-4gtv048/index.m3u8
-非凡新闻,http://85.237.207.150:50007/of-4gtv-4gtv010/index.m3u8
 华视新闻,http://85.237.207.150:50007/of-4gtv-4gtv052/index.m3u8
 寰宇新闻,http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
-寰宇新闻台湾,http://85.237.207.150:50007/of-litv-longturn15/index.m3u8
-镜新闻,http://85.237.207.150:50007/of-4gtv-4gtv075/index.m3u8
+寰宇新闻台湾,http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
+镜电视新闻,http://85.237.207.150:50007/of-4gtv-4gtv075/index.m3u8
 民视新闻,http://85.237.207.150:50007/of-litv-ftv13/index.m3u8
-台视财经,http://85.237.207.150:50007/of-4gtv-4gtv056/index.m3u8
-台视新闻,http://85.237.207.150:50007/of-4gtv-4gtv051/index.m3u8
+三立新闻iNEWS,http://85.237.207.150:50007/of-4gtv-live089/index.m3u8
 中视新闻,http://85.237.207.150:50007/of-4gtv-4gtv074/index.m3u8
 中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
+SBN全球财经,http://85.237.207.150:50007/of-4gtv-live060/index.m3u8
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
